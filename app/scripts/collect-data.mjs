@@ -152,9 +152,9 @@ class GitHubStorage {
   }
 
   async shouldArchiveData(retailer, newData) {
-    // For GitHub Actions, always archive every 6 hours
-    const lastUpdate = new Date(newData.last_updated || new Date());
-    const hour = lastUpdate.getHours();
+    // For GitHub Actions, always archive every 6 hours based on current time
+    const currentTime = new Date();
+    const hour = currentTime.getHours();
     
     // Archive at 00:00, 06:00, 12:00, 18:00 UTC
     return hour % 6 === 0;
@@ -162,50 +162,67 @@ class GitHubStorage {
 }
 
 async function fetchRetailerData(retailer) {
-  try {
-    console.log(`🔄 Fetching from ${retailer.name}...`);
-    
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 30000); // 30 second timeout
-    
-    const response = await fetch(retailer.url, {
-      headers: {
-        'User-Agent': 'UK-Fuel-Tracker/1.0 (GitHub Actions)',
-        'Accept': 'application/json'
-      },
-      signal: controller.signal
-    });
-    
-    clearTimeout(timeout);
+  const maxRetries = 3;
+  let lastError = null;
+  
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      if (attempt === 1) {
+        console.log(`🔄 Fetching from ${retailer.name}...`);
+      } else {
+        console.log(`🔄 Retrying ${retailer.name} (attempt ${attempt}/${maxRetries})...`);
+        // Add delay between retries (2 seconds)
+        await new Promise(resolve => setTimeout(resolve, 2000));
+      }
+      
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 30000); // 30 second timeout
+      
+      const response = await fetch(retailer.url, {
+        headers: {
+          'User-Agent': 'UK-Fuel-Tracker/1.0 (GitHub Actions)',
+          'Accept': 'application/json'
+        },
+        signal: controller.signal
+      });
+      
+      clearTimeout(timeout);
 
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+      }
+
+      const contentType = response.headers.get('content-type');
+      if (!contentType?.includes('application/json')) {
+        throw new Error(`Expected JSON, got ${contentType}`);
+      }
+
+      const data = await response.json();
+      
+      // Validate data structure
+      if (!data.stations || !Array.isArray(data.stations)) {
+        throw new Error('Invalid data format: missing stations array');
+      }
+
+      // Ensure last_updated is set
+      if (!data.last_updated) {
+        data.last_updated = new Date().toISOString();
+      }
+
+      console.log(`✅ ${retailer.name}: ${data.stations.length} stations`);
+      return { retailer: retailer.name, success: true, data, stationCount: data.stations.length };
+      
+    } catch (error) {
+      lastError = error;
+      if (attempt < maxRetries) {
+        console.log(`⚠️  ${retailer.name} attempt ${attempt} failed: ${error.message}`);
+      } else {
+        console.error(`❌ ${retailer.name} failed after ${maxRetries} attempts: ${error.message}`);
+      }
     }
-
-    const contentType = response.headers.get('content-type');
-    if (!contentType?.includes('application/json')) {
-      throw new Error(`Expected JSON, got ${contentType}`);
-    }
-
-    const data = await response.json();
-    
-    // Validate data structure
-    if (!data.stations || !Array.isArray(data.stations)) {
-      throw new Error('Invalid data format: missing stations array');
-    }
-
-    // Ensure last_updated is set
-    if (!data.last_updated) {
-      data.last_updated = new Date().toISOString();
-    }
-
-    console.log(`✅ ${retailer.name}: ${data.stations.length} stations`);
-    return { retailer: retailer.name, success: true, data, stationCount: data.stations.length };
-    
-  } catch (error) {
-    console.error(`❌ ${retailer.name}: ${error.message}`);
-    return { retailer: retailer.name, success: false, error: error.message };
   }
+  
+  return { retailer: retailer.name, success: false, error: lastError.message };
 }
 
 async function main() {
