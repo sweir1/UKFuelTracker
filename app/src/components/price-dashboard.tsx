@@ -10,8 +10,12 @@ interface PriceSummary {
   priceStats: { [key: string]: { min: number; max: number; avg: number; count: number } };
 }
 
+interface StationWithRetailer extends FuelStation {
+  retailer: string;
+}
+
 export default function PriceDashboard() {
-  const [stations, setStations] = useState<FuelStation[]>([]);
+  const [stations, setStations] = useState<StationWithRetailer[]>([]);
   const [summary, setSummary] = useState<PriceSummary | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
