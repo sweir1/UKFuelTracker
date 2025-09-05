@@ -32,6 +32,7 @@ app/.pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
 app/.env*
+!app/.env.example
 
 # vercel
 app/.vercel

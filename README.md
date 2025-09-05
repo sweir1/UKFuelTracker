@@ -199,7 +199,3 @@ This project is open source and available under the MIT License.
 ## ⚠️ Disclaimer
 
 This tool is for informational purposes only. Fuel prices may have delays and should always be verified at the forecourt before purchase. Data is sourced from the CMA temporary pricing scheme and accuracy depends on retailer data quality.
-
----
-
-Built with ❤️ using Next.js, TypeScript, and Vercel.
