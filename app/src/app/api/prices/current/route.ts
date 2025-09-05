@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from 'next/server';
 import { promises as fs } from 'fs';
 import path from 'path';
 import { FuelData, FuelStation } from '@/types/fuel';
+import { GitHubStorage } from '@/lib/github-storage';
 
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
@@ -12,61 +13,113 @@ export async function GET(request: NextRequest) {
   try {
     const currentDataPath = path.join(process.cwd(), 'data', 'current');
     
-    // Check if directory exists
+    // Try to read from local files first, fallback to GitHub
+    let allStations: FuelStation[] = [];
+    let lastUpdated: string | null = null;
+    let dataSource = 'local';
+
     try {
       await fs.access(currentDataPath);
     } catch {
-      return NextResponse.json({
-        message: 'No current price data available',
-        stations: [],
-        summary: { totalStations: 0, lastUpdated: null }
-      });
-    }
-
-    const files = await fs.readdir(currentDataPath);
-    const jsonFiles = files.filter(file => file.endsWith('.json'));
-    
-    if (jsonFiles.length === 0) {
-      return NextResponse.json({
-        message: 'No current price data available',
-        stations: [],
-        summary: { totalStations: 0, lastUpdated: null }
-      });
-    }
-
-    let allStations: FuelStation[] = [];
-    let lastUpdated: string | null = null;
-
-    // Load data from all retailers
-    for (const file of jsonFiles) {
-      const retailerName = path.basename(file, '.json');
-      
-      // Filter by retailer if specified
-      if (retailer && !retailerName.toLowerCase().includes(retailer.toLowerCase())) {
-        continue;
-      }
-
+      // Local data not available, try GitHub
       try {
-        const filePath = path.join(currentDataPath, file);
-        const fileContent = await fs.readFile(filePath, 'utf8');
-        const data: FuelData = JSON.parse(fileContent);
+        const storage = new GitHubStorage();
+        const githubData = await storage.getCurrentData(retailer || undefined);
         
-        if (data.last_updated) {
-          if (!lastUpdated || new Date(data.last_updated) > new Date(lastUpdated)) {
-            lastUpdated = data.last_updated;
+        for (const [retailerName, data] of Object.entries(githubData)) {
+          if (data.last_updated) {
+            if (!lastUpdated || new Date(data.last_updated) > new Date(lastUpdated)) {
+              lastUpdated = data.last_updated;
+            }
           }
+
+          const stationsWithRetailer = data.stations.map(station => ({
+            ...station,
+            retailer: retailerName
+          }));
+
+          allStations.push(...stationsWithRetailer);
         }
 
-        // Add retailer info to each station
-        const stationsWithRetailer = data.stations.map(station => ({
-          ...station,
-          retailer: retailerName
-        }));
-
-        allStations.push(...stationsWithRetailer);
+        dataSource = 'github';
       } catch (error) {
-        console.error(`Error reading ${file}:`, error);
-        continue;
+        console.error('Failed to fetch from GitHub:', error);
+        return NextResponse.json({
+          message: 'No current price data available',
+          stations: [],
+          summary: { totalStations: 0, lastUpdated: null },
+          error: 'Both local and GitHub data sources unavailable'
+        });
+      }
+    }
+
+    // Only try to read local files if we didn't already get data from GitHub
+    if (dataSource === 'local') {
+      const files = await fs.readdir(currentDataPath);
+      const jsonFiles = files.filter(file => file.endsWith('.json'));
+      
+      if (jsonFiles.length === 0) {
+        // Try GitHub as fallback
+        try {
+          const storage = new GitHubStorage();
+          const githubData = await storage.getCurrentData(retailer || undefined);
+          
+          for (const [retailerName, data] of Object.entries(githubData)) {
+            if (data.last_updated) {
+              if (!lastUpdated || new Date(data.last_updated) > new Date(lastUpdated)) {
+                lastUpdated = data.last_updated;
+              }
+            }
+
+            const stationsWithRetailer = data.stations.map(station => ({
+              ...station,
+              retailer: retailerName
+            }));
+
+            allStations.push(...stationsWithRetailer);
+          }
+
+          dataSource = 'github';
+        } catch (error) {
+          return NextResponse.json({
+            message: 'No current price data available',
+            stations: [],
+            summary: { totalStations: 0, lastUpdated: null }
+          });
+        }
+      } else {
+        // Load data from local files
+        for (const file of jsonFiles) {
+          const retailerName = path.basename(file, '.json');
+          
+          // Filter by retailer if specified
+          if (retailer && !retailerName.toLowerCase().includes(retailer.toLowerCase())) {
+            continue;
+          }
+
+          try {
+            const filePath = path.join(currentDataPath, file);
+            const fileContent = await fs.readFile(filePath, 'utf8');
+            const data: FuelData = JSON.parse(fileContent);
+            
+            if (data.last_updated) {
+              if (!lastUpdated || new Date(data.last_updated) > new Date(lastUpdated)) {
+                lastUpdated = data.last_updated;
+              }
+            }
+
+            // Add retailer info to each station
+            const stationsWithRetailer = data.stations.map(station => ({
+              ...station,
+              retailer: retailerName
+            }));
+
+            allStations.push(...stationsWithRetailer);
+          } catch (error) {
+            console.error(`Error reading ${file}:`, error);
+            continue;
+          }
+        }
       }
     }
 
@@ -111,6 +164,7 @@ export async function GET(request: NextRequest) {
       summary: {
         totalStations: filteredStations.length,
         lastUpdated: lastUpdated,
+        dataSource: dataSource,
         priceStats: priceStats,
         filters: {
           retailer: retailer || null,
