@@ -43,8 +43,8 @@ All data sourced from the [CMA temporary pricing scheme](https://www.gov.uk/guid
 
 ### 1. Clone and Install
 ```bash
-git clone <your-repo-url>
-cd fuel-price-tracker/app
+git clone https://github.com/sweir1/UKFuelTracker.git
+cd UKFuelTracker/app
 npm install
 ```
 
