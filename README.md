@@ -19,7 +19,7 @@ Data is collected from 14 major UK fuel retailers:
 - Motor Fuel Group, Rontec, Sainsbury's, SGN, Shell, Tesco
 - Ascona Group, Karan Retail Ltd
 
-All data sourced from the [CMA temporary pricing scheme](https://www.gov.uk/guidance/petrol-station-price-information-regulations).
+All data sourced from the [CMA temporary pricing scheme](https://www.gov.uk/guidance/access-fuel-price-data).
 
 ## 🏗️ Architecture
 
@@ -54,8 +54,8 @@ Copy `.env.example` to `.env.local` and configure:
 ```env
 # GitHub Configuration (required for data storage)
 GITHUB_TOKEN=ghp_your_github_token_here
-GITHUB_OWNER=your-github-username
-GITHUB_REPO=fuel-price-tracker
+GITHUB_OWNER=sweir1
+GITHUB_REPO=UKFuelTracker
 
 # Security (optional)
 CRON_SECRET=your-secret-for-cron-jobs
@@ -134,10 +134,10 @@ data/
    npx vercel --cwd app
    ```
 3. **Set Environment Variables** in Vercel dashboard:
-   - `GITHUB_TOKEN`
-   - `GITHUB_OWNER`
-   - `GITHUB_REPO`
-   - `CRON_SECRET` (optional)
+   - `GITHUB_TOKEN` → Your GitHub personal access token (create from GitHub Settings)
+   - `GITHUB_OWNER` → `sweir1`
+   - `GITHUB_REPO` → `UKFuelTracker`
+   - `CRON_SECRET` → `your-secret-for-cron-jobs` (optional)
 
 4. **Enable GitHub Actions**:
    - Ensure Actions are enabled in repository settings
