@@ -1,0 +1,21 @@
+{
+  "name": "uk-fuel-tracker",
+  "version": 2,
+  "builds": [
+    {
+      "src": "next.config.ts",
+      "use": "@vercel/next"
+    }
+  ],
+  "env": {
+    "GITHUB_TOKEN": "@github_token",
+    "GITHUB_OWNER": "@github_owner",
+    "GITHUB_REPO": "@github_repo",
+    "CRON_SECRET": "@cron_secret"
+  },
+  "functions": {
+    "src/app/api/**/*.ts": {
+      "maxDuration": 30
+    }
+  }
+}

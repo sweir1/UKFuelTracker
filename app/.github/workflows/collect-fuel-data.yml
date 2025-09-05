@@ -1,0 +1,56 @@
+name: Collect Fuel Price Data
+
+on:
+  schedule:
+    # Run every hour at minute 0
+    - cron: '0 * * * *'
+  
+  # Allow manual triggering
+  workflow_dispatch:
+  
+  # Run on push to main for testing
+  push:
+    branches: [ main, master ]
+
+jobs:
+  collect-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        cache-dependency-path: 'app/package-lock.json'
+        
+    - name: Install dependencies
+      run: |
+        cd app
+        npm ci
+        
+    - name: Collect fuel price data
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_OWNER: ${{ github.repository_owner }}
+        GITHUB_REPO: ${{ github.event.repository.name }}
+      run: |
+        cd app
+        node scripts/collect-data.js
+        
+    - name: Create summary
+      if: always()
+      run: |
+        echo "## Fuel Data Collection Summary" >> $GITHUB_STEP_SUMMARY
+        echo "- **Timestamp**: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+        echo "- **Trigger**: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
+        if [ -f collection-log.txt ]; then
+          echo "- **Results**: See job logs for details" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "- **Status**: Check job logs for collection status" >> $GITHUB_STEP_SUMMARY
+        fi
