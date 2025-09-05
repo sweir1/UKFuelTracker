@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-const { Octokit } = require('@octokit/rest');
-const { format } = require('date-fns');
+import { Octokit } from '@octokit/rest';
+import { format } from 'date-fns';
 
 // Retailer configuration
 const RETAILERS = [
@@ -313,7 +313,7 @@ async function main() {
 }
 
 // Only run if this script is executed directly
-if (require.main === module) {
+if (import.meta.url === `file://${process.argv[1]}`) {
   main().catch(error => {
     console.error('❌ Fatal error:', error);
     process.exit(1);
