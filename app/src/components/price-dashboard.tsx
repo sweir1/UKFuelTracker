@@ -135,7 +135,7 @@ export default function PriceDashboard() {
               <p className="text-2xl font-bold text-blue-600">{summary.totalStations.toLocaleString()}</p>
             </div>
             
-            {summary.priceStats[selectedFuel] && (
+            {summary.priceStats && summary.priceStats[selectedFuel] && (
               <>
                 <div className="bg-white p-4 rounded-lg shadow border">
                   <h3 className="text-lg font-semibold text-gray-700">Cheapest {selectedFuel}</h3>
