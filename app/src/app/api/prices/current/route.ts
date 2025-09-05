@@ -14,7 +14,7 @@ export async function GET(request: NextRequest) {
     const currentDataPath = path.join(process.cwd(), 'data', 'current');
     
     // Try to read from local files first, fallback to GitHub
-    let allStations: FuelStation[] = [];
+    const allStations: FuelStation[] = [];
     let lastUpdated: string | null = null;
     let dataSource = 'local';
 
@@ -80,7 +80,7 @@ export async function GET(request: NextRequest) {
           }
 
           dataSource = 'github';
-        } catch (error) {
+        } catch {
           return NextResponse.json({
             message: 'No current price data available',
             stations: [],

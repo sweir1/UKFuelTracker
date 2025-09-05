@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { FuelStation, FuelType } from '@/types/fuel';
 
 interface CheapestStation extends FuelStation {
@@ -36,7 +36,7 @@ export default function CheapestStations() {
     }
   };
 
-  const fetchCheapestStations = async () => {
+  const fetchCheapestStations = useCallback(async () => {
     try {
       setLoading(true);
       setError(null);
@@ -66,13 +66,13 @@ export default function CheapestStations() {
     } finally {
       setLoading(false);
     }
-  };
+  }, [selectedFuel, userLocation, maxDistance, limit]);
 
   useEffect(() => {
     if (userLocation) {
       fetchCheapestStations();
     }
-  }, [userLocation, selectedFuel, maxDistance, limit]);
+  }, [userLocation, selectedFuel, maxDistance, limit, fetchCheapestStations]);
 
   const formatPrice = (price: number) => {
     return `${price.toFixed(1)}p`;
@@ -275,7 +275,7 @@ export default function CheapestStations() {
       {!loading && stations.length === 0 && !error && !userLocation && (
         <div className="text-center p-8">
           <p className="text-gray-600">
-            Click "Get My Location" to find the cheapest fuel stations near you,
+            Click &quot;Get My Location&quot; to find the cheapest fuel stations near you,
             or the data might still be loading.
           </p>
         </div>

@@ -42,9 +42,9 @@ export class GitHubStorage {
         if ('sha' in existing.data) {
           sha = existing.data.sha;
         }
-      } catch (error: any) {
+      } catch (error: unknown) {
         // File doesn't exist, which is fine for new files
-        if (error.status !== 404) {
+        if (error && typeof error === 'object' && 'status' in error && (error as { status: number }).status !== 404) {
           throw error;
         }
       }
@@ -132,8 +132,8 @@ export class GitHubStorage {
       }
 
       return result;
-    } catch (error: any) {
-      if (error.status === 404) {
+    } catch (error: unknown) {
+      if (error && typeof error === 'object' && 'status' in error && (error as { status: number }).status === 404) {
         // data/current directory doesn't exist yet
         return {};
       }
@@ -187,8 +187,8 @@ export class GitHubStorage {
               }
             }
           }
-        } catch (error: any) {
-          if (error.status !== 404) {
+        } catch (error: unknown) {
+          if (error && typeof error === 'object' && 'status' in error && (error as { status: number }).status !== 404) {
             console.error(`Failed to read archive for ${year}/${month}/${day}:`, error);
           }
           continue;

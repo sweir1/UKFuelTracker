@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { FuelStation, FuelType } from '@/types/fuel';
 
 interface PriceSummary {
@@ -18,7 +18,7 @@ export default function PriceDashboard() {
   const [selectedFuel, setSelectedFuel] = useState<FuelType>('E10');
   const [searchPostcode, setSearchPostcode] = useState('');
 
-  const fetchPrices = async () => {
+  const fetchPrices = useCallback(async () => {
     try {
       setLoading(true);
       setError(null);
@@ -43,11 +43,11 @@ export default function PriceDashboard() {
     } finally {
       setLoading(false);
     }
-  };
+  }, [selectedFuel, searchPostcode]);
 
   useEffect(() => {
     fetchPrices();
-  }, []);
+  }, [fetchPrices]);
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();

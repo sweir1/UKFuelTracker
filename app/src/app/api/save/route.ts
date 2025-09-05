@@ -90,7 +90,15 @@ export async function POST(request: NextRequest) {
 
     // Save successful results to GitHub
     try {
-      await storage.saveBulkData(results);
+      const successfulResults = results
+        .filter(result => result.success && result.data)
+        .map(result => ({
+          retailer: result.retailer,
+          data: result.data!,
+          success: result.success
+        }));
+      
+      await storage.saveBulkData(successfulResults);
       console.log('Successfully saved data to GitHub');
     } catch (error) {
       console.error('Failed to save bulk data:', error);

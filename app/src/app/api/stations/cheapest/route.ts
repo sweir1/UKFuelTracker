@@ -38,7 +38,7 @@ export async function GET(request: NextRequest) {
       });
     }
 
-    let allStations: CheapestStation[] = [];
+    const allStations: CheapestStation[] = [];
 
     // Load and combine data from all retailers
     for (const file of jsonFiles) {
