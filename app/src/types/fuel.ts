@@ -12,6 +12,11 @@ export interface FuelStation {
   };
 }
 
+export interface StationWithRetailerAndDistance extends FuelStation {
+  retailer: string;
+  distance?: number;
+}
+
 export interface FuelData {
   last_updated: string;
   stations: FuelStation[];

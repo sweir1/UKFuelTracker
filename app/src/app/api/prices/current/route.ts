@@ -1,14 +1,37 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { promises as fs } from 'fs';
 import path from 'path';
-import { FuelData, FuelStation } from '@/types/fuel';
+import { FuelData, FuelStation, StationWithRetailerAndDistance } from '@/types/fuel';
 import { GitHubStorage } from '@/lib/github-storage';
+
+// Haversine formula to calculate distance between two points in miles
+function calculateDistance(lat1: number, lon1: number, lat2: number, lon2: number): number {
+  const R = 3959; // Earth's radius in miles
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  const a = 
+    Math.sin(dLat/2) * Math.sin(dLat/2) +
+    Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * 
+    Math.sin(dLon/2) * Math.sin(dLon/2);
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+  return R * c;
+}
 
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
   const retailer = searchParams.get('retailer');
   const fuelType = searchParams.get('fuel_type');
   const postcode = searchParams.get('postcode');
+  const lat = searchParams.get('lat');
+  const lng = searchParams.get('lng');
+  const maxDistance = searchParams.get('max_distance');
+  const minPrice = searchParams.get('min_price');
+  const maxPrice = searchParams.get('max_price');
+  const sortBy = searchParams.get('sort_by') || 'distance';
+  const limit = parseInt(searchParams.get('limit') || '0');
+  
+  // Store postcode location for summary
+  let postcodeLocation: { lat: number; lng: number } | null = null;
   
   try {
     const currentDataPath = path.join(process.cwd(), 'data', 'current');
@@ -133,11 +156,132 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    // Filter by postcode (simple prefix match)
-    if (postcode) {
-      filteredStations = filteredStations.filter(station =>
-        station.postcode.toLowerCase().startsWith(postcode.toLowerCase().replace(/\s+/g, ''))
-      );
+    // Convert postcode to coordinates for distance-based search
+    if (postcode && !lat && !lng) {
+      console.log(`🏷️  Postcode search: converting "${postcode}" to coordinates...`);
+      try {
+        // Use free UK postcode API
+        const postcodeResponse = await fetch(`https://api.postcodes.io/postcodes/${encodeURIComponent(postcode)}`);
+        const postcodeData = await postcodeResponse.json();
+        
+        if (postcodeData.status === 200 && postcodeData.result) {
+          postcodeLocation = {
+            lat: postcodeData.result.latitude,
+            lng: postcodeData.result.longitude
+          };
+          
+          console.log(`📍 Postcode coordinates: ${postcodeLocation.lat}, ${postcodeLocation.lng}`);
+          
+          // Apply distance-based filtering using postcode coordinates
+          const maxDist = maxDistance ? parseFloat(maxDistance) : 15; // Default 15 miles
+          console.log(`🌍 Postcode filter: searching within ${maxDist} miles of ${postcode}`);
+          console.log(`📍 Total stations before distance filter: ${filteredStations.length}`);
+          
+          filteredStations = filteredStations
+            .filter(station => {
+              // Check if station has valid coordinates
+              const hasValidCoords = station.location && 
+                                   station.location.latitude && station.location.longitude && 
+                                   !isNaN(station.location.latitude) && !isNaN(station.location.longitude) &&
+                                   station.location.latitude !== 0 && station.location.longitude !== 0;
+              return hasValidCoords;
+            })
+            .map(station => ({
+              ...station,
+              distance: calculateDistance(postcodeLocation!.lat, postcodeLocation!.lng, station.location.latitude, station.location.longitude)
+            }))
+            .filter(station => {
+              const withinRange = station.distance <= maxDist;
+              return withinRange;
+            });
+          
+          console.log(`📍 Stations within ${maxDist} miles of ${postcode}: ${filteredStations.length}`);
+          if (filteredStations.length > 0) {
+            console.log(`✅ Closest station: ${filteredStations[0].brand} at ${(filteredStations[0] as StationWithRetailerAndDistance).distance?.toFixed(1)} miles`);
+          }
+          
+          // postcodeLocation is now stored in the variable declared at the top
+          
+        } else {
+          console.log(`❌ Invalid postcode: ${postcode}`);
+          // Fallback to original prefix matching for invalid postcodes
+          filteredStations = filteredStations.filter(station =>
+            station.postcode.toLowerCase().replace(/\s+/g, '').startsWith(postcode.toLowerCase().replace(/\s+/g, ''))
+          );
+        }
+        
+      } catch (error) {
+        console.error(`❌ Error geocoding postcode ${postcode}:`, error);
+        // Fallback to original prefix matching on error
+        filteredStations = filteredStations.filter(station =>
+          station.postcode.toLowerCase().replace(/\s+/g, '').startsWith(postcode.toLowerCase().replace(/\s+/g, ''))
+        );
+      }
+    }
+
+    // Filter by location and distance
+    if (lat && lng) {
+      const userLat = parseFloat(lat);
+      const userLng = parseFloat(lng);
+      const maxDist = maxDistance ? parseFloat(maxDistance) : 30; // Default 30 mile radius
+      
+      console.log(`🌍 Location filter: userLat=${userLat}, userLng=${userLng}, maxDist=${maxDist} miles`);
+      console.log(`📍 Total stations before location filter: ${filteredStations.length}`);
+      
+      // Add distance to each station and filter by max distance
+      filteredStations = filteredStations
+        .filter(station => {
+          // Check if station has valid coordinates (not null, undefined, 0, or NaN)
+          const hasValidCoords = station.location && 
+                               station.location.latitude && station.location.longitude && 
+                               !isNaN(station.location.latitude) && !isNaN(station.location.longitude) &&
+                               station.location.latitude !== 0 && station.location.longitude !== 0;
+          if (!hasValidCoords) {
+            console.log(`⚠️  Station ${station.brand} at ${station.postcode} has invalid coordinates: lat=${station.location?.latitude}, lng=${station.location?.longitude}`);
+          }
+          return hasValidCoords;
+        })
+        .map(station => ({
+          ...station,
+          distance: calculateDistance(userLat, userLng, station.location.latitude, station.location.longitude)
+        }))
+        .filter(station => {
+          const withinRange = station.distance <= maxDist;
+          if (!withinRange && station.distance < maxDist * 2) { // Only log if reasonably close
+            console.log(`❌ Station ${station.brand} at ${station.postcode} is ${station.distance.toFixed(1)} miles away (> ${maxDist} miles)`);
+          }
+          return withinRange;
+        });
+        
+      console.log(`📍 Stations after location filter: ${filteredStations.length}`);
+      if (filteredStations.length > 0) {
+        console.log(`✅ Closest station: ${filteredStations[0].brand} at ${(filteredStations[0] as StationWithRetailerAndDistance).distance?.toFixed(1)} miles`);
+      }
+    }
+
+    // Filter by price range
+    if (fuelType && (minPrice || maxPrice)) {
+      const min = minPrice ? parseFloat(minPrice) : 0;
+      const max = maxPrice ? parseFloat(maxPrice) : Infinity;
+      
+      filteredStations = filteredStations.filter(station => {
+        const price = station.prices[fuelType];
+        return price !== undefined && price >= min && price <= max;
+      });
+    }
+
+    // Sort results
+    if (((lat && lng) || postcodeLocation) && sortBy === 'distance') {
+      filteredStations.sort((a, b) => ((a as StationWithRetailerAndDistance).distance || 0) - ((b as StationWithRetailerAndDistance).distance || 0));
+    } else if (fuelType && sortBy === 'price') {
+      filteredStations.sort((a, b) => (a.prices[fuelType] || 0) - (b.prices[fuelType] || 0));
+    } else if (sortBy === 'retailer') {
+      filteredStations.sort((a, b) => (a as StationWithRetailerAndDistance).retailer.localeCompare((b as StationWithRetailerAndDistance).retailer));
+    }
+
+    // Limit results if specified
+    if (limit > 0) {
+      filteredStations = filteredStations.slice(0, limit);
     }
 
     // Calculate summary statistics
@@ -169,7 +313,15 @@ export async function GET(request: NextRequest) {
         filters: {
           retailer: retailer || null,
           fuelType: fuelType || null,
-          postcode: postcode || null
+          postcode: postcode || null,
+          location: lat && lng ? { lat: parseFloat(lat), lng: parseFloat(lng) } : postcodeLocation,
+          maxDistance: maxDistance ? parseFloat(maxDistance) : null,
+          priceRange: {
+            min: minPrice ? parseFloat(minPrice) : null,
+            max: maxPrice ? parseFloat(maxPrice) : null
+          },
+          sortBy: sortBy,
+          limit: limit > 0 ? limit : null
         }
       }
     });
