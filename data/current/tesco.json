@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/09/2025 11:18:26",
+  "last_updated": "22/09/2025 11:19:33",
   "stations": [
     {
       "site_id": "gcx1zhq978t7",
@@ -2697,21 +2697,6 @@
         "E5": 139.9,
         "E10": 130.9,
         "B7": 137.9
-      }
-    },
-    {
-      "site_id": "gcw2xeevqkrc",
-      "brand": "TESCO",
-      "address": "Featherstall Road North Oldham",
-      "postcode": "OL9 6BW",
-      "location": {
-        "latitude": 53.545541,
-        "longitude": -2.125919
-      },
-      "prices": {
-        "E5": 137.9,
-        "E10": 128.9,
-        "B7": 135.9
       }
     },
     {
@@ -7628,20 +7613,6 @@
       "prices": {
         "E5": 130.9,
         "B7": 139.9
-      }
-    },
-    {
-      "site_id": "gcybn2y41ewy",
-      "brand": "TESCO",
-      "address": "Newbottle Street Houghton Le Spring",
-      "postcode": "DH4 4AU",
-      "location": {
-        "latitude": 54.848233,
-        "longitude": -1.474841
-      },
-      "prices": {
-        "E10": 129.9,
-        "B7": 136.9
       }
     },
     {
