@@ -1,5 +1,5 @@
 {
-  "last_updated": "11/10/2025 11:18:40",
+  "last_updated": "12/10/2025 11:18:14",
   "stations": [
     {
       "site_id": "gcx1zhq978t7",
@@ -1858,6 +1858,21 @@
         "E5": 147.9,
         "E10": 137.9,
         "B7": 142.9
+      }
+    },
+    {
+      "site_id": "gcqfw3ykumrr",
+      "brand": "TESCO",
+      "address": "Leicester Street Bedworth",
+      "postcode": "CV12 8SY",
+      "location": {
+        "latitude": 52.481161,
+        "longitude": -1.474379
+      },
+      "prices": {
+        "E5": 141.9,
+        "E10": 132.9,
+        "B7": 138.9
       }
     },
     {
