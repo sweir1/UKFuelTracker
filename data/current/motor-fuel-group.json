@@ -18228,22 +18228,6 @@
       }
     },
     {
-      "site_id": "gcpvf1v81766",
-      "brand": "Morrisons",
-      "address": "MFG Morrisons Borehamwood, Stirling Way, BOREHAMWOOD",
-      "postcode": "WD6 2BT",
-      "location": {
-        "latitude": 51.645373,
-        "longitude": -0.256062
-      },
-      "prices": {
-        "E10": 135.9,
-        "E5": 145.9,
-        "B7": 144.9,
-        "SDV": 154.9
-      }
-    },
-    {
       "site_id": "gcw2nwmvr3ru",
       "brand": "Morrisons",
       "address": "MFG Morrisons Manchester Openshaw, Lime Square, 1 Ashton Old Road, MANCHESTER",
