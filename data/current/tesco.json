@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/10/2025 11:19:46",
+  "last_updated": "23/10/2025 11:18:33",
   "stations": [
     {
       "site_id": "gcx1zhq978t7",
@@ -2547,6 +2547,21 @@
         "E5": 137.9,
         "E10": 128.9,
         "B7": 135.9
+      }
+    },
+    {
+      "site_id": "gcp0mzxs67nz",
+      "brand": "TESCO",
+      "address": "Tesco Extra Brading Road Ryde",
+      "postcode": "PO33 1QS",
+      "location": {
+        "latitude": 50.710891,
+        "longitude": -1.143159
+      },
+      "prices": {
+        "E5": 147.9,
+        "E10": 137.9,
+        "B7": 144.9
       }
     },
     {
@@ -6351,6 +6366,21 @@
         "E5": 145.9,
         "E10": 136.9,
         "B7": 143.9
+      }
+    },
+    {
+      "site_id": "gcw0rr7psu4z",
+      "brand": "TESCO",
+      "address": "Tesco Stores Ltd Crab Tree Lane Atherton Manchester",
+      "postcode": "M46 0AG",
+      "location": {
+        "latitude": 53.522581,
+        "longitude": -2.489569
+      },
+      "prices": {
+        "E5": 137.9,
+        "E10": 128.9,
+        "B7": 135.9
       }
     },
     {
