@@ -3637,9 +3637,9 @@
         "latitude": 51.41015
       },
       "prices": {
-        "E5": 147.9,
-        "E10": 133.9,
-        "B7": 141.9
+        "E5": 14,
+        "E10": 0,
+        "B7": 0
       },
       "site_id": "gcnhrwymf686",
       "postcode": "BS31 1TN",
@@ -3729,8 +3729,8 @@
         "latitude": 50.86785
       },
       "prices": {
-        "E10": 138.9,
-        "B7": 144.9
+        "E10": 0,
+        "B7": 0
       },
       "site_id": "gcpcrk1yeqs8",
       "postcode": "BN7 3JR",
@@ -4125,5 +4125,5 @@
       "brand": "Shell"
     }
   ],
-  "last_updated": "02/11/2025 10:55:03"
+  "last_updated": "03/11/2025 10:55:06"
 }
