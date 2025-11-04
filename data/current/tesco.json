@@ -1,5 +1,5 @@
 {
-  "last_updated": "03/11/2025 11:19:26",
+  "last_updated": "04/11/2025 11:18:21",
   "stations": [
     {
       "site_id": "gcx1zhq978t7",
@@ -3554,6 +3554,21 @@
       }
     },
     {
+      "site_id": "gcqef827wgpn",
+      "brand": "TESCO",
+      "address": "Hawks Green District Centre Hayes Way Cannock",
+      "postcode": "WS12 3YY",
+      "location": {
+        "latitude": 52.692421,
+        "longitude": -1.998869
+      },
+      "prices": {
+        "E5": 139.9,
+        "E10": 130.9,
+        "B7": 139.9
+      }
+    },
+    {
       "site_id": "gcjv99buchcc",
       "brand": "TESCO",
       "address": "Pontymister Industrial Estate Risca Newport",
@@ -3716,6 +3731,21 @@
         "E5": 142.9,
         "E10": 133.9,
         "B7": 140.9
+      }
+    },
+    {
+      "site_id": "gfnw37x05d2b",
+      "brand": "TESCO",
+      "address": "Tesco Castle Road Ellon",
+      "postcode": "AB41 9RY",
+      "location": {
+        "latitude": 57.367871,
+        "longitude": -2.044679
+      },
+      "prices": {
+        "E5": 149.9,
+        "E10": 139.9,
+        "B7": 146.9
       }
     },
     {
