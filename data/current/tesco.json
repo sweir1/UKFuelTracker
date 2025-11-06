@@ -1,5 +1,5 @@
 {
-  "last_updated": "05/11/2025 11:18:22",
+  "last_updated": "06/11/2025 11:19:00",
   "stations": [
     {
       "site_id": "gcx1zhq978t7",
@@ -6215,7 +6215,7 @@
       },
       "prices": {
         "E5": 134.9,
-        "E10": 131.9,
+        "E10": 134.9,
         "B7": 137.9
       }
     },
@@ -6926,21 +6926,6 @@
         "E5": 141.9,
         "E10": 131.9,
         "B7": 138.9
-      }
-    },
-    {
-      "site_id": "gcnmycjz60hn",
-      "brand": "TESCO",
-      "address": "Priory Rd Industrial Estate London Rd Tetbury",
-      "postcode": "GL8 8HZ",
-      "location": {
-        "latitude": 51.642481,
-        "longitude": -2.156319
-      },
-      "prices": {
-        "E5": 147.9,
-        "E10": 137.9,
-        "B7": 144.9
       }
     },
     {
