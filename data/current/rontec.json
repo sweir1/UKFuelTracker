@@ -328,9 +328,9 @@
       },
       "prices": {
         "E5": 147.9,
-        "SDV": 158.9,
+        "SDV": 160.9,
         "E10": 133.9,
-        "B7": 144.9
+        "B7": 146.9
       },
       "site_id": "gcyb9t9rkw59",
       "postcode": "NE16 3BJ",
@@ -404,9 +404,9 @@
       },
       "prices": {
         "E5": 145.9,
-        "SDV": 157.9,
+        "SDV": 155.9,
         "E10": 131.9,
-        "B7": 143.9
+        "B7": 141.9
       },
       "site_id": "gcy8ndsq0qfm",
       "postcode": "DH8 6BE",
@@ -669,9 +669,9 @@
         "latitude": 51.46795
       },
       "prices": {
-        "E5": 153.9,
-        "E10": 138.9,
-        "B7": 147.9
+        "E5": 152.9,
+        "E10": 137.9,
+        "B7": 145.9
       },
       "site_id": "u10hb96qxc78",
       "postcode": "SE3 0DZ",
@@ -2014,8 +2014,8 @@
         "latitude": 54.9763
       },
       "prices": {
-        "E5": 145.9,
-        "E10": 131.9,
+        "E5": 146.9,
+        "E10": 132.9,
         "B7": 139.9
       },
       "site_id": "gcybgbhh1j15",
@@ -2077,9 +2077,9 @@
         "latitude": 51.39734
       },
       "prices": {
-        "SDV": 157.9,
-        "E10": 135.9,
-        "B7": 143.9
+        "SDV": 153.9,
+        "E10": 134.9,
+        "B7": 140.9
       },
       "site_id": "gcphmk851qde",
       "postcode": "RG7 5RT",
@@ -2108,7 +2108,7 @@
         "latitude": 54.54619
       },
       "prices": {
-        "E10": 131.9,
+        "E10": 132.9,
         "B7": 141.9
       },
       "site_id": "gcxn73gf8duc",
@@ -2136,10 +2136,10 @@
         "latitude": 54.95326
       },
       "prices": {
-        "E5": 149.9,
-        "SDV": 159.9,
-        "E10": 135.9,
-        "B7": 145.9
+        "E5": 148.9,
+        "SDV": 157.9,
+        "E10": 134.9,
+        "B7": 143.9
       },
       "site_id": "gcybdgcmuw4k",
       "postcode": "NE8 2QX",
@@ -2263,9 +2263,9 @@
       },
       "prices": {
         "E5": 146.9,
-        "SDV": 158.9,
+        "SDV": 159.9,
         "E10": 132.9,
-        "B7": 144.9
+        "B7": 145.9
       },
       "site_id": "gcjyg6hzq3n9",
       "postcode": "NP7 5PR",
@@ -2687,10 +2687,10 @@
         "latitude": 51.39206
       },
       "prices": {
-        "E5": 152.9,
-        "SDV": 160.9,
-        "E10": 137.9,
-        "B7": 145.9
+        "E5": 149.9,
+        "SDV": 159.9,
+        "E10": 134.9,
+        "B7": 144.9
       },
       "site_id": "gcnk67wuknqg",
       "postcode": "BA1 6PF",
@@ -2934,7 +2934,7 @@
       },
       "prices": {
         "SDV": 153.9,
-        "E10": 135.9,
+        "E10": 134.9,
         "B7": 139.9
       },
       "site_id": "gcjszkhewc13",
@@ -3546,9 +3546,9 @@
         "latitude": 51.5243
       },
       "prices": {
-        "E5": 143.9,
-        "E10": 129.9,
-        "B7": 138.9
+        "E5": 145.9,
+        "E10": 131.9,
+        "B7": 139.9
       },
       "site_id": "u10m4e8wy1xt",
       "postcode": "SS17 9AP",
@@ -3942,10 +3942,10 @@
         "latitude": 51.63301
       },
       "prices": {
-        "E5": 154.9,
-        "SDV": 160.9,
-        "E10": 139.9,
-        "B7": 145.9
+        "E5": 153.9,
+        "SDV": 159.9,
+        "E10": 138.9,
+        "B7": 144.9
       },
       "site_id": "u10j8xt006xt",
       "postcode": "IG9 5UA",
@@ -3974,9 +3974,9 @@
       },
       "prices": {
         "E5": 145.9,
-        "SDV": 154.9,
+        "SDV": 155.9,
         "E10": 131.9,
-        "B7": 140.9
+        "B7": 141.9
       },
       "site_id": "gctbnxret4dz",
       "postcode": "L33 7AN",
@@ -4095,21 +4095,6 @@
     },
     {
       "location": {
-        "longitude": -0.205965,
-        "latitude": 51.1098
-      },
-      "prices": {
-        "E5": 146.9,
-        "E10": 132.9,
-        "B7": 142.9
-      },
-      "site_id": "gcpfg2600tm2",
-      "postcode": "RH10 8BA",
-      "address": "CRAWLEY AVENUE, CRAWLEY, WEST SUSSEX, RH10 8BA",
-      "brand": "Shell"
-    },
-    {
-      "location": {
         "longitude": -0.44415432,
         "latitude": 51.03042096
       },
@@ -4123,7 +4108,22 @@
       "postcode": "RH14 9LY",
       "address": "BILLINGSHURST BUSINESS PARK, STANE STREET, BILLINGSHURST, WEST SUSSEX, RH14 9LY",
       "brand": "Shell"
+    },
+    {
+      "location": {
+        "longitude": -0.205965,
+        "latitude": 51.1098
+      },
+      "prices": {
+        "E5": 146.9,
+        "E10": 132.9,
+        "B7": 142.9
+      },
+      "site_id": "gcpfg2600tm2",
+      "postcode": "RH10 8BA",
+      "address": "CRAWLEY AVENUE, CRAWLEY, WEST SUSSEX, RH10 8BA",
+      "brand": "Shell"
     }
   ],
-  "last_updated": "09/11/2025 10:55:07"
+  "last_updated": "10/11/2025 10:55:05"
 }
