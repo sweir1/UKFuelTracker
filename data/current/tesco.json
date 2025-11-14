@@ -1,5 +1,5 @@
 {
-  "last_updated": "13/11/2025 11:18:25",
+  "last_updated": "14/11/2025 11:19:00",
   "stations": [
     {
       "site_id": "gcx1zhq978t7",
@@ -5861,21 +5861,6 @@
       "prices": {
         "E10": 138.9,
         "B7": 146.9
-      }
-    },
-    {
-      "site_id": "u12d1x0xt9ev",
-      "brand": "TESCO",
-      "address": "Kilverstone Thetford",
-      "postcode": "IP24 2RL",
-      "location": {
-        "latitude": 52.422561,
-        "longitude": 0.769971
-      },
-      "prices": {
-        "E5": 144.9,
-        "E10": 134.9,
-        "B7": 141.9
       }
     },
     {
