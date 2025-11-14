@@ -10576,10 +10576,10 @@
       "site_id": "gcr37k3bs5sn",
       "brand": "Esso",
       "address": "Junction 16, M1- A45 Roundabout, Northampton",
-      "postcode": "NN7 3NF",
+      "postcode": "NN7 3NA",
       "location": {
-        "latitude": 52.230053,
-        "longitude": -1.01873
+        "latitude": 52.230036,
+        "longitude": -1.019178
       },
       "prices": {
         "E10": 136.9,
