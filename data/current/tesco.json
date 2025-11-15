@@ -1,5 +1,5 @@
 {
-  "last_updated": "14/11/2025 11:19:00",
+  "last_updated": "15/11/2025 11:18:55",
   "stations": [
     {
       "site_id": "gcx1zhq978t7",
@@ -4181,21 +4181,6 @@
       }
     },
     {
-      "site_id": "gcnjwd1xjcpk",
-      "brand": "TESCO",
-      "address": "Tesco Stores Ltd Midland Way Thornbury Bristol",
-      "postcode": "BS35 2BS",
-      "location": {
-        "latitude": 51.603991,
-        "longitude": -2.524539
-      },
-      "prices": {
-        "E5": 144.9,
-        "E10": 134.9,
-        "B7": 144.9
-      }
-    },
-    {
       "site_id": "gcpvcgshd3zj",
       "brand": "TESCO",
       "address": "Tesco Stores Ltd Shenley Road Borehamwood",
@@ -5861,6 +5846,21 @@
       "prices": {
         "E10": 138.9,
         "B7": 146.9
+      }
+    },
+    {
+      "site_id": "u12d1x0xt9ev",
+      "brand": "TESCO",
+      "address": "Kilverstone Thetford",
+      "postcode": "IP24 2RL",
+      "location": {
+        "latitude": 52.422561,
+        "longitude": 0.769971
+      },
+      "prices": {
+        "E5": 144.9,
+        "E10": 134.9,
+        "B7": 141.9
       }
     },
     {
@@ -7639,9 +7639,9 @@
         "longitude": -1.551163
       },
       "prices": {
-        "E5": 136.9,
-        "E10": 127.9,
-        "B7": 134.9
+        "E5": 138.9,
+        "E10": 129.9,
+        "B7": 136.9
       }
     },
     {
