@@ -1,5 +1,5 @@
 {
-  "last_updated": "15/11/2025 11:45:07",
+  "last_updated": "16/11/2025 11:45:07",
   "stations": [
     {
       "site_id": "gcxc46cnjv5k",
@@ -91,7 +91,6 @@
         "longitude": -1.56355
       },
       "prices": {
-        "E5": 139.9,
         "E10": 130.9,
         "B7": 140.9,
         "SDV": 149.9
