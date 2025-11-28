@@ -1,5 +1,5 @@
 {
-  "last_updated": "27/11/2025 13:02:05",
+  "last_updated": "28/11/2025 11:00:32",
   "stations": [
     {
       "site_id": "gcnnjmn122t0",
@@ -19,7 +19,7 @@
     },
     {
       "site_id": "gfn1u9t7me1b",
-      "brand": "Shell",
+      "brand": "BP",
       "address": "Cairnie Road, Arbroath",
       "postcode": "DD11 3DZ",
       "location": {
@@ -34,7 +34,7 @@
     },
     {
       "site_id": "gcwf03qw361e",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "262 Barkerend Road, Bradford, West Yorkshire",
       "postcode": "BD3 9BD",
       "location": {
@@ -50,7 +50,7 @@
     },
     {
       "site_id": "u10dgmw07mwr",
-      "brand": "BP",
+      "brand": "SHELL",
       "address": "Brookfield Road, Ashford, Kent",
       "postcode": "TN23 4ES",
       "location": {
@@ -61,6 +61,53 @@
         "E5": 160.9,
         "E10": 139.9,
         "B7": 149.9
+      }
+    },
+    {
+      "site_id": "gcpvsquew6bt",
+      "brand": "SHELL",
+      "address": "45 Russell Lane, Whetstone, London",
+      "postcode": "N20 0BB",
+      "location": {
+        "latitude": 51.6294922,
+        "longitude": -0.1583459
+      },
+      "prices": {
+        "E5": 157.9,
+        "E10": 136.9,
+        "B7": 146.9
+      }
+    },
+    {
+      "site_id": "gcqdhq8m89xz",
+      "brand": "TEXACO",
+      "address": "1704 Pershore Road, Kings Norton, Birmingham",
+      "postcode": "B30 3BH",
+      "location": {
+        "latitude": 52.4194715,
+        "longitude": -1.922232
+      },
+      "prices": {
+        "E5": 155.9,
+        "E10": 134.9,
+        "B7": 144.9,
+        "SDV": 165.9
+      }
+    },
+    {
+      "site_id": "gcpk8he37bef",
+      "brand": "BP",
+      "address": "Bath Road, Calcot, Reading",
+      "postcode": "RG31 7QN",
+      "location": {
+        "latitude": 51.4409525,
+        "longitude": -1.0500581
+      },
+      "prices": {
+        "E5": 157.9,
+        "E10": 136.9,
+        "B7": 143.9,
+        "SDV": 164.9
       }
     },
     {
@@ -80,23 +127,8 @@
       }
     },
     {
-      "site_id": "gcpvsquew6bt",
-      "brand": "BP",
-      "address": "45 Russell Lane, Whetstone, London",
-      "postcode": "N20 0BB",
-      "location": {
-        "latitude": 51.6294922,
-        "longitude": -0.1583459
-      },
-      "prices": {
-        "E5": 157.9,
-        "E10": 136.9,
-        "B7": 145.9
-      }
-    },
-    {
       "site_id": "gcn8u6dpx3vc",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "1154-1158 Ringwood Road, Bear Cross, Bournemouth",
       "postcode": "BH11 9LG",
       "location": {
@@ -111,24 +143,8 @@
       }
     },
     {
-      "site_id": "gcqdhq8m89xz",
-      "brand": "Texaco",
-      "address": "1704 Pershore Road, Kings Norton, Birmingham",
-      "postcode": "B30 3BH",
-      "location": {
-        "latitude": 52.4194715,
-        "longitude": -1.922232
-      },
-      "prices": {
-        "E5": 155.9,
-        "E10": 134.9,
-        "B7": 144.9,
-        "SDV": 165.9
-      }
-    },
-    {
       "site_id": "u101fn9rbmeu",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Bell Farm Road, Uckfield, East Sussex",
       "postcode": "TN22 1BA",
       "location": {
@@ -144,7 +160,7 @@
     },
     {
       "site_id": "gcq3gqgmf5ww",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "21 Kidderminster Road, Bewdley Bridge, Worcestershire",
       "postcode": "DY12 1AQ",
       "location": {
@@ -176,7 +192,7 @@
     },
     {
       "site_id": "gcq3n1fp02qq",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Blackpole Road, Worcester, Worcestershire",
       "postcode": "WR3 8SE",
       "location": {
@@ -192,7 +208,7 @@
     },
     {
       "site_id": "u104s0yrdp7z",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Eridge Road, Crowborough, East Sussex",
       "postcode": "TN6 3HD",
       "location": {
@@ -240,7 +256,7 @@
     },
     {
       "site_id": "gcpujspq0urz",
-      "brand": "Shell",
+      "brand": "SHELL",
       "address": "306-320 Brighton Road, South Croydon, Surrey",
       "postcode": "CR2 6AJ",
       "location": {
@@ -256,7 +272,7 @@
     },
     {
       "site_id": "gcwvpmg7vj38",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Brompton Road, Northallerton, North Yorkshire",
       "postcode": "DL6 2PX",
       "location": {
@@ -301,22 +317,6 @@
       }
     },
     {
-      "site_id": "gcpk8he37bef",
-      "brand": "BP",
-      "address": "Bath Road, Calcot, Reading",
-      "postcode": "RG31 7QN",
-      "location": {
-        "latitude": 51.4409525,
-        "longitude": -1.0500581
-      },
-      "prices": {
-        "E5": 157.9,
-        "E10": 136.9,
-        "B7": 143.9,
-        "SDV": 164.9
-      }
-    },
-    {
       "site_id": "gcvjmm11959f",
       "brand": "BP",
       "address": "215 Merry Street, Motherwell, Lanarkshire",
@@ -334,7 +334,7 @@
     },
     {
       "site_id": "gcrjr4m8k890",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Carlton Hill, Carlton, Nottinghamshire",
       "postcode": "NG4 1BG",
       "location": {
@@ -350,7 +350,7 @@
     },
     {
       "site_id": "gcq2vqh1g7gf",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": " Castle Street, Worcester, Worcestershire",
       "postcode": "WR1 3AD",
       "location": {
@@ -366,7 +366,7 @@
     },
     {
       "site_id": "gcmwd7jn32xz",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Rhyl Road, Denbigh, Conwy",
       "postcode": "LL16 5SU",
       "location": {
@@ -382,7 +382,7 @@
     },
     {
       "site_id": "gcx0917xynv5",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Doncaster Road, Darfield, Barnsley",
       "postcode": "S73 9JG",
       "location": {
@@ -397,7 +397,7 @@
     },
     {
       "site_id": "gcpkgdtvfg1m",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "New Bath Road, Charvil,  Reading, Berkshire",
       "postcode": "RG10 9RL",
       "location": {
@@ -413,7 +413,7 @@
     },
     {
       "site_id": "gcqd5kdjmyyn",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Station Road, Church Hill, Birmingham",
       "postcode": "B31 3UB",
       "location": {
@@ -429,7 +429,7 @@
     },
     {
       "site_id": "gcpvuefzsgq7",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "347 Cockfosters Road, Barnet, London",
       "postcode": "EN4 0JY",
       "location": {
@@ -445,7 +445,7 @@
     },
     {
       "site_id": "gcjjy5s77t2z",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Llangyfelach Road, Treboath, Swansea",
       "postcode": "SA5 9AX",
       "location": {
@@ -455,12 +455,12 @@
       "prices": {
         "E5": 157.9,
         "E10": 136.9,
-        "B7": 148.9
+        "B7": 149.9
       }
     },
     {
       "site_id": "gcvj1rr6detv",
-      "brand": "Coop",
+      "brand": "CO-OP",
       "address": "Blacklaw Drive, East Kilbride, South Lanarkshire ",
       "postcode": "G74 2AG",
       "location": {
@@ -476,7 +476,7 @@
     },
     {
       "site_id": "gcrjr73rugv8",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Westdale Lane, Carlton, Nottingham, Nottinghamshire",
       "postcode": "NG4 3NA",
       "location": {
@@ -492,7 +492,7 @@
     },
     {
       "site_id": "gcpse6ugrhb5",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "186-187  High Street, Egham, Surrey",
       "postcode": "TW20 9ED",
       "location": {
@@ -508,7 +508,7 @@
     },
     {
       "site_id": "u103kxbuveug",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Sedlescombe Road North, Hastings, East Sussex",
       "postcode": "TN37 7PB",
       "location": {
@@ -524,7 +524,7 @@
     },
     {
       "site_id": "gcqe2061wp42",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Cannock Road, Wolverhampton, West Midlands",
       "postcode": "WV10 0RW",
       "location": {
@@ -556,7 +556,7 @@
     },
     {
       "site_id": "gcpvmem8swp9",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "314-322 Seven Sisters Road, Finsbury Park,  Greater London",
       "postcode": "N4 2AP",
       "location": {
@@ -588,7 +588,7 @@
     },
     {
       "site_id": "u10yuhvh13zv",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Frinton Road, Frinton-on-Sea, Essex",
       "postcode": "CO13 0PA",
       "location": {
@@ -604,7 +604,7 @@
     },
     {
       "site_id": "u10rj4xepfms",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Braintree Bypass, Braintree, Essex ",
       "postcode": "CM77 8GG",
       "location": {
@@ -635,7 +635,7 @@
     },
     {
       "site_id": "gcpv03h2np86",
-      "brand": "Shell",
+      "brand": "SHELL",
       "address": "6 Church Road, Hanwell, Middlesex",
       "postcode": "W7 1DH",
       "location": {
@@ -645,8 +645,8 @@
       "prices": {
         "E5": 157.9,
         "E10": 136.9,
-        "B7": 144.9,
-        "SDV": 165.9
+        "B7": 145.9,
+        "SDV": 166.9
       }
     },
     {
@@ -666,7 +666,7 @@
     },
     {
       "site_id": "gcrcw5ge6fqj",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "London Road, St Ives, Cambridgeshire",
       "postcode": "PE27 5EU",
       "location": {
@@ -682,7 +682,7 @@
     },
     {
       "site_id": "gcwbqjx2vw16",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Sheffield Rd, Barnsley, South Yorkshire",
       "postcode": "S70 5XB",
       "location": {
@@ -698,7 +698,7 @@
     },
     {
       "site_id": "gcnm0pygr2pk",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Iron Acton By Pass, Bristol, Avon",
       "postcode": "BS37 9XY",
       "location": {
@@ -730,7 +730,7 @@
     },
     {
       "site_id": "u10hfhuhy73q",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "190-214 Plumstead High Street, London, Greater London",
       "postcode": "SE18 1JH",
       "location": {
@@ -746,7 +746,7 @@
     },
     {
       "site_id": "gcq20cbt10q1",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "The Homend, Ledbury, Herefordshire",
       "postcode": "HR8 1BS",
       "location": {
@@ -762,7 +762,7 @@
     },
     {
       "site_id": "gcjjzsb7n948",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "117-129 Peniel Green Road, Llansamlet, Swansea",
       "postcode": "SA7 9BA",
       "location": {
@@ -794,7 +794,7 @@
     },
     {
       "site_id": "gbuy6x34b09s",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Station Road, Looe, Cornwall",
       "postcode": "PL13 1HN",
       "location": {
@@ -810,7 +810,7 @@
     },
     {
       "site_id": "gcnt2ruyru41",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Crudwell Road, Malmesbury, Wiltshire",
       "postcode": "SN16 9JL",
       "location": {
@@ -826,7 +826,7 @@
     },
     {
       "site_id": "gcq2e3uhc7q5",
-      "brand": "Texaco",
+      "brand": "Valero",
       "address": "214-216 Worcester Road, Malvern, Worcestershire",
       "postcode": "WR14 1AG",
       "location": {
@@ -858,7 +858,7 @@
     },
     {
       "site_id": "u10mksr6ve6y",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "164 Church Road, Benfleet, Essex",
       "postcode": "SS7 4EN",
       "location": {
@@ -866,15 +866,15 @@
         "longitude": 0.5595127
       },
       "prices": {
-        "E5": 158.9,
-        "E10": 137.9,
-        "B7": 148.9,
-        "SDV": 169.9
+        "E5": 159.9,
+        "E10": 138.9,
+        "B7": 149.9,
+        "SDV": 170.9
       }
     },
     {
       "site_id": "gcxq92hvk903",
-      "brand": "Coop",
+      "brand": "CO-OP",
       "address": "Ox Close, Marske Road, Saltburn by the Sea, Cleveland",
       "postcode": "TS12 1NR",
       "location": {
@@ -889,7 +889,7 @@
     },
     {
       "site_id": "gcqdjk4eek17",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "171-173 Maypole Lane, Birmingham",
       "postcode": "B14 4PJ",
       "location": {
@@ -905,7 +905,7 @@
     },
     {
       "site_id": "gbuwf4cqf710",
-      "brand": "BP",
+      "brand": "TEXACO",
       "address": "Victoria Square, Victoria, Roche, St Austell, Cornwall",
       "postcode": "PL26 8LQ",
       "location": {
@@ -921,7 +921,7 @@
     },
     {
       "site_id": "gcpsnzr3h5y8",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "3-5 Esher Road, Hersham , Surrey",
       "postcode": "KT12 4JZ",
       "location": {
@@ -937,7 +937,7 @@
     },
     {
       "site_id": "gfn4xemb6jjt",
-      "brand": "Shell",
+      "brand": "BP",
       "address": "South Esk Filling Station, Bridge Street, Montrose",
       "postcode": "DD10 8AJ",
       "location": {
@@ -953,7 +953,7 @@
     },
     {
       "site_id": "gcqu2qy44c3h",
-      "brand": "Shell",
+      "brand": "SHELL",
       "address": "Newborough Road, Needwood Street, Burton on Trent, Leicester",
       "postcode": "DE13 9PD",
       "location": {
@@ -969,7 +969,7 @@
     },
     {
       "site_id": "gcqzy7t8rp7z",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Herries Road, Sheffield, South Yorkshire",
       "postcode": "S5 8TP",
       "location": {
@@ -985,7 +985,7 @@
     },
     {
       "site_id": "u10ydjudw450",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Old Road, Clacton On Sea, Essex",
       "postcode": "CO15 3LX",
       "location": {
@@ -1015,7 +1015,7 @@
     },
     {
       "site_id": "u107s8mwk8c0",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Sutton Road, Maidstone, Kent",
       "postcode": "ME15 8RB",
       "location": {
@@ -1025,8 +1025,8 @@
       "prices": {
         "E5": 159.9,
         "E10": 138.9,
-        "B7": 146.9,
-        "SDV": 167.9
+        "B7": 147.9,
+        "SDV": 168.9
       }
     },
     {
@@ -1047,7 +1047,7 @@
     },
     {
       "site_id": "gcnjdqmneqs3",
-      "brand": "Texaco",
+      "brand": "Valero",
       "address": "Rakestrow, Chepstow, Gwent",
       "postcode": "NP16 6LF",
       "location": {
@@ -1063,7 +1063,7 @@
     },
     {
       "site_id": "gcnqu5qw2bmy",
-      "brand": "Shell",
+      "brand": "SHELL",
       "address": "121 Bristol Road, Quedgeley, Gloucestershire",
       "postcode": "GL2 4ND",
       "location": {
@@ -1079,7 +1079,7 @@
     },
     {
       "site_id": "gbvqyyd3mmrd",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "147 Torquay Road, Paignton, Devon",
       "postcode": "TQ3 2AG",
       "location": {
@@ -1095,7 +1095,7 @@
     },
     {
       "site_id": "gcreschzcrhz",
-      "brand": "Shell",
+      "brand": "SHELL",
       "address": "30 Scotgate, Stamford, Lincolnshire",
       "postcode": "PE9 2YQ",
       "location": {
@@ -1111,7 +1111,7 @@
     },
     {
       "site_id": "u10j7zryu81v",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "61-63 Eastern Avenue East, Romford, Essex",
       "postcode": "RM1 4SD",
       "location": {
@@ -1143,7 +1143,7 @@
     },
     {
       "site_id": "gcmwht00exqf",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Park Road, Ruthin, Denbighshire",
       "postcode": "LL15 1NB",
       "location": {
@@ -1191,7 +1191,7 @@
     },
     {
       "site_id": "gcjgze5q7yky",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Bridgwater Road, Winscombe, Somerset",
       "postcode": "BS25 1NW",
       "location": {
@@ -1201,13 +1201,13 @@
       "prices": {
         "E5": 156.9,
         "E10": 135.9,
-        "B7": 147.9,
-        "SDV": 168.9
+        "B7": 148.9,
+        "SDV": 169.9
       }
     },
     {
       "site_id": "gcrjnjtqmqd9",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Meadow Lane, Nottingham, Nottinghamshire",
       "postcode": "NG2 3HE",
       "location": {
@@ -1238,7 +1238,7 @@
     },
     {
       "site_id": "gfn080nd3x11",
-      "brand": "Shell",
+      "brand": "SHELL",
       "address": "Bridge Street, St Andrews, Fife",
       "postcode": "KY16 9EX",
       "location": {
@@ -1270,7 +1270,7 @@
     },
     {
       "site_id": "gcjdn8c8px1g",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Longforth Road, Wellington",
       "postcode": "TA21 8RQ",
       "location": {
@@ -1301,7 +1301,7 @@
     },
     {
       "site_id": "gcpvn90068kh",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "77 - 101 The Highway, Shadwell, London",
       "postcode": "E1W 2BN",
       "location": {
@@ -1317,7 +1317,7 @@
     },
     {
       "site_id": "gcpvqm57swuy",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "2 High Road,  Stamford Hill, Greater London",
       "postcode": "N15 6LS",
       "location": {
@@ -1333,7 +1333,7 @@
     },
     {
       "site_id": "gcqrsfx21fme",
-      "brand": "Shell",
+      "brand": "SHELL",
       "address": "Manchester",
       "postcode": "M22 5WX",
       "location": {
@@ -1349,7 +1349,7 @@
     },
     {
       "site_id": "gcq2e3ep8u36",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "285 Worcester Road, Malvern, Worcestershire",
       "postcode": "WR14 1AB",
       "location": {
@@ -1381,7 +1381,7 @@
     },
     {
       "site_id": "gcr5z0wx8hvk",
-      "brand": "Shell",
+      "brand": "SHELL",
       "address": "50/52 Wanlip Road, Syston, Leicester",
       "postcode": "LE7 1PA",
       "location": {
@@ -1397,7 +1397,7 @@
     },
     {
       "site_id": "gcnryfp6zt69",
-      "brand": "Shell",
+      "brand": "SHELL",
       "address": "Mitton Manor Garage, Bredon Road, Tewkesbury, Gloucestershire",
       "postcode": "GL20 5DA",
       "location": {
@@ -1413,7 +1413,7 @@
     },
     {
       "site_id": "gcpvju9kj9kv",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "241 City Road, Islington, London",
       "postcode": "EC1V 1JQ",
       "location": {
@@ -1429,7 +1429,7 @@
     },
     {
       "site_id": "gcx2fp6uc0h5",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "South Parade, Thorne, Doncaster",
       "postcode": "DN8 5DZ",
       "location": {
@@ -1439,8 +1439,8 @@
       "prices": {
         "E5": 154.9,
         "E10": 133.9,
-        "B7": 143.9,
-        "SDV": 164.9
+        "B7": 144.9,
+        "SDV": 165.9
       }
     },
     {
@@ -1461,7 +1461,7 @@
     },
     {
       "site_id": "u10zky98e3hm",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "394 Main Road, Harwich, Essex",
       "postcode": "CO12 4DN",
       "location": {
@@ -1477,7 +1477,7 @@
     },
     {
       "site_id": "gcpsq8w2zp5z",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "66 Hersham Road, Walton on Thames, Surrey",
       "postcode": "KT12 1RZ",
       "location": {
@@ -1493,7 +1493,7 @@
     },
     {
       "site_id": "gcqcspng72t1",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "203 Warwick Road, Kenilworth, Warwickshire",
       "postcode": "CV8 1FB",
       "location": {
@@ -1557,7 +1557,7 @@
     },
     {
       "site_id": "gcnhy24xtbjv",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "19-29 Bell Hill Road, Bristol",
       "postcode": "BS5 7LT",
       "location": {
@@ -1565,8 +1565,8 @@
         "longitude": -2.5341539
       },
       "prices": {
-        "E5": 156.9,
-        "E10": 135.9,
+        "E5": 157.9,
+        "E10": 136.9,
         "B7": 143.9,
         "SDV": 164.9
       }
@@ -1621,7 +1621,7 @@
     },
     {
       "site_id": "  gcny1efvebv0",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "Burford Road, Lechlade, Gloucestershire",
       "postcode": "GL7 3ER",
       "location": {
@@ -1669,7 +1669,7 @@
     },
     {
       "site_id": "gcq6yk092mxk",
-      "brand": "Texaco",
+      "brand": "TEXACO",
       "address": "School Road, Wombourne, Wolverhampton",
       "postcode": "WV59ED",
       "location": {
