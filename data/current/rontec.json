@@ -3022,10 +3022,10 @@
         "latitude": 51.37365
       },
       "prices": {
-        "E5": 155.9,
-        "SDV": 163.9,
-        "E10": 141.9,
-        "B7": 149.9
+        "E5": 153.9,
+        "SDV": 161.9,
+        "E10": 139.9,
+        "B7": 147.9
       },
       "site_id": "gcjurb615n2x",
       "postcode": "BS49 5EB",
@@ -3636,6 +3636,11 @@
         "longitude": -2.47423,
         "latitude": 51.41015
       },
+      "prices": {
+        "E5": 146.9,
+        "E10": 132.9,
+        "B7": 141.9
+      },
       "site_id": "gcnhrwymf686",
       "postcode": "BS31 1TN",
       "address": "BATH ROAD, KEYNSHAM, GLOUCESTERSHIRE, BS31 1TN",
@@ -3677,9 +3682,9 @@
       },
       "prices": {
         "E5": 148.9,
-        "SDV": 159.9,
+        "SDV": 156.9,
         "E10": 134.9,
-        "B7": 148.9
+        "B7": 145.9
       },
       "site_id": "gcx1zuknuvjp",
       "postcode": "YO8 8SQ",
@@ -4120,5 +4125,5 @@
       "brand": "Shell"
     }
   ],
-  "last_updated": "27/11/2025 10:55:06"
+  "last_updated": "28/11/2025 10:55:05"
 }
