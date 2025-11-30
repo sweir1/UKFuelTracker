@@ -1,21 +1,6 @@
 {
-  "last_updated": "29/11/2025 11:18:13",
+  "last_updated": "30/11/2025 11:18:58",
   "stations": [
-    {
-      "site_id": "gcx1zhq978t7",
-      "brand": "TESCO",
-      "address": "Tesco Express Doncaster Road Brayton Selby",
-      "postcode": "YO8 9EG",
-      "location": {
-        "latitude": 53.768681,
-        "longitude": -1.089549
-      },
-      "prices": {
-        "E5": 142.9,
-        "E10": 132.9,
-        "B7": 142.9
-      }
-    },
     {
       "site_id": "gcrjktx96h1j",
       "brand": "TESCO",
