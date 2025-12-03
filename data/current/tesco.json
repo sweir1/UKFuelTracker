@@ -1,5 +1,5 @@
 {
-  "last_updated": "02/12/2025 11:20:59",
+  "last_updated": "03/12/2025 11:35:14",
   "stations": [
     {
       "site_id": "gcx1zhq978t7",
@@ -1228,21 +1228,6 @@
         "E5": 144.9,
         "E10": 134.9,
         "B7": 146.9
-      }
-    },
-    {
-      "site_id": "u129228fecwe",
-      "brand": "TESCO",
-      "address": "St Saviours Interchange Bury St Edmunds",
-      "postcode": "IP32 7JS",
-      "location": {
-        "latitude": 52.254161,
-        "longitude": 0.715311
-      },
-      "prices": {
-        "E5": 139.9,
-        "E10": 130.8,
-        "B7": 139.9
       }
     },
     {
@@ -2547,6 +2532,21 @@
         "E5": 142.9,
         "E10": 133.9,
         "B7": 144.9
+      }
+    },
+    {
+      "site_id": "u10hym29p5s7",
+      "brand": "TESCO",
+      "address": "Cygnet View Lakeside Grays",
+      "postcode": "RM20 1TX",
+      "location": {
+        "latitude": 51.488991,
+        "longitude": 0.275651
+      },
+      "prices": {
+        "E5": 146.9,
+        "E10": 137.9,
+        "B7": 147.9
       }
     },
     {
@@ -5788,6 +5788,21 @@
       }
     },
     {
+      "site_id": "gcw2quuj7f4x",
+      "brand": "TESCO",
+      "address": "Ashton Road Failsworth Manchester",
+      "postcode": "M35 0EJ",
+      "location": {
+        "latitude": 53.508451,
+        "longitude": -2.158649
+      },
+      "prices": {
+        "E5": 141.9,
+        "E10": 132.9,
+        "B7": 140.9
+      }
+    },
+    {
       "site_id": "gcmg8d0xur3q",
       "brand": "TESCO",
       "address": "Mill Lane Welshpool",
@@ -6085,6 +6100,21 @@
       }
     },
     {
+      "site_id": "gcuu3d52vntu",
+      "brand": "TESCO",
+      "address": "West Shaw Street Kilmarnock",
+      "postcode": "KA1 4BS",
+      "location": {
+        "latitude": 55.601971,
+        "longitude": -4.499709
+      },
+      "prices": {
+        "E5": 139.9,
+        "E10": 130.8,
+        "B7": 138.9
+      }
+    },
+    {
       "site_id": "gcjmn8ct8x9g",
       "brand": "TESCO",
       "address": "Brewery Ln Bridgend",
@@ -6127,6 +6157,20 @@
         "E5": 145.9,
         "E10": 136.9,
         "B7": 142.9
+      }
+    },
+    {
+      "site_id": "gcet15pv451m",
+      "brand": "TESCO",
+      "address": "Bridgewater Retail Park Banbridge",
+      "postcode": "BT32 4LF",
+      "location": {
+        "latitude": 54.333761,
+        "longitude": -6.273449
+      },
+      "prices": {
+        "E10": 130.8,
+        "B7": 139.9
       }
     },
     {
@@ -7100,6 +7144,21 @@
         "E5": 149.9,
         "E10": 139.9,
         "B7": 148.9
+      }
+    },
+    {
+      "site_id": "gcmdszbgx2gq",
+      "brand": "TESCO",
+      "address": "Pool Rd Newtown",
+      "postcode": "SY16 1DW",
+      "location": {
+        "latitude": 52.513881,
+        "longitude": -3.305539
+      },
+      "prices": {
+        "E5": 144.9,
+        "E10": 135.9,
+        "B7": 145.9
       }
     },
     {
