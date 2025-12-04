@@ -1,5 +1,5 @@
 {
-  "last_updated": "03/12/2025 11:35:14",
+  "last_updated": "04/12/2025 13:17:42",
   "stations": [
     {
       "site_id": "gcx1zhq978t7",
@@ -74,6 +74,21 @@
         "E5": 145.9,
         "E10": 136.9,
         "B7": 142.9
+      }
+    },
+    {
+      "site_id": "u12gkkueerhy",
+      "brand": "TESCO",
+      "address": "Earlham Rd Earlham Norwich",
+      "postcode": "NR4 7TF",
+      "location": {
+        "latitude": 52.629271,
+        "longitude": 1.247781
+      },
+      "prices": {
+        "E5": 143.9,
+        "E10": 134.9,
+        "B7": 141.9
       }
     },
     {
@@ -1028,6 +1043,21 @@
       "location": {
         "latitude": 51.536311,
         "longitude": 0.070891
+      },
+      "prices": {
+        "E5": 142.9,
+        "E10": 133.9,
+        "B7": 143.9
+      }
+    },
+    {
+      "site_id": "gfnmh5xxbmm0",
+      "brand": "TESCO",
+      "address": "Tesco Service Station Endeavour Drive Arnhall Business Park Westhill",
+      "postcode": "AB32 6UF",
+      "location": {
+        "latitude": 57.149491,
+        "longitude": -2.274839
       },
       "prices": {
         "E5": 142.9,
@@ -2460,6 +2490,21 @@
       }
     },
     {
+      "site_id": "gcqdqwwbwrf9",
+      "brand": "TESCO",
+      "address": "Swan Shopping Centre Coventry Rd Birmingham",
+      "postcode": "B26 1AD",
+      "location": {
+        "latitude": 52.462591,
+        "longitude": -1.814189
+      },
+      "prices": {
+        "E5": 139.9,
+        "E10": 130.8,
+        "B7": 138.9
+      }
+    },
+    {
       "site_id": "u12gw6km88t3",
       "brand": "TESCO",
       "address": "Tesco Stores Ltd Blue Boar Lane Norwich",
@@ -3209,6 +3254,21 @@
       }
     },
     {
+      "site_id": "gcxnhq4br879",
+      "brand": "TESCO",
+      "address": "Parkway Centre Coulby Newham Middlesbrough",
+      "postcode": "TS8 0TJ",
+      "location": {
+        "latitude": 54.525191,
+        "longitude": -1.215379
+      },
+      "prices": {
+        "E5": 141.9,
+        "E10": 132.9,
+        "B7": 142.9
+      }
+    },
+    {
       "site_id": "u103kjytgjct",
       "brand": "TESCO",
       "address": "Church Wood Dr St Leonards-On-Sea",
@@ -3731,6 +3791,21 @@
         "E5": 141.9,
         "E10": 132.9,
         "B7": 138.9
+      }
+    },
+    {
+      "site_id": "gcrd86yx7wfm",
+      "brand": "TESCO",
+      "address": "St. James Road St. James Industrial Estate Corby",
+      "postcode": "NN18 8AL",
+      "location": {
+        "latitude": 52.487091,
+        "longitude": -0.683059
+      },
+      "prices": {
+        "E5": 141.9,
+        "E10": 132.9,
+        "B7": 141.9
       }
     },
     {
