@@ -1,5 +1,5 @@
 {
-  "last_updated": "06/12/2025 11:18:27",
+  "last_updated": "07/12/2025 11:18:55",
   "stations": [
     {
       "site_id": "gcx1zhq978t7",
@@ -2218,21 +2218,6 @@
         "E5": 143.9,
         "E10": 134.9,
         "B7": 142.9
-      }
-    },
-    {
-      "site_id": "u12gjndk1kdt",
-      "brand": "TESCO",
-      "address": "Tesco Stores Ltd Ipswich Road Norwich",
-      "postcode": "NR4 6DZ",
-      "location": {
-        "latitude": 52.595011,
-        "longitude": 1.277561
-      },
-      "prices": {
-        "E5": 144.9,
-        "E10": 135.9,
-        "B7": 141.9
       }
     },
     {
