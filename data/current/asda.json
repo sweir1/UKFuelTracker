@@ -6081,8 +6081,8 @@
       "address": "Narborough Road South, Braunstone",
       "postcode": "LE3 2LL",
       "location": {
-        "latitude": 52.598168,
-        "longitude": -1.176075
+        "latitude": 52.599777,
+        "longitude": -1.177952
       },
       "prices": {
         "E10": 135.9,
@@ -9660,8 +9660,8 @@
       "address": "St Andrews Lane, Spennymoor",
       "postcode": "DL16 6NE",
       "location": {
-        "latitude": 54.700232,
-        "longitude": -1.591857
+        "latitude": 54.699165,
+        "longitude": -1.597972
       },
       "prices": {
         "E10": 133.9,
@@ -10283,8 +10283,8 @@
       "address": "Priestsic Road, Sutton-In-Ashfield",
       "postcode": "NG17 2AH",
       "location": {
-        "latitude": 53.126464,
-        "longitude": -1.258674
+        "latitude": 53.126924,
+        "longitude": -1.261431
       },
       "prices": {
         "E10": 131.7,
