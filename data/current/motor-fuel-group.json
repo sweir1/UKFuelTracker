@@ -9510,6 +9510,22 @@
       }
     },
     {
+      "site_id": "u1271p1ydncw",
+      "brand": "ESSO",
+      "address": "MFG Stone Cross, A10 Bexwell, Downham Market",
+      "postcode": "PE38 0AD",
+      "location": {
+        "latitude": 52.598199,
+        "longitude": 0.397999
+      },
+      "prices": {
+        "E10": 136.9,
+        "E5": 155.9,
+        "B7": 147.9,
+        "SDV": 165.9
+      }
+    },
+    {
       "site_id": "u12453r5h35u",
       "brand": "ESSO",
       "address": "MFG Witcham Toll, Ely Road, Witcham Toll / Ely",
