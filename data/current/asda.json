@@ -41,8 +41,8 @@
       "prices": {
         "E10": 139.9,
         "E5": 155.9,
-        "B7": 149.9,
-        "SDV": 165.9
+        "B7": 146.9,
+        "SDV": 162.9
       }
     },
     {
@@ -146,7 +146,7 @@
         "longitude": -3.78232
       },
       "prices": {
-        "E10": 133.7,
+        "E10": 132.7,
         "B7": 141.7
       }
     },
@@ -285,7 +285,7 @@
       },
       "prices": {
         "E10": 131.7,
-        "B7": 142.7
+        "B7": 140.7
       }
     },
     {
@@ -507,7 +507,7 @@
         "longitude": -4.596262
       },
       "prices": {
-        "E10": 132.7,
+        "E10": 131.7,
         "B7": 138.7
       }
     },
@@ -596,7 +596,7 @@
         "longitude": -5.668741
       },
       "prices": {
-        "E10": 128.9,
+        "E10": 129.9,
         "B7": 133.9
       }
     },
@@ -625,7 +625,7 @@
         "longitude": -1.979179
       },
       "prices": {
-        "E10": 132.7,
+        "E10": 131.7,
         "B7": 140.7
       }
     },
@@ -725,7 +725,7 @@
       },
       "prices": {
         "E10": 135.7,
-        "B7": 143.7
+        "B7": 142.7
       }
     },
     {
@@ -910,7 +910,7 @@
     },
     {
       "site_id": "gcpv8c9p6urb",
-      "brand": "Asda Express",
+      "brand": "Esso",
       "address": "Belmont Circle, Harrow",
       "postcode": "HA3 8SF",
       "location": {
@@ -934,8 +934,8 @@
         "longitude": -1.536797
       },
       "prices": {
-        "E10": 133.9,
-        "B7": 142.9
+        "E10": 132.9,
+        "B7": 141.9
       }
     },
     {
@@ -1030,7 +1030,7 @@
     },
     {
       "site_id": "gcw06pwp93q4",
-      "brand": "Asda Express",
+      "brand": "Esso",
       "address": "275 Upholland Road, Wigan",
       "postcode": "WN5 7DN",
       "location": {
@@ -1128,8 +1128,8 @@
         "longitude": -4.214598
       },
       "prices": {
-        "E10": 132.7,
-        "B7": 142.7
+        "E10": 131.7,
+        "B7": 141.7
       }
     },
     {
@@ -1231,8 +1231,8 @@
         "longitude": -4.094542
       },
       "prices": {
-        "E10": 131.7,
-        "B7": 142.7
+        "E10": 129.7,
+        "B7": 141.7
       }
     },
     {
@@ -1275,7 +1275,7 @@
         "longitude": -4.70314
       },
       "prices": {
-        "E10": 138.7,
+        "E10": 137.7,
         "B7": 146.7
       }
     },
@@ -1305,8 +1305,8 @@
         "longitude": -1.462712
       },
       "prices": {
-        "E10": 129.7,
-        "B7": 139.7
+        "E10": 128.7,
+        "B7": 138.7
       }
     },
     {
@@ -1382,7 +1382,7 @@
     },
     {
       "site_id": "gcvj7xmhccb3",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "M74 Southbound, Bothwell",
       "postcode": "G71 8BG",
       "location": {
@@ -1437,7 +1437,7 @@
         "longitude": -1.791265
       },
       "prices": {
-        "E10": 133.7,
+        "E10": 132.7,
         "B7": 141.7
       }
     },
@@ -1562,7 +1562,7 @@
     },
     {
       "site_id": "gcq6c6m78jnx",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "Chartwell Business Park, Stourbridge",
       "postcode": "WV15 6AN",
       "location": {
@@ -1586,8 +1586,8 @@
         "longitude": -3.00054
       },
       "prices": {
-        "E10": 133.7,
-        "B7": 143.7
+        "E10": 132.7,
+        "B7": 142.7
       }
     },
     {
@@ -1674,7 +1674,7 @@
         "longitude": -2.569482
       },
       "prices": {
-        "E10": 131.9,
+        "E10": 130.9,
         "B7": 139.9
       }
     },
@@ -1688,7 +1688,7 @@
         "longitude": -2.614594
       },
       "prices": {
-        "E10": 133.9,
+        "E10": 131.9,
         "B7": 140.9
       }
     },
@@ -1702,10 +1702,10 @@
         "longitude": -5.903805
       },
       "prices": {
-        "E10": 139.9,
-        "E5": 155.9,
-        "B7": 146.9,
-        "SDV": 162.9
+        "E10": 137.9,
+        "E5": 153.9,
+        "B7": 144.9,
+        "SDV": 160.9
       }
     },
     {
@@ -1900,8 +1900,8 @@
         "longitude": -1.572405
       },
       "prices": {
-        "E10": 132.9,
-        "B7": 141.9
+        "E10": 131.9,
+        "B7": 140.9
       }
     },
     {
@@ -1921,7 +1921,7 @@
     },
     {
       "site_id": "gfjckcfwhmv9",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "61 Forfar Road, Dundee",
       "postcode": "DD4 9BS",
       "location": {
@@ -2049,7 +2049,7 @@
       },
       "prices": {
         "E10": 135.7,
-        "B7": 142.7
+        "B7": 141.7
       }
     },
     {
@@ -2093,7 +2093,7 @@
       },
       "prices": {
         "E10": 134.9,
-        "B7": 145.9
+        "B7": 144.9
       }
     },
     {
@@ -2228,8 +2228,8 @@
         "longitude": 0.508844
       },
       "prices": {
-        "E10": 135.9,
-        "B7": 145.9
+        "E10": 133.9,
+        "B7": 144.9
       }
     },
     {
@@ -2256,8 +2256,8 @@
         "longitude": -2.128683
       },
       "prices": {
-        "E10": 132.7,
-        "B7": 141.7
+        "E10": 131.7,
+        "B7": 139.7
       }
     },
     {
@@ -2484,7 +2484,7 @@
         "longitude": -4.024617
       },
       "prices": {
-        "E10": 134.9,
+        "E10": 133.9,
         "B7": 143.9
       }
     },
@@ -2557,8 +2557,8 @@
         "longitude": -0.260208
       },
       "prices": {
-        "E10": 136.9,
-        "B7": 145.9
+        "E10": 135.9,
+        "B7": 144.9
       }
     },
     {
@@ -2587,7 +2587,7 @@
         "longitude": -2.190034
       },
       "prices": {
-        "E10": 134.7,
+        "E10": 133.7,
         "B7": 141.7
       }
     },
@@ -2803,10 +2803,10 @@
         "longitude": -2.45333
       },
       "prices": {
-        "E10": 138.9,
-        "E5": 154.9,
-        "B7": 146.9,
-        "SDV": 162.9
+        "E10": 137.9,
+        "E5": 153.9,
+        "B7": 145.9,
+        "SDV": 161.9
       }
     },
     {
@@ -3079,7 +3079,7 @@
       },
       "prices": {
         "E10": 132.7,
-        "B7": 143.7
+        "B7": 142.7
       }
     },
     {
@@ -3122,9 +3122,9 @@
         "longitude": -3.231591
       },
       "prices": {
-        "E10": 141.9,
-        "E5": 157.9,
-        "B7": 150.9
+        "E10": 139.9,
+        "E5": 155.9,
+        "B7": 147.9
       }
     },
     {
@@ -3229,8 +3229,8 @@
         "longitude": -2.979334
       },
       "prices": {
-        "E10": 132.7,
-        "B7": 140.7
+        "E10": 131.7,
+        "B7": 139.7
       }
     },
     {
@@ -3243,8 +3243,8 @@
         "longitude": -2.92537
       },
       "prices": {
-        "E10": 132.7,
-        "B7": 140.7
+        "E10": 131.7,
+        "B7": 139.7
       }
     },
     {
@@ -3301,7 +3301,7 @@
         "longitude": -2.17216
       },
       "prices": {
-        "E10": 132.9,
+        "E10": 130.9,
         "B7": 143.9
       }
     },
@@ -3329,7 +3329,7 @@
         "longitude": 0.325961
       },
       "prices": {
-        "E10": 131.7,
+        "E10": 130.7,
         "B7": 138.7
       }
     },
@@ -3343,7 +3343,7 @@
         "longitude": -2.195119
       },
       "prices": {
-        "E10": 131.7,
+        "E10": 130.7,
         "B7": 139.7
       }
     },
@@ -3363,7 +3363,7 @@
     },
     {
       "site_id": "gcnhvfd3t035",
-      "brand": "Shell",
+      "brand": "Valero",
       "address": "Muller Road, Bristol",
       "postcode": "BS5 6PX",
       "location": {
@@ -3712,7 +3712,7 @@
     },
     {
       "site_id": "gcxcbs16qsjb",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "Stoneferry Retail Park, Stoneferry Road, Hull",
       "postcode": "HU7 0BA",
       "location": {
@@ -3752,13 +3752,13 @@
         "longitude": -3.01401
       },
       "prices": {
-        "E10": 132.9,
-        "B7": 142.9
+        "E10": 131.9,
+        "B7": 141.9
       }
     },
     {
       "site_id": "gcjy57w8xw24",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "A4042 Roundabout, Pontypool",
       "postcode": "NP4 0XB",
       "location": {
@@ -3812,8 +3812,8 @@
         "longitude": -2.023735
       },
       "prices": {
-        "E10": 136.9,
-        "B7": 146.9
+        "E10": 135.9,
+        "B7": 145.9
       }
     },
     {
@@ -3848,7 +3848,7 @@
     },
     {
       "site_id": "gcvj8vnw5kxg",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "2101 London Rd, Glasgow",
       "postcode": "G32 8XQ",
       "location": {
@@ -3964,7 +3964,7 @@
       "prices": {
         "E10": 135.9,
         "E5": 151.9,
-        "B7": 147.9
+        "B7": 146.9
       }
     },
     {
@@ -4005,8 +4005,8 @@
         "longitude": -1.352809
       },
       "prices": {
-        "E10": 130.9,
-        "B7": 140.9
+        "E10": 129.9,
+        "B7": 139.9
       }
     },
     {
@@ -4063,7 +4063,7 @@
       },
       "prices": {
         "E10": 132.7,
-        "B7": 139.7
+        "B7": 138.7
       }
     },
     {
@@ -4076,8 +4076,8 @@
         "longitude": -1.683568
       },
       "prices": {
-        "E10": 131.9,
-        "E5": 147.9,
+        "E10": 130.9,
+        "E5": 146.9,
         "B7": 140.9,
         "SDV": 156.9
       }
@@ -4124,7 +4124,7 @@
       "prices": {
         "E10": 137.9,
         "E5": 153.9,
-        "B7": 145.9
+        "B7": 143.9
       }
     },
     {
@@ -4329,8 +4329,8 @@
         "longitude": 0.278578
       },
       "prices": {
-        "E10": 137.9,
-        "B7": 148.9
+        "E10": 136.9,
+        "B7": 147.9
       }
     },
     {
@@ -4405,9 +4405,9 @@
         "longitude": -1.075721
       },
       "prices": {
-        "E10": 138.9,
-        "E5": 154.9,
-        "B7": 148.9
+        "E10": 136.9,
+        "E5": 152.9,
+        "B7": 146.9
       }
     },
     {
@@ -4420,10 +4420,10 @@
         "longitude": -4.220981
       },
       "prices": {
-        "E10": 136.9,
-        "E5": 152.9,
-        "B7": 145.9,
-        "SDV": 161.9
+        "E10": 135.9,
+        "E5": 151.9,
+        "B7": 143.9,
+        "SDV": 159.9
       }
     },
     {
@@ -4490,7 +4490,7 @@
     },
     {
       "site_id": "gcpw7qjdh0ys",
-      "brand": "Asda Express",
+      "brand": "Esso",
       "address": "London Road, Berkhamsted",
       "postcode": "HP4 2NB",
       "location": {
@@ -4506,7 +4506,7 @@
     },
     {
       "site_id": "gcqp6dgqkyb6",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "Hallwood Link Road South, Runcorn",
       "postcode": "WA7 2HQ",
       "location": {
@@ -4536,7 +4536,7 @@
     },
     {
       "site_id": "gcvjk5yudhyg",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "M74 Northbound, Hamilton",
       "postcode": "ML3 6JW",
       "location": {
@@ -4669,7 +4669,7 @@
       },
       "prices": {
         "E10": 132.9,
-        "B7": 142.9
+        "B7": 141.9
       }
     },
     {
@@ -4682,7 +4682,7 @@
         "longitude": 1.273049
       },
       "prices": {
-        "E10": 136.9,
+        "E10": 135.9,
         "B7": 144.9
       }
     },
@@ -4784,7 +4784,7 @@
         "longitude": -0.427523
       },
       "prices": {
-        "E10": 134.7,
+        "E10": 133.7,
         "B7": 139.7
       }
     },
@@ -4942,7 +4942,7 @@
       },
       "prices": {
         "E10": 135.7,
-        "B7": 146.7
+        "B7": 145.7
       }
     },
     {
@@ -4971,7 +4971,7 @@
         "longitude": -0.373527
       },
       "prices": {
-        "E10": 134.7,
+        "E10": 133.7,
         "B7": 144.7
       }
     },
@@ -5107,7 +5107,7 @@
       },
       "prices": {
         "E10": 136.7,
-        "B7": 145.7
+        "B7": 144.7
       }
     },
     {
@@ -5184,9 +5184,9 @@
         "longitude": -2.37332
       },
       "prices": {
-        "E10": 141.9,
-        "E5": 159.9,
-        "B7": 149.9
+        "E10": 139.9,
+        "E5": 157.9,
+        "B7": 147.9
       }
     },
     {
@@ -5277,10 +5277,10 @@
         "longitude": 0.219314
       },
       "prices": {
-        "E10": 139.9,
-        "E5": 157.9,
-        "B7": 148.9,
-        "SDV": 166.9
+        "E10": 138.9,
+        "E5": 156.9,
+        "B7": 147.9,
+        "SDV": 165.9
       }
     },
     {
@@ -5353,8 +5353,8 @@
         "longitude": -0.250123
       },
       "prices": {
-        "E10": 131.9,
-        "B7": 141.9
+        "E10": 130.9,
+        "B7": 140.9
       }
     },
     {
@@ -5589,8 +5589,8 @@
         "longitude": -1.90149
       },
       "prices": {
-        "E10": 130.7,
-        "B7": 141.7
+        "E10": 129.7,
+        "B7": 140.7
       }
     },
     {
@@ -5715,7 +5715,7 @@
     },
     {
       "site_id": "gcnx9191cngd",
-      "brand": "Asda Express",
+      "brand": "Esso",
       "address": "Cheltenham Road, Cheltenham",
       "postcode": "GL52 4SA",
       "location": {
@@ -5886,7 +5886,7 @@
     },
     {
       "site_id": "gcmzemw2233v",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "117 New Chester Road, Birkenhead",
       "postcode": "CH41 9BW",
       "location": {
@@ -5985,7 +5985,7 @@
       },
       "prices": {
         "E10": 137.9,
-        "B7": 147.9
+        "B7": 146.9
       }
     },
     {
@@ -6004,7 +6004,7 @@
     },
     {
       "site_id": "gcqe694vrcdh",
-      "brand": "Asda Express",
+      "brand": "Esso",
       "address": "570 Bloxwich Road, Walsall",
       "postcode": "WS3 2BB",
       "location": {
@@ -6027,7 +6027,7 @@
         "longitude": -3.2072
       },
       "prices": {
-        "E10": 136.7,
+        "E10": 134.7,
         "B7": 141.9
       }
     },
@@ -6113,7 +6113,7 @@
         "longitude": -3.189525
       },
       "prices": {
-        "E10": 132.7,
+        "E10": 131.7,
         "B7": 139.7
       }
     },
@@ -6133,7 +6133,7 @@
     },
     {
       "site_id": "gctqxsd48wg4",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "Lillyhall Service Station, Toll Bar, Workingston",
       "postcode": "CA14 4PJ",
       "location": {
@@ -6216,7 +6216,7 @@
         "longitude": -3.045901
       },
       "prices": {
-        "E10": 132.9,
+        "E10": 131.9,
         "B7": 137.9
       }
     },
@@ -6244,15 +6244,15 @@
         "longitude": -1.688409
       },
       "prices": {
-        "E10": 131.9,
-        "E5": 147.9,
-        "B7": 141.9,
-        "SDV": 157.9
+        "E10": 130.9,
+        "E5": 146.9,
+        "B7": 140.9,
+        "SDV": 156.9
       }
     },
     {
       "site_id": "gcvtbj1w8ebu",
-      "brand": "Asda Express",
+      "brand": "Esso",
       "address": "Almondvale, Livingston",
       "postcode": "EH54 6NA",
       "location": {
@@ -6333,8 +6333,8 @@
         "longitude": -2.923355
       },
       "prices": {
-        "E10": 141.9,
-        "E5": 157.9,
+        "E10": 139.9,
+        "E5": 155.9,
         "B7": 149.9,
         "SDV": 165.9
       }
@@ -6403,7 +6403,7 @@
     },
     {
       "site_id": "gcqpufnx4dvu",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "296 Winwick Road, Warrington",
       "postcode": "WA2 8HZ",
       "location": {
@@ -6457,8 +6457,8 @@
         "longitude": -0.932739
       },
       "prices": {
-        "E10": 135.9,
-        "B7": 144.9
+        "E10": 133.9,
+        "B7": 142.9
       }
     },
     {
@@ -6523,7 +6523,7 @@
     },
     {
       "site_id": "gcpz732eez23",
-      "brand": "Asda Express",
+      "brand": "Esso",
       "address": "Lytton Way, Stevenage",
       "postcode": "SG1 3HB",
       "location": {
@@ -6610,7 +6610,7 @@
       },
       "prices": {
         "E10": 131.7,
-        "B7": 141.7
+        "B7": 140.7
       }
     },
     {
@@ -6646,7 +6646,7 @@
     },
     {
       "site_id": "gcrncstj60ep",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "M1 29A, Markham Ln, Long Duckmanton",
       "postcode": "S44 5HB",
       "location": {
@@ -6694,7 +6694,7 @@
     },
     {
       "site_id": "gcrjq2ep2vz2",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "Carlton Road, Nottingham",
       "postcode": "NG3 2NJ",
       "location": {
@@ -6843,7 +6843,7 @@
         "longitude": -1.176521
       },
       "prices": {
-        "E10": 132.7,
+        "E10": 131.7,
         "B7": 141.7
       }
     },
@@ -6857,7 +6857,7 @@
         "longitude": -2.120803
       },
       "prices": {
-        "E10": 132.7,
+        "E10": 130.7,
         "B7": 143.7
       }
     },
@@ -6877,7 +6877,7 @@
     },
     {
       "site_id": "gcqe08fmbzfe",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "40301 Millfields Road, Wolverhampton",
       "postcode": "WV14 0QJ",
       "location": {
@@ -7000,7 +7000,7 @@
     },
     {
       "site_id": "gfn4xyjnmsm4",
-      "brand": "Asda Express",
+      "brand": "Esso",
       "address": "108-24 North Esk Road, Montrose",
       "postcode": "DD10 9AY",
       "location": {
@@ -7078,7 +7078,7 @@
     },
     {
       "site_id": "gcvjmfch5see",
-      "brand": "Asda Express",
+      "brand": "Esso",
       "address": "Flemington Industrial Park, A721, Motherwell",
       "postcode": "ML1 2NT",
       "location": {
@@ -7345,8 +7345,8 @@
         "longitude": -3.671697
       },
       "prices": {
-        "E10": 133.9,
-        "E5": 151.9,
+        "E10": 132.9,
+        "E5": 150.9,
         "B7": 141.9,
         "SDV": 151.7
       }
@@ -7399,7 +7399,7 @@
     },
     {
       "site_id": "gcw1fvp1fgd8",
-      "brand": "Asda Express",
+      "brand": "Esso",
       "address": "Blackpool Road, Preston",
       "postcode": "PR1 6UY",
       "location": {
@@ -7431,7 +7431,7 @@
     },
     {
       "site_id": "gcqek60j851m",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "Northgate, Birmingham",
       "postcode": "WS9 8TH",
       "location": {
@@ -7484,8 +7484,8 @@
         "longitude": 1.209884
       },
       "prices": {
-        "E10": 137.9,
-        "E5": 153.9,
+        "E10": 136.9,
+        "E5": 152.9,
         "B7": 145.9,
         "SDV": 160.9
       }
@@ -7603,10 +7603,10 @@
         "longitude": -3.703688
       },
       "prices": {
-        "E10": 141.9,
-        "E5": 157.9,
-        "B7": 151.9,
-        "SDV": 167.9
+        "E10": 140.9,
+        "E5": 156.9,
+        "B7": 150.9,
+        "SDV": 166.9
       }
     },
     {
@@ -7653,7 +7653,7 @@
     },
     {
       "site_id": "gctbwpm66n3j",
-      "brand": "Asda Express",
+      "brand": "Esso",
       "address": "201 County Road, Ormskirk",
       "postcode": "L39 3LU",
       "location": {
@@ -7846,7 +7846,7 @@
       "prices": {
         "E10": 135.9,
         "E5": 153.9,
-        "B7": 146.9
+        "B7": 145.9
       }
     },
     {
@@ -7919,8 +7919,8 @@
         "longitude": -1.818092
       },
       "prices": {
-        "E10": 133.9,
-        "B7": 143.7
+        "E10": 132.9,
+        "B7": 142.7
       }
     },
     {
@@ -7947,8 +7947,8 @@
         "longitude": -2.273519
       },
       "prices": {
-        "E10": 133.7,
-        "B7": 142.7
+        "E10": 132.7,
+        "B7": 141.7
       }
     },
     {
@@ -8038,12 +8038,12 @@
       "prices": {
         "E10": 137.9,
         "E5": 153.9,
-        "B7": 147.9
+        "B7": 146.9
       }
     },
     {
       "site_id": "gcvmu4ecdu75",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "Armadale Road, Bathgate",
       "postcode": "EH47 0ET",
       "location": {
@@ -8097,8 +8097,8 @@
         "longitude": -4.21836
       },
       "prices": {
-        "E10": 134.9,
-        "E5": 148.9,
+        "E10": 133.9,
+        "E5": 149.9,
         "B7": 143.9
       }
     },
@@ -8192,7 +8192,7 @@
     },
     {
       "site_id": "gcqe4m5x5vmm",
-      "brand": "Asda Express",
+      "brand": "Esso",
       "address": "354 Wolverhampton Road, Walsall",
       "postcode": "WS2 8RN",
       "location": {
@@ -8577,7 +8577,7 @@
         "longitude": -4.184506
       },
       "prices": {
-        "E10": 133.9,
+        "E10": 132.9,
         "B7": 142.9
       }
     },
@@ -8628,7 +8628,7 @@
     },
     {
       "site_id": "gcncwtxc0uk4",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "Redbridge Road, Southampton",
       "postcode": "SO15 0LT",
       "location": {
@@ -8805,8 +8805,8 @@
         "longitude": -2.702799
       },
       "prices": {
-        "E10": 135.9,
-        "B7": 143.9
+        "E10": 134.9,
+        "B7": 142.9
       }
     },
     {
@@ -8855,7 +8855,7 @@
     },
     {
       "site_id": "gcw2hn1fbpye",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "Trafford Road, Salford",
       "postcode": "M5 3AW",
       "location": {
@@ -9101,7 +9101,7 @@
     },
     {
       "site_id": "gcqzwk21rs32",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "158 Ecclesall Road, Sheffield",
       "postcode": "S11 8JD",
       "location": {
@@ -9336,8 +9336,8 @@
       "prices": {
         "E10": 137.9,
         "E5": 153.9,
-        "B7": 147.9,
-        "SDV": 163.9
+        "B7": 145.9,
+        "SDV": 161.9
       }
     },
     {
@@ -9489,7 +9489,7 @@
     },
     {
       "site_id": "gcrps0jbmmtb",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "Worksop Road, Sheffield",
       "postcode": "S25 5ER",
       "location": {
@@ -9575,8 +9575,8 @@
         "longitude": -1.43648
       },
       "prices": {
-        "E10": 131.9,
-        "B7": 142.9
+        "E10": 129.9,
+        "B7": 139.9
       }
     },
     {
@@ -9741,7 +9741,7 @@
       },
       "prices": {
         "E10": 132.7,
-        "B7": 142.7
+        "B7": 141.7
       }
     },
     {
@@ -9854,7 +9854,7 @@
     },
     {
       "site_id": "gcqzwqdy3rgt",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "Craven Street, Sheffield",
       "postcode": "S3 7EZ",
       "location": {
@@ -9992,7 +9992,7 @@
     },
     {
       "site_id": "gcvpnyfvrgxf",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "Kerse Road, Stirling",
       "postcode": "FK7 7SY",
       "location": {
@@ -10288,7 +10288,7 @@
       },
       "prices": {
         "E10": 131.7,
-        "B7": 141.7
+        "B7": 140.7
       }
     },
     {
@@ -10322,7 +10322,7 @@
     },
     {
       "site_id": "u12gs8tfmvc7",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "Sweet Briar Road, Norwich",
       "postcode": "NR6 5AL",
       "location": {
@@ -10346,7 +10346,7 @@
         "longitude": -1.805133
       },
       "prices": {
-        "E10": 133.7,
+        "E10": 132.7,
         "B7": 143.7
       }
     },
@@ -10603,7 +10603,7 @@
       },
       "prices": {
         "E10": 137.9,
-        "B7": 148.9
+        "B7": 147.9
       }
     },
     {
@@ -10630,8 +10630,8 @@
         "longitude": -2.05604
       },
       "prices": {
-        "E10": 134.9,
-        "B7": 142.9
+        "E10": 133.9,
+        "B7": 141.9
       }
     },
     {
@@ -10644,7 +10644,7 @@
         "longitude": 0.747972
       },
       "prices": {
-        "E10": 140.9,
+        "E10": 139.9,
         "B7": 148.9
       }
     },
@@ -10665,7 +10665,7 @@
     },
     {
       "site_id": "gcp7rpeu7z3p",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "Tongham Road, Farnham",
       "postcode": "GU10 1FP",
       "location": {
@@ -10704,7 +10704,7 @@
       },
       "prices": {
         "E10": 133.9,
-        "B7": 143.9
+        "B7": 142.9
       }
     },
     {
@@ -10717,8 +10717,8 @@
         "longitude": -0.091169
       },
       "prices": {
-        "E10": 132.9,
-        "B7": 141.9
+        "E10": 131.9,
+        "B7": 139.9
       }
     },
     {
@@ -10762,8 +10762,8 @@
         "longitude": -2.343506
       },
       "prices": {
-        "E10": 133.7,
-        "B7": 142.7
+        "E10": 132.7,
+        "B7": 141.7
       }
     },
     {
@@ -10996,7 +10996,7 @@
     },
     {
       "site_id": "gcxphjbw274g",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "Easington Road, Hartlepool",
       "postcode": "TS24 9AG",
       "location": {
@@ -11012,7 +11012,7 @@
     },
     {
       "site_id": "gcw0e97jdwzc",
-      "brand": "Asda Express",
+      "brand": "Esso",
       "address": "240 Warrington Road, Wigan",
       "postcode": "WN3 6PF",
       "location": {
@@ -11450,7 +11450,7 @@
       },
       "prices": {
         "E10": 132.7,
-        "B7": 139.7
+        "B7": 138.7
       }
     },
     {
@@ -11471,7 +11471,7 @@
     },
     {
       "site_id": "gcx9zy5b2b2w",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "Beverley Road, Hull",
       "postcode": "HU10 6NT",
       "location": {
@@ -11618,7 +11618,7 @@
         "longitude": -2.129117
       },
       "prices": {
-        "E10": 131.9,
+        "E10": 130.9,
         "B7": 138.9
       }
     },
@@ -11654,7 +11654,7 @@
     },
     {
       "site_id": "gcq1d7mq08du",
-      "brand": "Shell",
+      "brand": "Esso",
       "address": "A49 Northbound, Woofferton, Shropshire",
       "postcode": "SY8 4AL",
       "location": {
@@ -11872,7 +11872,7 @@
         "longitude": -1.042137
       },
       "prices": {
-        "E10": 131.7,
+        "E10": 130.7,
         "B7": 137.7
       }
     },
