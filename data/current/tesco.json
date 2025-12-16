@@ -1,5 +1,5 @@
 {
-  "last_updated": "15/12/2025 11:18:58",
+  "last_updated": "16/12/2025 11:18:15",
   "stations": [
     {
       "site_id": "gcx1zhq978t7",
@@ -2559,7 +2559,7 @@
         "longitude": -1.143159
       },
       "prices": {
-        "E5": 150.9,
+        "E5": 149.9,
         "E10": 139.9,
         "B7": 149.9
       }
@@ -3791,6 +3791,21 @@
         "E5": 143.9,
         "E10": 134.9,
         "B7": 142.9
+      }
+    },
+    {
+      "site_id": "u124n1909h60",
+      "brand": "TESCO",
+      "address": "Tesco Stores Ltd Angel Drove Ely",
+      "postcode": "CB7 4DJ",
+      "location": {
+        "latitude": 52.391161,
+        "longitude": 0.265091
+      },
+      "prices": {
+        "E5": 142.9,
+        "E10": 133.9,
+        "B7": 141.9
       }
     },
     {
@@ -6245,7 +6260,7 @@
       },
       "prices": {
         "E5": 146.9,
-        "E10": 137.9,
+        "E10": 136.9,
         "B7": 146.9
       }
     },
