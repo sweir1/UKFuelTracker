@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/12/2025 11:18:21",
+  "last_updated": "29/12/2025 11:19:31",
   "stations": [
     {
       "site_id": "gcx1zhq978t7",
@@ -2262,21 +2262,6 @@
       "prices": {
         "E5": 142.9,
         "E10": 133.9,
-        "B7": 142.9
-      }
-    },
-    {
-      "site_id": "u10j1drp6b17",
-      "brand": "TESCO",
-      "address": "1 Armada Way Beckton London",
-      "postcode": "E6 7ER",
-      "location": {
-        "latitude": 51.517511,
-        "longitude": 0.075651
-      },
-      "prices": {
-        "E5": 141.9,
-        "E10": 132.9,
         "B7": 142.9
       }
     },
