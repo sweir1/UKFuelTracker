@@ -1,5 +1,5 @@
 {
-  "last_updated": "15/01/2026 11:18:46",
+  "last_updated": "16/01/2026 11:18:44",
   "stations": [
     {
       "site_id": "gcx1zhq978t7",
@@ -2742,21 +2742,6 @@
         "E5": 141.9,
         "E10": 132.9,
         "B7": 141.9
-      }
-    },
-    {
-      "site_id": "gcn1gcxxsg1g",
-      "brand": "TESCO",
-      "address": "Unit 4-5 Queensway Place Yeovil",
-      "postcode": "BA20 1DL",
-      "location": {
-        "latitude": 50.942161,
-        "longitude": -2.637199
-      },
-      "prices": {
-        "E5": 141.9,
-        "E10": 132.9,
-        "B7": 137.9
       }
     },
     {
