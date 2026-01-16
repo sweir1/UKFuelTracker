@@ -2069,7 +2069,7 @@
     {
       "site_id": "gcw5buuzv994",
       "brand": "Esso",
-      "address": "Lancaster Road, Carnforth",
+      "address": "97 Lancaster Road, Carnforth",
       "postcode": "LA5 9EA",
       "location": {
         "latitude": 54.124111,
@@ -11760,11 +11760,11 @@
     {
       "site_id": "gcjxvzs9f3y9",
       "brand": "Esso",
-      "address": "A479 Llyswen, Brecon",
+      "address": "Llyswen, Brecon",
       "postcode": "LD3 0UR",
       "location": {
-        "latitude": 52.028813,
-        "longitude": -3.256654
+        "latitude": 52.032665,
+        "longitude": -3.264884
       },
       "prices": {
         "E10": 134.9,
