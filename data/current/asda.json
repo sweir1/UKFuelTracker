@@ -3775,11 +3775,11 @@
     {
       "site_id": "gcwys2vdehyq",
       "brand": "Shell",
-      "address": "Newton Park, Coatham Mundeville",
+      "address": "Newton Park Service Station, Coatham Mundeville",
       "postcode": "DL1 3NL",
       "location": {
-        "latitude": 54.584778,
-        "longitude": -1.563354
+        "latitude": 54.584814,
+        "longitude": -1.563434
       },
       "prices": {
         "E10": 127.9,
@@ -4448,8 +4448,8 @@
       "address": "Haddington Retail Park, Haddington",
       "postcode": "EH41 3FW",
       "location": {
-        "latitude": 55.954686,
-        "longitude": -2.813832
+        "latitude": 55.954652,
+        "longitude": -2.813873
       },
       "prices": {
         "E10": 135.9,
@@ -4826,8 +4826,8 @@
       "address": "Amersham Road, High Wycombe",
       "postcode": "HP15 7HN",
       "location": {
-        "latitude": 51.651953,
-        "longitude": -0.712485
+        "latitude": 51.651961,
+        "longitude": -0.712517
       },
       "prices": {
         "E10": 133.9,
@@ -5613,8 +5613,8 @@
       "address": "Rockingham Road, Kettering",
       "postcode": "NN14 1UD",
       "location": {
-        "latitude": 52.424188,
-        "longitude": -0.727971
+        "latitude": 52.424166,
+        "longitude": -0.728001
       },
       "prices": {
         "E10": 146.9,
@@ -6808,8 +6808,8 @@
       "address": "Cocksford Down, Popham",
       "postcode": "SO21 3BD",
       "location": {
-        "latitude": 51.194727,
-        "longitude": -1.228776
+        "latitude": 51.194734,
+        "longitude": -1.228658
       },
       "prices": {
         "E10": 141.9,
@@ -7161,8 +7161,8 @@
       "address": "A45 Westbound, Nene Valley Way, Northampton",
       "postcode": "NN3 5LU",
       "location": {
-        "latitude": 52.254462,
-        "longitude": -0.794222
+        "latitude": 52.254547,
+        "longitude": -0.794104
       },
       "prices": {
         "E10": 130.9,
@@ -7224,8 +7224,8 @@
       "address": "Stockton Road, Seaham",
       "postcode": "SR7 8ER",
       "location": {
-        "latitude": 54.83193,
-        "longitude": -1.366165
+        "latitude": 54.831928,
+        "longitude": -1.366223
       },
       "prices": {
         "E10": 129.9,
@@ -8374,8 +8374,8 @@
       "address": "London Road, Petersfield",
       "postcode": "GU31 4AT",
       "location": {
-        "latitude": 51.009922,
-        "longitude": -0.928288
+        "latitude": 51.009905,
+        "longitude": -0.928277
       },
       "prices": {
         "E10": 136.9,
@@ -8860,7 +8860,7 @@
       "postcode": "M5 3AW",
       "location": {
         "latitude": 53.468884,
-        "longitude": -2.282658
+        "longitude": -2.282588
       },
       "prices": {
         "E10": 131.9,
@@ -8951,11 +8951,11 @@
     {
       "site_id": "gcrpxysk97jd",
       "brand": "Esso",
-      "address": "Middleton Tyas A1, Richmond",
+      "address": "Middleton Tyas Lane, Richmond",
       "postcode": "DL10 6NT",
       "location": {
-        "latitude": 54.443976,
-        "longitude": -1.666367
+        "latitude": 54.44465,
+        "longitude": -1.658619
       },
       "prices": {
         "E10": 157.9,
@@ -9782,8 +9782,8 @@
       "address": "St Kew Highway, Bodmin",
       "postcode": "PL30 3ED",
       "location": {
-        "latitude": 50.546044,
-        "longitude": -4.779047
+        "latitude": 50.54617,
+        "longitude": -4.779014
       },
       "prices": {
         "E10": 141.9,
@@ -9826,8 +9826,8 @@
       "address": "York Avenue, Jarrow",
       "postcode": "NE32 5YX",
       "location": {
-        "latitude": 54.95977,
-        "longitude": -1.490724
+        "latitude": 54.959807,
+        "longitude": -1.490764
       },
       "prices": {
         "E10": 127.9,
@@ -10239,8 +10239,8 @@
       "address": "York Road, Doncaster",
       "postcode": "DN5 8SD",
       "location": {
-        "latitude": 53.538414,
-        "longitude": -1.166472
+        "latitude": 53.538398,
+        "longitude": -1.166477
       },
       "prices": {
         "E10": 128.9,
