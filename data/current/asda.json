@@ -606,8 +606,8 @@
       "address": "Durham Road, Sunderland",
       "postcode": "SR2 7RB",
       "location": {
-        "latitude": 54.893194,
-        "longitude": -1.401674
+        "latitude": 54.893234,
+        "longitude": -1.40169
       },
       "prices": {
         "E10": 132.9,
@@ -2908,8 +2908,8 @@
       "address": "Henllys Way, Newport",
       "postcode": "NP44 3JA",
       "location": {
-        "latitude": 51.644603,
-        "longitude": -3.025254
+        "latitude": 51.644606,
+        "longitude": -3.025224
       },
       "prices": {
         "E10": 128.9,
@@ -3133,8 +3133,8 @@
       "address": "Cowbridge Bypass, Cowbridge",
       "postcode": "CF71 7DT",
       "location": {
-        "latitude": 51.459513,
-        "longitude": -3.42201
+        "latitude": 51.459548,
+        "longitude": -3.422005
       },
       "prices": {
         "E10": 132.9,
@@ -3149,8 +3149,8 @@
       "address": "Dudden Hill Lane, Willesden",
       "postcode": "NW10 1DE",
       "location": {
-        "latitude": 51.553585,
-        "longitude": -0.244226
+        "latitude": 51.553555,
+        "longitude": -0.244001
       },
       "prices": {
         "E10": 136.9,
@@ -3239,8 +3239,8 @@
       "address": "Milton Of Craigie Road, Dundee",
       "postcode": "DD4 7RX",
       "location": {
-        "latitude": 56.474831,
-        "longitude": -2.92537
+        "latitude": 56.474817,
+        "longitude": -2.925404
       },
       "prices": {
         "E10": 129.7,
@@ -3687,8 +3687,8 @@
       "address": "Gringer Hill, Marlow Road, Maidenhead",
       "postcode": "SL6 7LZ",
       "location": {
-        "latitude": 51.531368,
-        "longitude": -0.73444
+        "latitude": 51.531384,
+        "longitude": -0.734402
       },
       "prices": {
         "E10": 133.9,
@@ -6988,8 +6988,8 @@
       "address": "A40 South Bound, Monmouth",
       "postcode": "NP25 4BR",
       "location": {
-        "latitude": 51.772301,
-        "longitude": -2.813305
+        "latitude": 51.772255,
+        "longitude": -2.813262
       },
       "prices": {
         "E10": 138.9,
@@ -7704,8 +7704,8 @@
       "address": "Dividy Road, Stoke-on-trent",
       "postcode": "ST3 5YY",
       "location": {
-        "latitude": 53.001086,
-        "longitude": -2.119843
+        "latitude": 53.00108,
+        "longitude": -2.119897
       },
       "prices": {
         "E10": 126.9,
@@ -7957,8 +7957,8 @@
       "address": "Reading Road, Reading",
       "postcode": "RG7 3EH",
       "location": {
-        "latitude": 51.396312,
-        "longitude": -1.062601
+        "latitude": 51.396452,
+        "longitude": -1.062623
       },
       "prices": {
         "E10": 132.9,
@@ -8079,8 +8079,8 @@
       "address": "J49 M4 Motorway, LLanedi",
       "postcode": "SA4 0FU",
       "location": {
-        "latitude": 51.74688,
-        "longitude": -4.064905
+        "latitude": 51.746953,
+        "longitude": -4.064894
       },
       "prices": {
         "E10": 157.9,
