@@ -2145,22 +2145,6 @@
       }
     },
     {
-      "site_id": "gcrm4ybdwzs5",
-      "brand": "Esso",
-      "address": "MFG Kings Garage, Grantham Road, Bingham",
-      "postcode": "NG13 8DF",
-      "location": {
-        "latitude": 52.947705,
-        "longitude": -0.932856
-      },
-      "prices": {
-        "E10": 129.9,
-        "E5": 155.9,
-        "B7": 139.9,
-        "SDV": 165.9
-      }
-    },
-    {
       "site_id": "gcrpbysbcvvn",
       "brand": "Jet",
       "address": "MFG Masbrough, Masbrough Street, Rotherham",
