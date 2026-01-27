@@ -1,5 +1,5 @@
 {
-  "last_updated": "26/01/2026 11:18:22",
+  "last_updated": "27/01/2026 11:19:11",
   "stations": [
     {
       "site_id": "gcx1zhq978t7",
@@ -4940,21 +4940,6 @@
         "E5": 140.9,
         "E10": 130.9,
         "B7": 139.9
-      }
-    },
-    {
-      "site_id": "u12etszbpd9k",
-      "brand": "TESCO",
-      "address": "Tesco Stores Ltd Kingston Road Dereham",
-      "postcode": "NR19 1WB",
-      "location": {
-        "latitude": 52.672591,
-        "longitude": 0.955791
-      },
-      "prices": {
-        "E5": 142.9,
-        "E10": 133.9,
-        "B7": 142.9
       }
     },
     {
