@@ -1,5 +1,5 @@
 {
-  "last_updated": "09/02/2026 11:19:00",
+  "last_updated": "10/02/2026 11:18:18",
   "stations": [
     {
       "site_id": "gcx1zhq978t7",
@@ -6173,6 +6173,21 @@
         "E5": 138.9,
         "E10": 128.9,
         "B7": 138.9
+      }
+    },
+    {
+      "site_id": "gcq3u0p81y3c",
+      "brand": "TESCO",
+      "address": "Tesco Severn Road Stourport-on-Severn",
+      "postcode": "DY13 9FB",
+      "location": {
+        "latitude": 52.338901,
+        "longitude": -2.274779
+      },
+      "prices": {
+        "E5": 147.9,
+        "E10": 137.9,
+        "B7": 141.9
       }
     },
     {
