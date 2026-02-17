@@ -1,5 +1,5 @@
 {
-  "last_updated": "16/02/2026 11:18:24",
+  "last_updated": "17/02/2026 11:19:04",
   "stations": [
     {
       "site_id": "gcx1zhq978t7",
@@ -5803,21 +5803,6 @@
       "prices": {
         "E10": 125.9,
         "B7": 133.9
-      }
-    },
-    {
-      "site_id": "gcnh977jtcd4",
-      "brand": "TESCO",
-      "address": "Stock Way North Nailsea Bristol",
-      "postcode": "BS48 1AQ",
-      "location": {
-        "latitude": 51.434821,
-        "longitude": -2.753199
-      },
-      "prices": {
-        "E5": 137.9,
-        "E10": 127.9,
-        "B7": 137.9
       }
     },
     {
