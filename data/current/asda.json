@@ -6526,10 +6526,10 @@
       "site_id": "gcpz732eez23",
       "brand": "Esso",
       "address": "Lytton Way, Stevenage",
-      "postcode": "SG1 3HB",
+      "postcode": "SG1 3BT",
       "location": {
-        "latitude": 51.907756,
-        "longitude": -0.209563
+        "latitude": 51.907732,
+        "longitude": -0.209538
       },
       "prices": {
         "E10": 128.9,
@@ -11368,10 +11368,10 @@
       "site_id": "gcyb9fs3xgvr",
       "brand": "Esso",
       "address": "Front Street, Whickham",
-      "postcode": "NE16 4EJ",
+      "postcode": "NE16 4EL",
       "location": {
-        "latitude": 54.945652,
-        "longitude": -1.674732
+        "latitude": 54.945206,
+        "longitude": -1.670864
       },
       "prices": {
         "E10": 128.9,
