@@ -2961,8 +2961,8 @@
         "latitude": 50.84346
       },
       "prices": {
-        "E10": 131.9,
-        "B7": 139.9
+        "E10": 132.9,
+        "B7": 141.9
       },
       "site_id": "gcp35xu2eecs",
       "postcode": "PO18 8RX",
@@ -3865,7 +3865,7 @@
       "prices": {
         "E5": 148.9,
         "E10": 132.9,
-        "B7": 141
+        "B7": 141.9
       },
       "site_id": "gcp1jkp8dm8s",
       "postcode": "PO13 0XL",
@@ -4108,5 +4108,5 @@
       "brand": "Shell"
     }
   ],
-  "last_updated": "25/02/2026 10:55:06"
+  "last_updated": "26/02/2026 10:55:06"
 }
