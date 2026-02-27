@@ -1,5 +1,5 @@
 {
-  "last_updated": "26/02/2026 11:45:07",
+  "last_updated": "27/02/2026 11:45:07",
   "stations": [
     {
       "site_id": "gcxc46cnjv5k",
@@ -168,7 +168,12 @@
         "latitude": 54.7381,
         "longitude": -1.41512
       },
-      "prices": {}
+      "prices": {
+        "E5": 136.9,
+        "E10": 127.9,
+        "B7": 138.9,
+        "SDV": 147.9
+      }
     }
   ]
 }
