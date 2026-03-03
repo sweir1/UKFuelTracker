@@ -10182,22 +10182,6 @@
       }
     },
     {
-      "site_id": "u10j5u1961jq",
-      "brand": "ESSO",
-      "address": "MFG Beam, 23 New Road, Rainham",
-      "postcode": "RM13 8DP",
-      "location": {
-        "latitude": 51.5261,
-        "longitude": 0.166948
-      },
-      "prices": {
-        "E10": 133.9,
-        "E5": 155.9,
-        "B7": 144.9,
-        "SDV": 165.9
-      }
-    },
-    {
       "site_id": "u10hb6s2bwtg",
       "brand": "ESSO",
       "address": "MFG Blackheath, 37A Shooters Hill Road, Blackheath",
