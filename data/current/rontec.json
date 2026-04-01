@@ -1221,21 +1221,6 @@
     },
     {
       "location": {
-        "longitude": -1.88135,
-        "latitude": 52.65674
-      },
-      "prices": {
-        "E5": 19,
-        "E10": 0,
-        "B7": 0
-      },
-      "site_id": "gcqet1y59rgc",
-      "postcode": "WS14 0BH",
-      "address": "A5 WATLING STREET, MUCKLEY CORNER, LICHFIELD, WS14 0BH",
-      "brand": "Esso"
-    },
-    {
-      "location": {
         "longitude": -2.19907,
         "latitude": 53.62233
       },
@@ -3712,8 +3697,8 @@
         "latitude": 50.86785
       },
       "prices": {
-        "E10": 1.56,
-        "B7": 1.87
+        "E10": 155.9,
+        "B7": 186.9
       },
       "site_id": "gcpcrk1yeqs8",
       "postcode": "BN7 3JR",
@@ -4108,5 +4093,5 @@
       "brand": "Shell"
     }
   ],
-  "last_updated": "31/03/2026 10:55:02"
+  "last_updated": "01/04/2026 10:55:13"
 }
