@@ -1,0 +1,20 @@
+{
+  "last_updated": "02/04/2026 10:30:09",
+  "stations": [
+    {
+      "site_id": "eykjw5bzy2zk",
+      "brand": "Morrisons",
+      "address": "Westside Road",
+      "postcode": "GX11 1AA",
+      "location": {
+        "longitude": "-5.360020161",
+        "latitude": "36.14498138"
+      },
+      "prices": {
+        "E10": 108.9,
+        "B7": 119.9,
+        "E5": 117.9
+      }
+    }
+  ]
+}
