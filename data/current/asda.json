@@ -6893,6 +6893,22 @@
       }
     },
     {
+      "site_id": "gcncxh9ku09h",
+      "brand": "Asda Express",
+      "address": "Millbrook Road, Southampton",
+      "postcode": "SO15 0JU",
+      "location": {
+        "latitude": 50.913057,
+        "longitude": -1.444232
+      },
+      "prices": {
+        "E10": 157.9,
+        "E5": 147.9,
+        "B7": 189.9,
+        "SDV": 151.9
+      }
+    },
+    {
       "site_id": "gcqe08fmbzfe",
       "brand": "Esso",
       "address": "40301 Millfields Road, Wolverhampton",
@@ -9628,22 +9644,6 @@
       "prices": {
         "E10": 153.7,
         "B7": 184.9
-      }
-    },
-    {
-      "site_id": "gcncxh9ku09h",
-      "brand": "Asda Express",
-      "address": "Millbrook Road, Southampton",
-      "postcode": "SO15 0JU",
-      "location": {
-        "latitude": 50.913057,
-        "longitude": -1.444232
-      },
-      "prices": {
-        "E10": 157.9,
-        "E5": 147.9,
-        "B7": 189.9,
-        "SDV": 151.9
       }
     },
     {
