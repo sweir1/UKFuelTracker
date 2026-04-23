@@ -374,9 +374,9 @@
         "latitude": 54.85351
       },
       "prices": {
-        "SDV": 208.9,
+        "SDV": 207.9,
         "E10": 155.9,
-        "B7": 189.9
+        "B7": 188.9
       },
       "site_id": "gcyb09f0uers",
       "postcode": "DH9 7RX",
@@ -716,7 +716,7 @@
       },
       "prices": {
         "SDV": 208.9,
-        "E10": 156.9,
+        "E10": 155.9,
         "B7": 189.9
       },
       "site_id": "gcmdub1n4vfs",
@@ -1221,6 +1221,21 @@
     },
     {
       "location": {
+        "longitude": -1.88135,
+        "latitude": 52.65674
+      },
+      "prices": {
+        "E5": 19,
+        "E10": 0,
+        "B7": 0
+      },
+      "site_id": "gcqet1y59rgc",
+      "postcode": "WS14 0BH",
+      "address": "A5 WATLING STREET, MUCKLEY CORNER, LICHFIELD, WS14 0BH",
+      "brand": "Esso"
+    },
+    {
+      "location": {
         "longitude": -2.19907,
         "latitude": 53.62233
       },
@@ -1457,8 +1472,8 @@
         "latitude": 50.81744
       },
       "prices": {
-        "E5": 176.9,
-        "E10": 157.9,
+        "E5": 177.9,
+        "E10": 158.9,
         "B7": 189.9
       },
       "site_id": "gcpcj7jcj1qm",
@@ -1997,9 +2012,9 @@
         "latitude": 50.83995
       },
       "prices": {
-        "E5": 176.9,
+        "E5": 177.9,
         "SDV": 210.9,
-        "E10": 157.9,
+        "E10": 158.9,
         "B7": 191.9
       },
       "site_id": "gcp95xjkhvd4",
@@ -2373,7 +2388,7 @@
         "latitude": 51.098
       },
       "prices": {
-        "E10": 155.9,
+        "E10": 156.9,
         "B7": 189.9
       },
       "site_id": "gcpfeq456mt6",
@@ -2388,9 +2403,9 @@
       },
       "prices": {
         "E5": 178.9,
-        "SDV": 210.9,
+        "SDV": 211.9,
         "E10": 159.9,
-        "B7": 191.9
+        "B7": 192.9
       },
       "site_id": "gcpsuk7rfqje",
       "postcode": "SL3 0EH",
@@ -2577,10 +2592,10 @@
         "latitude": 51.2495
       },
       "prices": {
-        "E5": 173.9,
-        "SDV": 205.9,
-        "E10": 153.9,
-        "B7": 185.9
+        "E5": 174.9,
+        "SDV": 204.9,
+        "E10": 154.9,
+        "B7": 184.9
       },
       "site_id": "gcpge3tjbp4z",
       "postcode": "RH2 9PD",
@@ -3636,7 +3651,7 @@
       },
       "prices": {
         "E10": 153.9,
-        "B7": 185.9
+        "B7": 186.9
       },
       "site_id": "gcw0jte1m2s4",
       "postcode": "WA3 2BE",
@@ -3697,8 +3712,8 @@
         "latitude": 50.86785
       },
       "prices": {
-        "E10": 159.9,
-        "B7": 191.9
+        "E10": 158.9,
+        "B7": 189.9
       },
       "site_id": "gcpcrk1yeqs8",
       "postcode": "BN7 3JR",
@@ -3711,9 +3726,9 @@
         "latitude": 50.86472
       },
       "prices": {
-        "E5": 178.9,
-        "E10": 159.9,
-        "B7": 191.9
+        "E5": 177.9,
+        "E10": 158.9,
+        "B7": 189.9
       },
       "site_id": "gcpcr58skxh1",
       "postcode": "BN7 3JJ",
@@ -4083,8 +4098,8 @@
         "latitude": 51.1098
       },
       "prices": {
-        "E5": 174.9,
-        "E10": 155.9,
+        "E5": 175.9,
+        "E10": 156.9,
         "B7": 189.9
       },
       "site_id": "gcpfg2600tm2",
@@ -4093,5 +4108,5 @@
       "brand": "Shell"
     }
   ],
-  "last_updated": "22/04/2026 10:55:03"
+  "last_updated": "23/04/2026 10:55:06"
 }
