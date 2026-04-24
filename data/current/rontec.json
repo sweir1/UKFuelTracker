@@ -894,7 +894,7 @@
       },
       "prices": {
         "SDV": 206.9,
-        "E10": 153.9,
+        "E10": 154.9,
         "B7": 187.9
       },
       "site_id": "gcqzqkn59pcj",
@@ -1162,9 +1162,9 @@
         "latitude": 50.78688
       },
       "prices": {
-        "E5": 172.9,
+        "E5": 173.9,
         "SDV": 208.9,
-        "E10": 153.9,
+        "E10": 154.9,
         "B7": 189.9
       },
       "site_id": "u100yj6pnb97",
@@ -1217,21 +1217,6 @@
       "site_id": "gcqdmh2mq2vj",
       "postcode": "B13 8AA",
       "address": "45 ALCESTER ROAD, MOSELEY, WARWICKSHIRE, B13 8AA",
-      "brand": "Esso"
-    },
-    {
-      "location": {
-        "longitude": -1.88135,
-        "latitude": 52.65674
-      },
-      "prices": {
-        "E5": 19,
-        "E10": 0,
-        "B7": 0
-      },
-      "site_id": "gcqet1y59rgc",
-      "postcode": "WS14 0BH",
-      "address": "A5 WATLING STREET, MUCKLEY CORNER, LICHFIELD, WS14 0BH",
       "brand": "Esso"
     },
     {
@@ -1472,8 +1457,8 @@
         "latitude": 50.81744
       },
       "prices": {
-        "E5": 177.9,
-        "E10": 158.9,
+        "E5": 178.9,
+        "E10": 159.9,
         "B7": 189.9
       },
       "site_id": "gcpcj7jcj1qm",
@@ -3665,9 +3650,9 @@
       },
       "prices": {
         "E5": 171.9,
-        "SDV": 204.9,
+        "SDV": 201.9,
         "E10": 152.9,
-        "B7": 185.9
+        "B7": 182.9
       },
       "site_id": "gcx1zuknuvjp",
       "postcode": "YO8 8SQ",
@@ -3696,9 +3681,9 @@
         "latitude": 52.670048
       },
       "prices": {
-        "E5": 177.9,
+        "E5": 176.9,
         "SDV": 208.9,
-        "E10": 158.9,
+        "E10": 157.9,
         "B7": 189.9
       },
       "site_id": "gcmg8uk960tf",
@@ -3712,7 +3697,7 @@
         "latitude": 50.86785
       },
       "prices": {
-        "E10": 158.9,
+        "E10": 157.9,
         "B7": 189.9
       },
       "site_id": "gcpcrk1yeqs8",
@@ -4083,9 +4068,9 @@
       },
       "prices": {
         "E5": 176.9,
-        "SDV": 208.9,
+        "SDV": 209.9,
         "E10": 157.9,
-        "B7": 189.9
+        "B7": 190.9
       },
       "site_id": "gcpdmcu9dryw",
       "postcode": "RH14 9LY",
@@ -4108,5 +4093,5 @@
       "brand": "Shell"
     }
   ],
-  "last_updated": "23/04/2026 10:55:06"
+  "last_updated": "24/04/2026 10:55:14"
 }
