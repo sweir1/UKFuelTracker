@@ -464,22 +464,6 @@
       }
     },
     {
-      "site_id": "gcqdptu29ckz",
-      "brand": "Esso",
-      "address": "MFG Brueton Park, WARWICK ROAD, SOLIHULL",
-      "postcode": "B91 3DD",
-      "location": {
-        "latitude": 52.414492,
-        "longitude": -1.773867
-      },
-      "prices": {
-        "E10": 159.9,
-        "E5": 175.9,
-        "B7": 189.9,
-        "SDV": 209.9
-      }
-    },
-    {
       "site_id": "gcqfjk3ye5rc",
       "brand": "Esso",
       "address": "MFG Butts Road, Butts Road, Coventry",
