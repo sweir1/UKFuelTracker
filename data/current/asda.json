@@ -6978,8 +6978,8 @@
       "address": "A40 North Bound, Monmouth",
       "postcode": "NP25 4BG",
       "location": {
-        "latitude": 51.772325,
-        "longitude": -2.813226
+        "latitude": 51.773281,
+        "longitude": -2.813934
       },
       "prices": {
         "E10": 167.9,
@@ -9078,11 +9078,11 @@
     {
       "site_id": "gcpwnfnpvf21",
       "brand": "Esso",
-      "address": "North Orbital Road, Garston",
+      "address": "North Orbital Road, St Albans",
       "postcode": "WD25 7LW",
       "location": {
-        "latitude": 51.692016,
-        "longitude": -0.398007
+        "latitude": 51.692014,
+        "longitude": -0.397931
       },
       "prices": {
         "E10": 161.9,
