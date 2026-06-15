@@ -1464,7 +1464,7 @@
     },
     {
       "site_id": "gcnkhgyfu0sm",
-      "brand": "Texaco",
+      "brand": "Valero",
       "address": "MFG Bradford-on-Avon, 47 Woolley Street, Bradford-on- Avon",
       "postcode": "BA15 1AF",
       "location": {
@@ -1480,7 +1480,7 @@
     },
     {
       "site_id": "gcnkr8vuhhr4",
-      "brand": "Texaco",
+      "brand": "Valero",
       "address": "MFG Melksham, Sandridge Road, Melksham",
       "postcode": "SN12 7QW",
       "location": {
@@ -5678,7 +5678,7 @@
     },
     {
       "site_id": "gcq3j2knt8y7",
-      "brand": "Texaco",
+      "brand": "Valero",
       "address": "MFG St. Stephens, 46-48 Droitwich Road, Worcester",
       "postcode": "WR3 7JF",
       "location": {
@@ -13941,7 +13941,7 @@
     {
       "site_id": "7zzzzzzzzzzz",
       "brand": "Morrisons",
-      "address": "MFG Morrisons Chingford, 6-7 Alisbury Hall Gardens, Chingford",
+      "address": "MFG Morrisons London Chingford, 6-7 Alisbury Hall Gardens, Chingford",
       "postcode": "E4 8SA",
       "location": {
         "latitude": 0,
