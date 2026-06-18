@@ -4258,11 +4258,11 @@
     {
       "site_id": "gcq36pwjefw1",
       "brand": "Esso",
-      "address": "6 Worcester Road, Great Witley",
+      "address": "Worcester Road, Great Witley",
       "postcode": "WR6 6HU",
       "location": {
-        "latitude": 52.293222,
-        "longitude": -2.364808
+        "latitude": 52.294228,
+        "longitude": -2.367244
       },
       "prices": {
         "E10": 162.9,
