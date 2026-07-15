@@ -5185,11 +5185,11 @@
     {
       "site_id": "gcmvuk7tsggg",
       "brand": "Esso",
-      "address": "Junction A5156/AA534, Wrexham",
+      "address": "Junction A5156, AA534, Wrexham",
       "postcode": "LL13 9SB",
       "location": {
-        "latitude": 53.066302,
-        "longitude": -2.972279
+        "latitude": 53.060028,
+        "longitude": -2.957189
       },
       "prices": {
         "E10": 151.9,
