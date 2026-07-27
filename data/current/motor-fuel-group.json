@@ -3423,7 +3423,7 @@
     },
     {
       "site_id": "gcjtded20v0r",
-      "brand": "Texaco",
+      "brand": "Valero",
       "address": "MFG Porth, North Road, Porth",
       "postcode": "CF39 9SH",
       "location": {
@@ -3663,7 +3663,7 @@
     },
     {
       "site_id": "gcjmnpuew7vs",
-      "brand": "Texaco",
+      "brand": "Valero",
       "address": "MFG Tondu, Maesteg Road, Tondu",
       "postcode": "CF32 9BT",
       "location": {
@@ -11618,22 +11618,6 @@
         "E10": 159.9,
         "E5": 175.9,
         "B7": 179.9,
-        "SDV": 195.9
-      }
-    },
-    {
-      "site_id": "gcvqe8bjd93n",
-      "brand": "Esso",
-      "address": "MFG Polmont, Main Street  Polmont, Falkirk",
-      "postcode": "FK2 0PS",
-      "location": {
-        "latitude": 55.9914,
-        "longitude": -3.71327
-      },
-      "prices": {
-        "E10": 155.9,
-        "E5": 175.9,
-        "B7": 169.9,
         "SDV": 195.9
       }
     },
