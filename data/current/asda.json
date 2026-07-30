@@ -5789,8 +5789,8 @@
       "address": "York Road, York",
       "postcode": "YO26 8EQ",
       "location": {
-        "latitude": 54.004097,
-        "longitude": -1.299326
+        "latitude": 54.004111,
+        "longitude": -1.299288
       },
       "prices": {
         "E10": 153.9,
@@ -7456,8 +7456,8 @@
       "address": "256 Church Road, Northolt",
       "postcode": "UB5 5AW",
       "location": {
-        "latitude": 51.542513,
-        "longitude": -0.379633
+        "latitude": 51.543206,
+        "longitude": -0.379906
       },
       "prices": {
         "E10": 150.7,
