@@ -2639,11 +2639,11 @@
     {
       "site_id": "gcrd8gbv2ce6",
       "brand": "BP",
-      "address": "Weldon Road, Corby",
+      "address": "A427 Weldon Road, Corby",
       "postcode": "NN17 3HT",
       "location": {
-        "latitude": 52.492212,
-        "longitude": -0.669099
+        "latitude": 52.49606,
+        "longitude": -0.65101
       },
       "prices": {
         "E10": 161.9,
