@@ -13347,22 +13347,6 @@
       }
     },
     {
-      "site_id": "gcqdk7ygtfwe",
-      "brand": "Texaco",
-      "address": "MFG Pershore, 593 Pershore Rd, Birmingham",
-      "postcode": "B29 7HA",
-      "location": {
-        "latitude": 52.447972,
-        "longitude": -1.913082
-      },
-      "prices": {
-        "E10": 156.9,
-        "E5": 175.9,
-        "B7": 177.9,
-        "SDV": 195.9
-      }
-    },
-    {
       "site_id": "gcp6u2451u00",
       "brand": "ESSO",
       "address": "MFG Bordon, High Street, Bordon",
