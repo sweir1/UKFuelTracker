@@ -31,7 +31,7 @@
     },
     {
       "site_id": "gfj6057mn7se",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "46 Dunkeld Street, Aberfeldy",
       "postcode": "PH15 2AF",
       "location": {
@@ -60,7 +60,7 @@
     },
     {
       "site_id": "gcnvgfzs2pgq",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Park Road, Faringdon",
       "postcode": "SN7 7BU",
       "location": {
@@ -75,7 +75,7 @@
     },
     {
       "site_id": "gcrn076n5e8h",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Chesterfield Rd, Alfreton",
       "postcode": "DE55 6AW",
       "location": {
@@ -91,7 +91,7 @@
     },
     {
       "site_id": "gcmzsvd7bbrf",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "17A Aigburth Road, Liverpool",
       "postcode": "L17 4JP",
       "location": {
@@ -121,7 +121,7 @@
     },
     {
       "site_id": "u10j2f87ut0h",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "19 Aldersbrook Road, Greater London",
       "postcode": "E12 5HH",
       "location": {
@@ -151,7 +151,7 @@
     },
     {
       "site_id": "gcpv1jxmkp1q",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "418 Ealing Road, Wembley",
       "postcode": "HA0 1JQ",
       "location": {
@@ -167,7 +167,7 @@
     },
     {
       "site_id": "gcqrdrnfh9nk",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Dunham Road, Altrincham",
       "postcode": "WA14 4NX",
       "location": {
@@ -182,7 +182,7 @@
     },
     {
       "site_id": "gcqrksxqfqs8",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "Altrincham Road, Wilmslow",
       "postcode": "SK9 5NN",
       "location": {
@@ -212,7 +212,7 @@
     },
     {
       "site_id": "gcwfmhm1kf01",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "495 Harrogate Road, Leeds",
       "postcode": "LS17 7DA",
       "location": {
@@ -228,7 +228,7 @@
     },
     {
       "site_id": "gcng0h8cf4v2",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Mid Summer Place, Salisbury",
       "postcode": "SP4 7SQ",
       "location": {
@@ -244,7 +244,7 @@
     },
     {
       "site_id": "gctfeh7y8ct5",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Fleetwood Road, Thornton-Cleveleys",
       "postcode": "FY5 1LZ",
       "location": {
@@ -260,7 +260,7 @@
     },
     {
       "site_id": "gcyck033zj0b",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Moorfarm Roundabout, Cramlington",
       "postcode": "NE23 7QA",
       "location": {
@@ -303,7 +303,7 @@
     },
     {
       "site_id": "gcqdtxr60tsb",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Powick Road, Birmingham",
       "postcode": "B23 7PG",
       "location": {
@@ -333,7 +333,7 @@
     },
     {
       "site_id": "gcwfh1sjpc9d",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Armley Road, Leeds",
       "postcode": "LS12 2QN",
       "location": {
@@ -377,7 +377,7 @@
     },
     {
       "site_id": "gcps2xp0j8gn",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "High Street, Ascot",
       "postcode": "SL5 7HB",
       "location": {
@@ -392,7 +392,7 @@
     },
     {
       "site_id": "gcqunfb7vc29",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Ashby Gateway, Ashby de la Zouch",
       "postcode": "LE65 1JP",
       "location": {
@@ -408,7 +408,7 @@
     },
     {
       "site_id": "gcycue3w57qp",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Newbiggin Road, Ashington",
       "postcode": "NE63 0XF",
       "location": {
@@ -452,7 +452,7 @@
     },
     {
       "site_id": "gcw227f137e4",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Manchester Road, Manchester",
       "postcode": "M29 7BQ",
       "location": {
@@ -467,7 +467,7 @@
     },
     {
       "site_id": "gcrpd69644rh",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Worksop Road, Sheffield",
       "postcode": "S26 2EA",
       "location": {
@@ -482,7 +482,7 @@
     },
     {
       "site_id": "gcqdsgr183jg",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "305 Corporation Street, Birmingham",
       "postcode": "B4 7DT",
       "location": {
@@ -526,7 +526,7 @@
     },
     {
       "site_id": "gcg81k9xve76",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "121 Broughshane Street, Ballymena",
       "postcode": "BT43 6EE",
       "location": {
@@ -540,7 +540,7 @@
     },
     {
       "site_id": "gcr01ccvbz80",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Oxford Road, Banbury",
       "postcode": "OX15 4AB",
       "location": {
@@ -556,7 +556,7 @@
     },
     {
       "site_id": "gcmne91eyyy3",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Junction A5/55 Expressway, Bangor",
       "postcode": "LL57 4BG",
       "location": {
@@ -600,7 +600,7 @@
     },
     {
       "site_id": "gcz02151s37w",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Durham Road, Sunderland",
       "postcode": "SR2 7RB",
       "location": {
@@ -685,7 +685,7 @@
     },
     {
       "site_id": "gcw633rdurqc",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Holm Road, Clitheroe",
       "postcode": "BB7 9WF",
       "location": {
@@ -728,7 +728,7 @@
     },
     {
       "site_id": "gcx9msxdqdh6",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A1077 Ferriby Road, Barton-Upon-Humber",
       "postcode": "DN18 5LQ",
       "location": {
@@ -758,7 +758,7 @@
     },
     {
       "site_id": "gcp5x64y16yq",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "Grove Road, Basingstoke",
       "postcode": "RG21 3AX",
       "location": {
@@ -773,7 +773,7 @@
     },
     {
       "site_id": "gcn8t3q6ku0d",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Bath Road, Bournemouth",
       "postcode": "BH1 2NJ",
       "location": {
@@ -789,7 +789,7 @@
     },
     {
       "site_id": "gcppsu00f9ys",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Baynards Green Service Station, A43, Bicester",
       "postcode": "OX27 7SG",
       "location": {
@@ -804,7 +804,7 @@
     },
     {
       "site_id": "gcq59nnuq9um",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Hereford Road, Shrewsbury",
       "postcode": "SY3 0DA",
       "location": {
@@ -876,7 +876,7 @@
     },
     {
       "site_id": "gcpqjpdmdxdk",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Bell Street, Princes Risborough",
       "postcode": "HP27 0DG",
       "location": {
@@ -892,7 +892,7 @@
     },
     {
       "site_id": "gcpedgy96sdd",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Woking Road, Guildford",
       "postcode": "GU1 1NH",
       "location": {
@@ -908,7 +908,7 @@
     },
     {
       "site_id": "gcpv8c9p6urb",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Belmont Circle, Harrow",
       "postcode": "HA3 8SF",
       "location": {
@@ -938,7 +938,7 @@
     },
     {
       "site_id": "gcpk9ty7zg64",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "10 Berkeley Avenue, Reading",
       "postcode": "RG1 6JT",
       "location": {
@@ -967,7 +967,7 @@
     },
     {
       "site_id": "gcppjwcq5j9s",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Oxford Road, Bicester",
       "postcode": "OX26 1BT",
       "location": {
@@ -983,7 +983,7 @@
     },
     {
       "site_id": "gcqf2gm95zy5",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Coventry Road, Solihull",
       "postcode": "B92 0EH",
       "location": {
@@ -1013,7 +1013,7 @@
     },
     {
       "site_id": "u105bv8959tq",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "141 Main Road, Westerham",
       "postcode": "TN16 3DX",
       "location": {
@@ -1028,7 +1028,7 @@
     },
     {
       "site_id": "gcw06pwp93q4",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "275 Upholland Road, Wigan",
       "postcode": "WN5 7DN",
       "location": {
@@ -1044,7 +1044,7 @@
     },
     {
       "site_id": "gcq7qhd1msfg",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Wolverhampton Road, Codsall",
       "postcode": "WV8 1PD",
       "location": {
@@ -1074,7 +1074,7 @@
     },
     {
       "site_id": "gcqyz80hrwft",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Derby Road, Chesterfield",
       "postcode": "S40 2EU",
       "location": {
@@ -1089,7 +1089,7 @@
     },
     {
       "site_id": "gfjc6s22p2cn",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Birkhill Auto Point, Dundee",
       "postcode": "DD2 5RG",
       "location": {
@@ -1146,7 +1146,7 @@
     },
     {
       "site_id": "gcw2gb89u16v",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "531 Manchester Road, Bury",
       "postcode": "BL9 9ST",
       "location": {
@@ -1176,7 +1176,7 @@
     },
     {
       "site_id": "gcjtzm4ufg7q",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "235 High St, Blackwood",
       "postcode": "NP2 1AH",
       "location": {
@@ -1205,7 +1205,7 @@
     },
     {
       "site_id": "gcvj6fw2m0cc",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "East Ave, Blantyre",
       "postcode": "G72 0JB",
       "location": {
@@ -1235,7 +1235,7 @@
     },
     {
       "site_id": "gcrpxygktuc9",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Moto Service Area, Hilltop Roundabout, Worksop",
       "postcode": "S81 8HG",
       "location": {
@@ -1279,7 +1279,7 @@
     },
     {
       "site_id": "gcp9006uxenw",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "449 Chichester Road, Bognor Regis",
       "postcode": "PO21 5DS",
       "location": {
@@ -1351,7 +1351,7 @@
     },
     {
       "site_id": "gcpqtxx2ybd9",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Wendover Road, Aylesbury",
       "postcode": "HP21 9LB",
       "location": {
@@ -1381,7 +1381,7 @@
     },
     {
       "site_id": "gcvj7xmhccb3",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "M74 Southbound, Bothwell",
       "postcode": "G71 8BG",
       "location": {
@@ -1397,7 +1397,7 @@
     },
     {
       "site_id": "gcn8td7z1m3p",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "157 Holdenhurst Road, Bournemouth",
       "postcode": "BH8 8DQ",
       "location": {
@@ -1413,7 +1413,7 @@
     },
     {
       "site_id": "gcpvpkrumb3n",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "127-131 Bow Road, London",
       "postcode": "E3 2AN",
       "location": {
@@ -1456,7 +1456,7 @@
     },
     {
       "site_id": "gcxnktfccybr",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Longlands Road, Middlesbrough",
       "postcode": "TS3 8EL",
       "location": {
@@ -1472,7 +1472,7 @@
     },
     {
       "site_id": "gcpe5rc0qmz5",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "High Street, Guildford",
       "postcode": "GU5 0HB",
       "location": {
@@ -1487,7 +1487,7 @@
     },
     {
       "site_id": "gcpmpb2fqsby",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Windsor Road, Maidenhead",
       "postcode": "SL6 1UZ",
       "location": {
@@ -1517,7 +1517,7 @@
     },
     {
       "site_id": "gcqrzvhrrmdq",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Lower Bents Ln, Stockport",
       "postcode": "SK6 2NJ",
       "location": {
@@ -1532,7 +1532,7 @@
     },
     {
       "site_id": "gcwnctcpzxsy",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Bridge Lane, Penrith",
       "postcode": "CA11 8JB",
       "location": {
@@ -1561,7 +1561,7 @@
     },
     {
       "site_id": "gcq6c6m78jnx",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Chartwell Business Park, Stourbridge",
       "postcode": "WV15 6AN",
       "location": {
@@ -1591,7 +1591,7 @@
     },
     {
       "site_id": "gcxgepyw7yy8",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Scarborough Road, Bridlington",
       "postcode": "YO16 7NS",
       "location": {
@@ -1649,7 +1649,7 @@
     },
     {
       "site_id": "gcrpbfevbn85",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Bawtry Road, Rotherham",
       "postcode": "S60 5DL",
       "location": {
@@ -1693,7 +1693,7 @@
     },
     {
       "site_id": "gf5v9skfrr5f",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Main Street, Isle of Skye",
       "postcode": "IV49 9AE",
       "location": {
@@ -1709,7 +1709,7 @@
     },
     {
       "site_id": "gcp1dmxhzf0b",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "Grange Road, Southampton",
       "postcode": "SO30 2FU",
       "location": {
@@ -1725,7 +1725,7 @@
     },
     {
       "site_id": "gcpz5vbq37rz",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Broadwater Crescent, Stevenage",
       "postcode": "SG2 8EH",
       "location": {
@@ -1741,7 +1741,7 @@
     },
     {
       "site_id": "gcwf62mdx842",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A6120 Broadway, Horsforth",
       "postcode": "LS18 4DY",
       "location": {
@@ -1771,7 +1771,7 @@
     },
     {
       "site_id": "gcq5r9qevdm6",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Ironbridge Road, Broseley",
       "postcode": "TF12 5DJ",
       "location": {
@@ -1787,7 +1787,7 @@
     },
     {
       "site_id": "gcr5f3cm573y",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "32 Shaw Lane, Leicester",
       "postcode": "LE67 9PU",
       "location": {
@@ -1803,7 +1803,7 @@
     },
     {
       "site_id": "gcpr9p4ffkfj",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Buckingham Ring Road, Buckingham",
       "postcode": "MK18 1RY",
       "location": {
@@ -1819,7 +1819,7 @@
     },
     {
       "site_id": "gcm8dw51gpm2",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Station Road, Builth Wells",
       "postcode": "LD2 3SS",
       "location": {
@@ -1863,7 +1863,7 @@
     },
     {
       "site_id": "u121rkybrev9",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Ness Road, Cambridge",
       "postcode": "CB25 0AA",
       "location": {
@@ -1920,7 +1920,7 @@
     },
     {
       "site_id": "gfjckcfwhmv9",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "61 Forfar Road, Dundee",
       "postcode": "DD4 9BS",
       "location": {
@@ -1936,7 +1936,7 @@
     },
     {
       "site_id": "gcnty0nqqshf",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A419 Crickla, Swindon",
       "postcode": "SN6 6JR",
       "location": {
@@ -1966,7 +1966,7 @@
     },
     {
       "site_id": "gcqfh9xp9g5b",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Fletchamstead Highway, Coventry",
       "postcode": "CV4 7BB",
       "location": {
@@ -1982,7 +1982,7 @@
     },
     {
       "site_id": "gcqee4q8n21f",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Watling Street, Cannock",
       "postcode": "WS11 9NA",
       "location": {
@@ -2068,7 +2068,7 @@
     },
     {
       "site_id": "gcw5buuzv994",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "97 Lancaster Road, Carnforth",
       "postcode": "LA5 9EA",
       "location": {
@@ -2098,7 +2098,7 @@
     },
     {
       "site_id": "gcjvkpbkbqm2",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "17-25 Chepstow Road, Newport",
       "postcode": "NP19 8BW",
       "location": {
@@ -2114,7 +2114,7 @@
     },
     {
       "site_id": "gcqptjdfk3ry",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Wilderspool Causeway, Warrington",
       "postcode": "WA4 6QE",
       "location": {
@@ -2130,7 +2130,7 @@
     },
     {
       "site_id": "gcqg5qggnbq1",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Watling Street, Tamworth",
       "postcode": "B78 1SS",
       "location": {
@@ -2146,7 +2146,7 @@
     },
     {
       "site_id": "gcybh1mz0wr7",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Ropery Lane, Chester-le-Street",
       "postcode": "DH3 3AP",
       "location": {
@@ -2176,7 +2176,7 @@
     },
     {
       "site_id": "u10k8fzv2xg3",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Rochester Road, Gravesend",
       "postcode": "DA12 4TN",
       "location": {
@@ -2205,7 +2205,7 @@
     },
     {
       "site_id": "gcn8tthhbqde",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "332/334 Charminster Road, Bournemouth",
       "postcode": "BH8 9QW",
       "location": {
@@ -2262,7 +2262,7 @@
     },
     {
       "site_id": "gcjtrxznm8mk",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Newport Road, Caerphilly",
       "postcode": "CF83 8GB",
       "location": {
@@ -2278,7 +2278,7 @@
     },
     {
       "site_id": "gcpph52vmjym",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Northampton Road, Bicester",
       "postcode": "OX27 7RD",
       "location": {
@@ -2308,7 +2308,7 @@
     },
     {
       "site_id": "gcp1cque463p",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "10 Bishopstoke Road, Eastleigh",
       "postcode": "SO50 6AF",
       "location": {
@@ -2324,7 +2324,7 @@
     },
     {
       "site_id": "gcnv0f2tjrq3",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Marlborough Road, Swindon",
       "postcode": "SN4 0NR",
       "location": {
@@ -2339,7 +2339,7 @@
     },
     {
       "site_id": "gcw15vhc51ms",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "117 Moor Road, Chorley",
       "postcode": "PR7 2NU",
       "location": {
@@ -2369,7 +2369,7 @@
     },
     {
       "site_id": "gcn8xk6gjn4f",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "58 Barrack Road, Christchurch",
       "postcode": "BH23 1PQ",
       "location": {
@@ -2385,7 +2385,7 @@
     },
     {
       "site_id": "gcw24g7zthk0",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Audley Avenue, Stretford",
       "postcode": "M32 9TR",
       "location": {
@@ -2415,7 +2415,7 @@
     },
     {
       "site_id": "gcpuuc8hv7zc",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "474-488 Wandsworth Road, London",
       "postcode": "SW8 3LT",
       "location": {
@@ -2430,7 +2430,7 @@
     },
     {
       "site_id": "gcw1ef1wbwr4",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Preston Road, Chorley",
       "postcode": "PR6 7EJ",
       "location": {
@@ -2460,7 +2460,7 @@
     },
     {
       "site_id": "gcpstszqedr3",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Clockhouse Lane, Feltham",
       "postcode": "TW14 8RD",
       "location": {
@@ -2489,7 +2489,7 @@
     },
     {
       "site_id": "gcmvf43w1r1k",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "High Street, Wrexham",
       "postcode": "LL11 3UF",
       "location": {
@@ -2505,7 +2505,7 @@
     },
     {
       "site_id": "u10x5ehnesgd",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "246 Shrub End Road, Colchester",
       "postcode": "CO3 4SA",
       "location": {
@@ -2562,7 +2562,7 @@
     },
     {
       "site_id": "gcw6q5hbxjzx",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Burnley Road, Colne",
       "postcode": "BB8 9NW",
       "location": {
@@ -2592,7 +2592,7 @@
     },
     {
       "site_id": "gcrs6h7jsd83",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A1 South Bound, Grantham",
       "postcode": "NG33 5JN",
       "location": {
@@ -2622,7 +2622,7 @@
     },
     {
       "site_id": "gcpfvszy8srf",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Copthorne Common, Crawley",
       "postcode": "RH10 3LF",
       "location": {
@@ -2638,7 +2638,7 @@
     },
     {
       "site_id": "gcrd8gbv2ce6",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "A427 Weldon Road, Corby",
       "postcode": "NN17 3HT",
       "location": {
@@ -2668,7 +2668,7 @@
     },
     {
       "site_id": "gcwfq90gxt8w",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Wetherby Road, Leeds",
       "postcode": "LS17 8ND",
       "location": {
@@ -2684,7 +2684,7 @@
     },
     {
       "site_id": "gcnkw5315nez",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "101 Pickwick Road, Corsham",
       "postcode": "SN13 9DA",
       "location": {
@@ -2700,7 +2700,7 @@
     },
     {
       "site_id": "gcr5mbfbbq12",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Aylestone Road, Leicester",
       "postcode": "LE2 8JB",
       "location": {
@@ -2730,7 +2730,7 @@
     },
     {
       "site_id": "gcpfu9s71tf6",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "Balcombe Road, Crawley",
       "postcode": "RH10 7RU",
       "location": {
@@ -2746,7 +2746,7 @@
     },
     {
       "site_id": "gcj2uvr2v9t2",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Exeter Road, Crediton",
       "postcode": "EX17 3BN",
       "location": {
@@ -2762,7 +2762,7 @@
     },
     {
       "site_id": "gcrp8kh7pmrn",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "320 Handsworth Road, Sheffield",
       "postcode": "S13 9BX",
       "location": {
@@ -2778,7 +2778,7 @@
     },
     {
       "site_id": "gcqmbt6qzuxk",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Jack Mills Way, Crewe",
       "postcode": "CW2 5UZ",
       "location": {
@@ -2794,7 +2794,7 @@
     },
     {
       "site_id": "gcqq0hyqc1zz",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Bradfield Road, Crewe",
       "postcode": "CW1 3RD",
       "location": {
@@ -2810,7 +2810,7 @@
     },
     {
       "site_id": "gcjz093cqr93",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Brecon Road, Powys",
       "postcode": "NP8 1DE",
       "location": {
@@ -2826,7 +2826,7 @@
     },
     {
       "site_id": "gcybfsyfg90k",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "Kenton Ln, Newcastle upon Tyne",
       "postcode": "NE3 3ED",
       "location": {
@@ -2842,7 +2842,7 @@
     },
     {
       "site_id": "gcwddst8qhvv",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Station Road, Keighley",
       "postcode": "BD20 7DX",
       "location": {
@@ -2857,7 +2857,7 @@
     },
     {
       "site_id": "gcpvmq336rj1",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "Tottenham Lane, London",
       "postcode": "N8 8SE",
       "location": {
@@ -2886,7 +2886,7 @@
     },
     {
       "site_id": "gcvbjr1kgy4y",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Currock Road, Carlisle",
       "postcode": "CA2 4AS",
       "location": {
@@ -2902,7 +2902,7 @@
     },
     {
       "site_id": "gcjvfb959f32",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Henllys Way, Newport",
       "postcode": "NP44 3JA",
       "location": {
@@ -2918,7 +2918,7 @@
     },
     {
       "site_id": "gcpwkvcufqrw",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Warners End Road, Hemel Hempstead",
       "postcode": "HP1 3QF",
       "location": {
@@ -2934,7 +2934,7 @@
     },
     {
       "site_id": "u10j6cvtj1gw",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "402-410 Becontree Avenue, Dagenham",
       "postcode": "RM8 2UU",
       "location": {
@@ -2977,7 +2977,7 @@
     },
     {
       "site_id": "gcmygd6ygfex",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Parkway, Deeside",
       "postcode": "CH5 2NS",
       "location": {
@@ -2993,7 +2993,7 @@
     },
     {
       "site_id": "gcptkdtws8k9",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Oxford Road, Uxbridge",
       "postcode": "UB9 4DF",
       "location": {
@@ -3037,7 +3037,7 @@
     },
     {
       "site_id": "u10gy90fqzv5",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "Montagu Road, Sandwich",
       "postcode": "CT13 9FA",
       "location": {
@@ -3081,7 +3081,7 @@
     },
     {
       "site_id": "gcnv27c5cyx1",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Dorcan Way, Swindon",
       "postcode": "SN3 3RA",
       "location": {
@@ -3097,7 +3097,7 @@
     },
     {
       "site_id": "gft8n3nc62nz",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Dounby, Kirkwall",
       "postcode": "KW17 2HT",
       "location": {
@@ -3111,7 +3111,7 @@
     },
     {
       "site_id": "gcjsdpgtj7zd",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Cowbridge Bypass, Cowbridge",
       "postcode": "CF71 7DT",
       "location": {
@@ -3127,7 +3127,7 @@
     },
     {
       "site_id": "gcpv63n1mk96",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Dudden Hill Lane, Willesden",
       "postcode": "NW10 1DE",
       "location": {
@@ -3157,7 +3157,7 @@
     },
     {
       "site_id": "gcqvn72ktxdg",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "27 Duffield Road, Derby",
       "postcode": "DE1 3BH",
       "location": {
@@ -3172,7 +3172,7 @@
     },
     {
       "site_id": "gcjg5frwpvsc",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Dunball Roundabout, Bridgwater",
       "postcode": "TA6 4TP",
       "location": {
@@ -3202,7 +3202,7 @@
     },
     {
       "site_id": "gcvn7qq6bgpx",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "3 Glasgow Road, Glasgow",
       "postcode": "G65 9AE",
       "location": {
@@ -3274,7 +3274,7 @@
     },
     {
       "site_id": "gcp9nesqmxek",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "The Boulevard, Nelson Road, Worthing",
       "postcode": "BN13 1JY",
       "location": {
@@ -3360,7 +3360,7 @@
     },
     {
       "site_id": "gcnhvfd3t035",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Muller Road, Bristol",
       "postcode": "BS5 6PX",
       "location": {
@@ -3376,7 +3376,7 @@
     },
     {
       "site_id": "gcqkrwtrybd2",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "59 Eccleshall Road, Stafford",
       "postcode": "ST16 2SL",
       "location": {
@@ -3406,7 +3406,7 @@
     },
     {
       "site_id": "gfjxvszp2w12",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "Coxton Park, Elgin",
       "postcode": "IV30 8AZ",
       "location": {
@@ -3436,7 +3436,7 @@
     },
     {
       "site_id": "gcmzjfvjw99k",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "118 Whitby Road, Ellesmere Port",
       "postcode": "CH65 6TF",
       "location": {
@@ -3452,7 +3452,7 @@
     },
     {
       "site_id": "gcr5bcsskn11",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "99 Midland Road, Coalville",
       "postcode": "LE67 1EH",
       "location": {
@@ -3482,7 +3482,7 @@
     },
     {
       "site_id": "gcpvc07jf2q8",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Elstree Hill South, Borehamwood",
       "postcode": "WD6 3BL",
       "location": {
@@ -3498,7 +3498,7 @@
     },
     {
       "site_id": "gcpxjwxqc547",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "518 Dunstable Road, Luton",
       "postcode": "LU4 8DL",
       "location": {
@@ -3528,7 +3528,7 @@
     },
     {
       "site_id": "gcr04nc8hd99",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Ermont Way, Banbury",
       "postcode": "OX16 8SZ",
       "location": {
@@ -3544,7 +3544,7 @@
     },
     {
       "site_id": "gcqmqvjnvhnt",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Blurton Road, Stoke-on-trent",
       "postcode": "ST3 2AQ",
       "location": {
@@ -3560,7 +3560,7 @@
     },
     {
       "site_id": "gcq87z4wjexx",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "A46 Evesham Bypass, Evesham",
       "postcode": "WR11 4TP",
       "location": {
@@ -3575,7 +3575,7 @@
     },
     {
       "site_id": "gcrg7f2pgmvh",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A47 East Bound, Eye",
       "postcode": "PE6 7SZ",
       "location": {
@@ -3605,7 +3605,7 @@
     },
     {
       "site_id": "gcp1k6hp9d74",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "165 Highlands Road, Fareham",
       "postcode": "PO15 5PR",
       "location": {
@@ -3634,7 +3634,7 @@
     },
     {
       "site_id": "gcqp9xq72y04",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "184-186 Lunts Heath Road, Halton",
       "postcode": "WA8 5AZ",
       "location": {
@@ -3663,7 +3663,7 @@
     },
     {
       "site_id": "gcqmrpkm70wc",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "King Street, Stoke-on-trent",
       "postcode": "ST4 2LT",
       "location": {
@@ -3679,7 +3679,7 @@
     },
     {
       "site_id": "gcpmpkdcfxcx",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Gringer Hill, Marlow Road, Maidenhead",
       "postcode": "SL6 7LZ",
       "location": {
@@ -3708,7 +3708,7 @@
     },
     {
       "site_id": "gcxcbs16qsjb",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Stoneferry Retail Park, Stoneferry Road, Hull",
       "postcode": "HU7 0BA",
       "location": {
@@ -3724,7 +3724,7 @@
     },
     {
       "site_id": "gcr9c0t37pct",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Burton Road, Wellingborough",
       "postcode": "NN9 5HX",
       "location": {
@@ -3754,7 +3754,7 @@
     },
     {
       "site_id": "gcjy57w8xw24",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A4042 Roundabout, Pontypool",
       "postcode": "NP4 0XB",
       "location": {
@@ -3770,7 +3770,7 @@
     },
     {
       "site_id": "gcwys2vdehyq",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "Newton Park Service Station, Coatham Mundeville",
       "postcode": "DL1 3NL",
       "location": {
@@ -3814,7 +3814,7 @@
     },
     {
       "site_id": "gcp7yz6qkhwx",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "156 Frimley Road, Camberley",
       "postcode": "GU15 2QL",
       "location": {
@@ -3844,7 +3844,7 @@
     },
     {
       "site_id": "gcvj8vnw5kxg",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "2101 London Rd, Glasgow",
       "postcode": "G32 8XQ",
       "location": {
@@ -3888,7 +3888,7 @@
     },
     {
       "site_id": "gcvjdrye7gnx",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "61 Edinburgh Road, Glasgow",
       "postcode": "G69 6DD",
       "location": {
@@ -3918,7 +3918,7 @@
     },
     {
       "site_id": "gcq7rwhkh4y7",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Stafford Rd, Wolverhampton",
       "postcode": "WV10 7ER",
       "location": {
@@ -3934,7 +3934,7 @@
     },
     {
       "site_id": "gcqbyjxpf4j9",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Banbury Road, Warwick",
       "postcode": "CV35 0HA",
       "location": {
@@ -3950,7 +3950,7 @@
     },
     {
       "site_id": "u10km17zjgf4",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Cornwallis Roundabout, Gillingham",
       "postcode": "ME8 6PS",
       "location": {
@@ -4007,7 +4007,7 @@
     },
     {
       "site_id": "gcp7sycbhvmu",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "42 Reading Road South, Fleet",
       "postcode": "GU51 3QP",
       "location": {
@@ -4064,7 +4064,7 @@
     },
     {
       "site_id": "gcwc9tn5d0bd",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Oxford Road, Cleckheaton",
       "postcode": "BD19 4PY",
       "location": {
@@ -4080,7 +4080,7 @@
     },
     {
       "site_id": "gcpt475bndsn",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "93 Stoke Poges Lane, Slough",
       "postcode": "SL1 3NJ",
       "location": {
@@ -4110,7 +4110,7 @@
     },
     {
       "site_id": "gcyc4gpcpxj5",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Rotary Way, Newcastle Upon Tyne",
       "postcode": "NE3 5EH",
       "location": {
@@ -4139,7 +4139,7 @@
     },
     {
       "site_id": "gcp1m0485ctp",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "86 Gosport Road, Fareham",
       "postcode": "PO16 0QW",
       "location": {
@@ -4169,7 +4169,7 @@
     },
     {
       "site_id": "gcqn8heeg0ee",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Tarvin Road, Chester",
       "postcode": "CH3 7HN",
       "location": {
@@ -4241,7 +4241,7 @@
     },
     {
       "site_id": "gcqrxpurh5mz",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "172-6 Buxton Road, Stockport",
       "postcode": "SK2 6HA",
       "location": {
@@ -4257,7 +4257,7 @@
     },
     {
       "site_id": "gcq36pwjefw1",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Worcester Road, Great Witley",
       "postcode": "WR6 6HU",
       "location": {
@@ -4285,7 +4285,7 @@
     },
     {
       "site_id": "gcnfjumnmwe9",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Great Bridge Road, Romsey",
       "postcode": "SO51 0HB",
       "location": {
@@ -4301,7 +4301,7 @@
     },
     {
       "site_id": "gcw2ejxxbh46",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "New Road, Radcliffe",
       "postcode": "M26 1LS",
       "location": {
@@ -4331,7 +4331,7 @@
     },
     {
       "site_id": "gcmzeqkd9m6s",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "6 New Chester Road, Birkenhead",
       "postcode": "CH41 9AZ",
       "location": {
@@ -4361,7 +4361,7 @@
     },
     {
       "site_id": "gcybr92s8zzm",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "The Broadway, Sunderland",
       "postcode": "SR4 8LP",
       "location": {
@@ -4377,7 +4377,7 @@
     },
     {
       "site_id": "gcqryctqkecf",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Wellington New Road, Stockport",
       "postcode": "SK1 3UA",
       "location": {
@@ -4393,7 +4393,7 @@
     },
     {
       "site_id": "gcxnpxbdjcez",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Woodhouse Triangle, Guisborough",
       "postcode": "TS14 6QU",
       "location": {
@@ -4408,7 +4408,7 @@
     },
     {
       "site_id": "gbuzrun7euzg",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Pearce's Garage, Gunnislake",
       "postcode": "PL18 9EE",
       "location": {
@@ -4424,7 +4424,7 @@
     },
     {
       "site_id": "gcq6h75932he",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Franche Road, Kidderminster",
       "postcode": "DY11 5BL",
       "location": {
@@ -4440,7 +4440,7 @@
     },
     {
       "site_id": "gcyn242cfu45",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "Haddington Retail Park, Haddington",
       "postcode": "EH41 3FW",
       "location": {
@@ -4456,7 +4456,7 @@
     },
     {
       "site_id": "gcw9tdtq93sz",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Skircoat Road, Halifax",
       "postcode": "HX1 2JN",
       "location": {
@@ -4486,7 +4486,7 @@
     },
     {
       "site_id": "gcpw7qjdh0ys",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "London Road, Berkhamsted",
       "postcode": "HP4 2NB",
       "location": {
@@ -4502,7 +4502,7 @@
     },
     {
       "site_id": "gcqp6dgqkyb6",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Hallwood Link Road South, Runcorn",
       "postcode": "WA7 2HQ",
       "location": {
@@ -4518,7 +4518,7 @@
     },
     {
       "site_id": "gcm9265z20w4",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Doldowlod, Llandrindod Wells",
       "postcode": "LD1 6NN",
       "location": {
@@ -4532,7 +4532,7 @@
     },
     {
       "site_id": "gcvjk5yudhyg",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "M74 Northbound, Hamilton",
       "postcode": "ML3 6JW",
       "location": {
@@ -4548,7 +4548,7 @@
     },
     {
       "site_id": "gcmyw3c7h0px",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Queen's Park Road, Chester",
       "postcode": "CH4 7JF",
       "location": {
@@ -4564,7 +4564,7 @@
     },
     {
       "site_id": "gcqmmuyyy5nk",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Stone Road A34, Stoke-on-trent",
       "postcode": "ST4 4QB",
       "location": {
@@ -4580,7 +4580,7 @@
     },
     {
       "site_id": "gcqd7tf0strm",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "261-263 High Street, Birmingham",
       "postcode": "B17 9QG",
       "location": {
@@ -4596,7 +4596,7 @@
     },
     {
       "site_id": "gcq5cdembtf8",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Harlescott Ln, Shrewsbury",
       "postcode": "SY1 3AP",
       "location": {
@@ -4640,7 +4640,7 @@
     },
     {
       "site_id": "gcq3tt0pr9f9",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Crown Lane, Waresley",
       "postcode": "DY11 7XP",
       "location": {
@@ -4698,7 +4698,7 @@
     },
     {
       "site_id": "gcp6xk1pwb22",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Hindhead Road, Haslemere",
       "postcode": "GU27 1LE",
       "location": {
@@ -4728,7 +4728,7 @@
     },
     {
       "site_id": "gcrh7chm41q3",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Derby Road, Loughborough",
       "postcode": "LE12 5LD",
       "location": {
@@ -4786,7 +4786,7 @@
     },
     {
       "site_id": "gcp31eusr1ut",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "181 Havant Road, Hayling Island",
       "postcode": "PO11 0LG",
       "location": {
@@ -4802,7 +4802,7 @@
     },
     {
       "site_id": "gcqx8h2eq6q0",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Buxton Road, Stockport",
       "postcode": "SK7 6AF",
       "location": {
@@ -4818,7 +4818,7 @@
     },
     {
       "site_id": "gcpmzg43fy21",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Amersham Road, High Wycombe",
       "postcode": "HP15 7HN",
       "location": {
@@ -4833,7 +4833,7 @@
     },
     {
       "site_id": "gcvmgf8w23h1",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "Heartlands Business Park, Junction 4A M8, Bathgate",
       "postcode": "EH47 0HT",
       "location": {
@@ -4849,7 +4849,7 @@
     },
     {
       "site_id": "gcrn9s8rf52y",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Mansfield Road, Heath",
       "postcode": "S44 5SF",
       "location": {
@@ -4865,7 +4865,7 @@
     },
     {
       "site_id": "gcpsyn344h58",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Shepiston Lane, Hayes",
       "postcode": "UB3 1LL",
       "location": {
@@ -4881,7 +4881,7 @@
     },
     {
       "site_id": "gcpsubr28zgm",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Southern Perimeter Road, Hounslow",
       "postcode": "TW6 3PF",
       "location": {
@@ -4897,7 +4897,7 @@
     },
     {
       "site_id": "gcpwtbut6km9",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Redbourn Road, Hemel Hempstead",
       "postcode": "HP2 7BA",
       "location": {
@@ -4911,7 +4911,7 @@
     },
     {
       "site_id": "gcq04n9u37v6",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Holmer Road, Hereford",
       "postcode": "HR4 9RX",
       "location": {
@@ -4941,7 +4941,7 @@
     },
     {
       "site_id": "gcx9xy64rwej",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "181 Hessle Road, Hull",
       "postcode": "HU3 4AA",
       "location": {
@@ -4971,7 +4971,7 @@
     },
     {
       "site_id": "gcpszt1twvw4",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Heston Road, Hounslow",
       "postcode": "TW5 0RG",
       "location": {
@@ -4986,7 +4986,7 @@
     },
     {
       "site_id": "gcy8b2sdrwd8",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Off Rotary Way, Hexham",
       "postcode": "NE46 4DL",
       "location": {
@@ -5002,7 +5002,7 @@
     },
     {
       "site_id": "gcw2vdpyn7hh",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "Middleton Road, Heywood",
       "postcode": "OL10 2LU",
       "location": {
@@ -5045,7 +5045,7 @@
     },
     {
       "site_id": "gcn8een0q1k9",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "487/491 Ashley Road, Poole",
       "postcode": "BH14 0BB",
       "location": {
@@ -5060,7 +5060,7 @@
     },
     {
       "site_id": "gcw9s6k506yg",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Burnley Road, Sowerby Bridge",
       "postcode": "HX6 2TL",
       "location": {
@@ -5076,7 +5076,7 @@
     },
     {
       "site_id": "gcptjudvq7y9",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Uxbridge Road, Uxbridge",
       "postcode": "UB10 0NZ",
       "location": {
@@ -5105,7 +5105,7 @@
     },
     {
       "site_id": "gcqdr7kdqqrx",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Hobs Moat Road, Birmingham",
       "postcode": "B92 8JN",
       "location": {
@@ -5121,7 +5121,7 @@
     },
     {
       "site_id": "gcp7rmrkzhvv",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A31 Hogs Back, Farnham",
       "postcode": "GU10 1EU",
       "location": {
@@ -5137,7 +5137,7 @@
     },
     {
       "site_id": "gcqmtn3t0jf1",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Talke Road, Stoke-on-trent",
       "postcode": "ST5 7PJ",
       "location": {
@@ -5153,7 +5153,7 @@
     },
     {
       "site_id": "gcw6jr9fs083",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Manchester Road, Nelson",
       "postcode": "BB9 7SH",
       "location": {
@@ -5169,7 +5169,7 @@
     },
     {
       "site_id": "gcqq9vhc2r87",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "Middlewich Road, Crewe",
       "postcode": "CW4 7ES",
       "location": {
@@ -5184,7 +5184,7 @@
     },
     {
       "site_id": "gcmvuk7tsggg",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Junction A5156, AA534, Wrexham",
       "postcode": "LL13 9SB",
       "location": {
@@ -5200,7 +5200,7 @@
     },
     {
       "site_id": "gcptd2wb3usu",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Oxford Road, Beaconsfield",
       "postcode": "HP9 1UB",
       "location": {
@@ -5216,7 +5216,7 @@
     },
     {
       "site_id": "gcw8zr1zfs6m",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Huddersfield Road, Holmfirth",
       "postcode": "HD9 6LT",
       "location": {
@@ -5232,7 +5232,7 @@
     },
     {
       "site_id": "u134zhmszms7",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Lowestoft Road, Great Yarmouth",
       "postcode": "NR31 9AH",
       "location": {
@@ -5247,7 +5247,7 @@
     },
     {
       "site_id": "gcpg5fzejgut",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "Brighton Road, Horley",
       "postcode": "RH6 7ER",
       "location": {
@@ -5262,7 +5262,7 @@
     },
     {
       "site_id": "u10jkgx2d8bb",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "Billet Lane, Hornchurch",
       "postcode": "RM11 1XA",
       "location": {
@@ -5277,7 +5277,7 @@
     },
     {
       "site_id": "gcpf01zw315z",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "Worthing Road, Horsham",
       "postcode": "RH13 8LW",
       "location": {
@@ -5321,7 +5321,7 @@
     },
     {
       "site_id": "gcxcc89ryqzs",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "Littlefair Road, Hull",
       "postcode": "HU9 5LP",
       "location": {
@@ -5365,7 +5365,7 @@
     },
     {
       "site_id": "gcnut87yjycq",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "11 Charnham Street, Hungerford",
       "postcode": "RG17 0EP",
       "location": {
@@ -5437,7 +5437,7 @@
     },
     {
       "site_id": "gcpzdzqrqg87",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Norton Way North, Letchworth",
       "postcode": "SG6 1BS",
       "location": {
@@ -5453,7 +5453,7 @@
     },
     {
       "site_id": "gcrj6n0jryk6",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "242 Heanor Road, Ilkeston",
       "postcode": "DE7 8TG",
       "location": {
@@ -5483,7 +5483,7 @@
     },
     {
       "site_id": "gcwhpc1dp75v",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "New Road, Carnforth",
       "postcode": "LA6 3DL",
       "location": {
@@ -5541,7 +5541,7 @@
     },
     {
       "site_id": "gcn6nn5v1z5c",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Ivy Cross, Shaftesbury",
       "postcode": "SP7 8DS",
       "location": {
@@ -5557,7 +5557,7 @@
     },
     {
       "site_id": "gcque1przppb",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Derby Road, Burton",
       "postcode": "DE13 0DF",
       "location": {
@@ -5601,7 +5601,7 @@
     },
     {
       "site_id": "gcr6pmhw4t2f",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Rockingham Road, Kettering",
       "postcode": "NN14 1UD",
       "location": {
@@ -5631,7 +5631,7 @@
     },
     {
       "site_id": "gcvp7dkr1zg4",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "Cruive Dykes, Stirling",
       "postcode": "FK8 1AF",
       "location": {
@@ -5675,7 +5675,7 @@
     },
     {
       "site_id": "gcrr6dhm731z",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "40 London Road, Retford",
       "postcode": "DN22 6AZ",
       "location": {
@@ -5691,7 +5691,7 @@
     },
     {
       "site_id": "gbvq418zqdtq",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Ilbert Road, Kingsbridge",
       "postcode": "TQ7 1EB",
       "location": {
@@ -5707,7 +5707,7 @@
     },
     {
       "site_id": "gcnx9191cngd",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Cheltenham Road, Cheltenham",
       "postcode": "GL52 4SA",
       "location": {
@@ -5737,7 +5737,7 @@
     },
     {
       "site_id": "gcmrpcmwq7mq",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "55 Expressway, Bodelwyddan",
       "postcode": "LL18 5XE",
       "location": {
@@ -5753,7 +5753,7 @@
     },
     {
       "site_id": "gcmrpcmdnrtw",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A55 Westbound, Bodelwyddan",
       "postcode": "LL18 5XW",
       "location": {
@@ -5769,7 +5769,7 @@
     },
     {
       "site_id": "gcrj3bfkdkef",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Ladywood Road, Ilkeston",
       "postcode": "DE7 4NF",
       "location": {
@@ -5785,7 +5785,7 @@
     },
     {
       "site_id": "gcx54rnecpyr",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "York Road, York",
       "postcode": "YO26 8EQ",
       "location": {
@@ -5801,7 +5801,7 @@
     },
     {
       "site_id": "gcvxrcdnz23q",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "Hendry Road, Fife",
       "postcode": "KY2 5DS",
       "location": {
@@ -5831,7 +5831,7 @@
     },
     {
       "site_id": "gcw2s48n7cqc",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "71-73 Bury Old Road, Whitefield",
       "postcode": "M45 6TB",
       "location": {
@@ -5847,7 +5847,7 @@
     },
     {
       "site_id": "gcwgq8fbkvsy",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "18 Boroughbridge Road, Knaresborough",
       "postcode": "HG5 0NG",
       "location": {
@@ -5862,7 +5862,7 @@
     },
     {
       "site_id": "gcqr4ju8ewf2",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Toft Road, Knutsford",
       "postcode": "WA16 8QJ",
       "location": {
@@ -5878,7 +5878,7 @@
     },
     {
       "site_id": "gcmzemw2233v",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "117 New Chester Road, Birkenhead",
       "postcode": "CH41 9BW",
       "location": {
@@ -5936,7 +5936,7 @@
     },
     {
       "site_id": "gchbh9m1sw9s",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Wobern Garage, Launceston",
       "postcode": "PL15 7AU",
       "location": {
@@ -5952,7 +5952,7 @@
     },
     {
       "site_id": "gcwf7f8hu9jf",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Otley Road, Leeds",
       "postcode": "LS16 8AA",
       "location": {
@@ -5996,7 +5996,7 @@
     },
     {
       "site_id": "gcqe694vrcdh",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "570 Bloxwich Road, Walsall",
       "postcode": "WS3 2BB",
       "location": {
@@ -6025,7 +6025,7 @@
     },
     {
       "site_id": "gcwcuub286sb",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "303 Dewsbury Road, Leeds",
       "postcode": "LS11 5LQ",
       "location": {
@@ -6055,7 +6055,7 @@
     },
     {
       "site_id": "gcr5j6ntnjjx",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "77 Lutterworth Road, Blaby",
       "postcode": "LE8 4DX",
       "location": {
@@ -6125,7 +6125,7 @@
     },
     {
       "site_id": "gctqxsd48wg4",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Lillyhall Service Station, Toll Bar, Workingston",
       "postcode": "CA14 4PJ",
       "location": {
@@ -6141,7 +6141,7 @@
     },
     {
       "site_id": "gctb5gyt0w4w",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Linacre Lane, Sefton",
       "postcode": "L20 5AG",
       "location": {
@@ -6171,7 +6171,7 @@
     },
     {
       "site_id": "gcrwem559ch4",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "246 Newark Road, Lincoln",
       "postcode": "LN6 8RP",
       "location": {
@@ -6228,7 +6228,7 @@
     },
     {
       "site_id": "gcwc99g23zwt",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Bradford Road, Liversedge",
       "postcode": "WF15 6JE",
       "location": {
@@ -6244,7 +6244,7 @@
     },
     {
       "site_id": "gcvtbj1w8ebu",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Almondvale, Livingston",
       "postcode": "EH54 6NA",
       "location": {
@@ -6302,7 +6302,7 @@
     },
     {
       "site_id": "gcjsyr35yye5",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "Llantrisant Road, Cardiff",
       "postcode": "CF5 2PW",
       "location": {
@@ -6317,7 +6317,7 @@
     },
     {
       "site_id": "gcjuj3z38vs2",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Locking Moor Road, Weston-Super-Mare",
       "postcode": "BS24 8EL",
       "location": {
@@ -6333,7 +6333,7 @@
     },
     {
       "site_id": "gcp16tvbuzty",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Ridge Road, Southampton",
       "postcode": "SO31 7ZE",
       "location": {
@@ -6349,7 +6349,7 @@
     },
     {
       "site_id": "gcuy24wtu0pv",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Lomondgate Drive, West Dunbartonshire",
       "postcode": "G82 3BN",
       "location": {
@@ -6365,7 +6365,7 @@
     },
     {
       "site_id": "gcw297revwt8",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Long Causeway, Bolton",
       "postcode": "BL4 9BW",
       "location": {
@@ -6395,7 +6395,7 @@
     },
     {
       "site_id": "gcqpufnx4dvu",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "296 Winwick Road, Warrington",
       "postcode": "WA2 8HZ",
       "location": {
@@ -6411,7 +6411,7 @@
     },
     {
       "site_id": "gcndpgxrk44b",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Salisbury Road, Salisbury",
       "postcode": "SP5 3HZ",
       "location": {
@@ -6469,7 +6469,7 @@
     },
     {
       "site_id": "gcwcm450bjvd",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "323 Horbury Road, Wakefield",
       "postcode": "WF2 8JN",
       "location": {
@@ -6499,7 +6499,7 @@
     },
     {
       "site_id": "gcnbudwmztgt",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Ampress Park, Lymington",
       "postcode": "SO41 8XN",
       "location": {
@@ -6515,7 +6515,7 @@
     },
     {
       "site_id": "gcpz732eez23",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Lytton Way, Stevenage",
       "postcode": "SG1 3BT",
       "location": {
@@ -6531,7 +6531,7 @@
     },
     {
       "site_id": "gcqqzx6mtzdy",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Churchill Way, Macclesfield",
       "postcode": "SK11 9JR",
       "location": {
@@ -6547,7 +6547,7 @@
     },
     {
       "site_id": "gcqvjg25165p",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A38 Mackworth Island, Derby",
       "postcode": "DE22 4AA",
       "location": {
@@ -6563,7 +6563,7 @@
     },
     {
       "site_id": "gcpmpgxnz5z1",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "143 Bridge Road, Maidenhead",
       "postcode": "SL6 8NH",
       "location": {
@@ -6578,7 +6578,7 @@
     },
     {
       "site_id": "gcpe15ym7uy1",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Milford, Godalming",
       "postcode": "GU8 5EL",
       "location": {
@@ -6607,7 +6607,7 @@
     },
     {
       "site_id": "gcrjqmm9y6x8",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "705 Woodborough Road, Nottingham",
       "postcode": "NG3 5QG",
       "location": {
@@ -6622,7 +6622,7 @@
     },
     {
       "site_id": "gcpjfmgptzh1",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Marcham Road, Abingdon",
       "postcode": "OX14 1TZ",
       "location": {
@@ -6638,7 +6638,7 @@
     },
     {
       "site_id": "gcrncstj60ep",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "M1 29A, Markham Ln, Long Duckmanton",
       "postcode": "S44 5HB",
       "location": {
@@ -6654,7 +6654,7 @@
     },
     {
       "site_id": "gcnhpmnt70n3",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Westway Garages, Bath",
       "postcode": "BA2 9HN",
       "location": {
@@ -6670,7 +6670,7 @@
     },
     {
       "site_id": "gbvmc68ykq1v",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Salcombe Road Garage, Kingsbridge",
       "postcode": "TQ7 3BU",
       "location": {
@@ -6686,7 +6686,7 @@
     },
     {
       "site_id": "gcrjq2ep2vz2",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Carlton Road, Nottingham",
       "postcode": "NG3 2NJ",
       "location": {
@@ -6702,7 +6702,7 @@
     },
     {
       "site_id": "gcqxbbm1srxm",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "151 Stockport Road, Stockport",
       "postcode": "SK6 6DQ",
       "location": {
@@ -6718,7 +6718,7 @@
     },
     {
       "site_id": "gcnz9pycjp1v",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Stow Road, Moreton-in-Marsh",
       "postcode": "GL56 0DS",
       "location": {
@@ -6734,7 +6734,7 @@
     },
     {
       "site_id": "gcptpt1xrhkj",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Ruislip Road, Greenford",
       "postcode": "UB6 9RP",
       "location": {
@@ -6750,7 +6750,7 @@
     },
     {
       "site_id": "gcqdq732ds3r",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Fox Hollies Road, Birmingham",
       "postcode": "B27 7US",
       "location": {
@@ -6766,7 +6766,7 @@
     },
     {
       "site_id": "gcq7ndjty65j",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "220/230 Coalway Road, Wolverhampton",
       "postcode": "WV3 7NN",
       "location": {
@@ -6796,7 +6796,7 @@
     },
     {
       "site_id": "gcp55xs107mz",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Cocksford Down, Popham",
       "postcode": "SO21 3BD",
       "location": {
@@ -6812,7 +6812,7 @@
     },
     {
       "site_id": "gcw1drdnvd5d",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "138 Leyland Road, Penwortham",
       "postcode": "PR1 9QD",
       "location": {
@@ -6869,7 +6869,7 @@
     },
     {
       "site_id": "gcncxh9ku09h",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Millbrook Road, Southampton",
       "postcode": "SO15 0JU",
       "location": {
@@ -6883,7 +6883,7 @@
     },
     {
       "site_id": "gcqe08fmbzfe",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "40301 Millfields Road, Wolverhampton",
       "postcode": "WV14 0QJ",
       "location": {
@@ -6899,7 +6899,7 @@
     },
     {
       "site_id": "gcw8bnf5rcm8",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Newhay Road, Rochdale",
       "postcode": "OL16 4JD",
       "location": {
@@ -6915,7 +6915,7 @@
     },
     {
       "site_id": "gcw9nkk8pjj6",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "819 Manchester Road, Huddersfield",
       "postcode": "HD4 5SX",
       "location": {
@@ -6945,7 +6945,7 @@
     },
     {
       "site_id": "u10ujfxzftxr",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Tothill Street, Ramsgate",
       "postcode": "CT12 4AU",
       "location": {
@@ -6974,7 +6974,7 @@
     },
     {
       "site_id": "gcnn81ne804n",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A40 North Bound, Monmouth",
       "postcode": "NP25 4BG",
       "location": {
@@ -6990,7 +6990,7 @@
     },
     {
       "site_id": "gcjyxcp15zxx",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A40 South Bound, Monmouth",
       "postcode": "NP25 4BR",
       "location": {
@@ -7006,7 +7006,7 @@
     },
     {
       "site_id": "gfn4xyjnmsm4",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "108-24 North Esk Road, Montrose",
       "postcode": "DD10 9AY",
       "location": {
@@ -7022,7 +7022,7 @@
     },
     {
       "site_id": "gcqmy34u7mnf",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Moorland Road, Stoke-on-trent",
       "postcode": "ST6 1JP",
       "location": {
@@ -7038,7 +7038,7 @@
     },
     {
       "site_id": "gcmzc32unt2z",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "157 Hoylake Road, Wirral",
       "postcode": "CH46 9PZ",
       "location": {
@@ -7068,7 +7068,7 @@
     },
     {
       "site_id": "gcvbhrqyzvy3",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "200 Wigton Road, Carlisle",
       "postcode": "CA2 6JS",
       "location": {
@@ -7084,7 +7084,7 @@
     },
     {
       "site_id": "gcvjmfch5see",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Flemington Industrial Park, A721, Motherwell",
       "postcode": "ML1 2NT",
       "location": {
@@ -7100,7 +7100,7 @@
     },
     {
       "site_id": "gcw9dv9w0csq",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Burnley Road, Hebden Bridge",
       "postcode": "HX7 5DE",
       "location": {
@@ -7116,7 +7116,7 @@
     },
     {
       "site_id": "gcjqm4wf64vh",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Chain Road, Neath",
       "postcode": "SA11 5AZ",
       "location": {
@@ -7132,7 +7132,7 @@
     },
     {
       "site_id": "u12e99g0pjz4",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "2 Rudge Way, Swaffham",
       "postcode": "PE37 8DQ",
       "location": {
@@ -7148,7 +7148,7 @@
     },
     {
       "site_id": "gcr3m8rsmk3h",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A45 East Bound Nene Valley Way, Northampton",
       "postcode": "NN3 5LU",
       "location": {
@@ -7163,7 +7163,7 @@
     },
     {
       "site_id": "gcr3m8rsmk3h",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A45 Westbound, Nene Valley Way, Northampton",
       "postcode": "NN3 5LU",
       "location": {
@@ -7179,7 +7179,7 @@
     },
     {
       "site_id": "gcrj9u50wzyk",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Langley Mill, Nottingham",
       "postcode": "NG16 4AA",
       "location": {
@@ -7195,7 +7195,7 @@
     },
     {
       "site_id": "gcx5n625x4vx",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Great North Way, York",
       "postcode": "YO26 6RB",
       "location": {
@@ -7211,7 +7211,7 @@
     },
     {
       "site_id": "gcndrx6th0tr",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Southampton Road, Salisbury",
       "postcode": "SP1 2LL",
       "location": {
@@ -7226,7 +7226,7 @@
     },
     {
       "site_id": "gcz00bgke3dv",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Stockton Road, Seaham",
       "postcode": "SR7 8ER",
       "location": {
@@ -7270,7 +7270,7 @@
     },
     {
       "site_id": "gcrzxfx3jqfe",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "65 Newmarket, Louth",
       "postcode": "LN11 9EG",
       "location": {
@@ -7286,7 +7286,7 @@
     },
     {
       "site_id": "gcjv6z64x2dt",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "Highcross Road, Rogerstone",
       "postcode": "NP10 9AE",
       "location": {
@@ -7343,7 +7343,7 @@
     },
     {
       "site_id": "gbvrsryvcb81",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "Newton Road, Newton Abbot",
       "postcode": "TQ13 9DX",
       "location": {
@@ -7358,7 +7358,7 @@
     },
     {
       "site_id": "gcw08h6sdhmn",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Railway Road, Skelmersdale",
       "postcode": "WN8 8TL",
       "location": {
@@ -7388,7 +7388,7 @@
     },
     {
       "site_id": "gcpz9cun3653",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Nightingale Road, Hitchin",
       "postcode": "SG5 1RQ",
       "location": {
@@ -7404,7 +7404,7 @@
     },
     {
       "site_id": "gcw1fvp1fgd8",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Blackpool Road, Preston",
       "postcode": "PR1 6UY",
       "location": {
@@ -7420,7 +7420,7 @@
     },
     {
       "site_id": "gcwvpnbg6ksd",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Darlington Road, Northallerton",
       "postcode": "DL6 2PH",
       "location": {
@@ -7436,7 +7436,7 @@
     },
     {
       "site_id": "gcqek60j851m",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Northgate, Birmingham",
       "postcode": "WS9 8TH",
       "location": {
@@ -7466,7 +7466,7 @@
     },
     {
       "site_id": "gcn5z2mdszcj",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Church Lane, Midsomer",
       "postcode": "BA3 2JL",
       "location": {
@@ -7481,7 +7481,7 @@
     },
     {
       "site_id": "u12g7xc4b6em",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "403 Dereham Road, Norwich",
       "postcode": "NR5 0SE",
       "location": {
@@ -7553,7 +7553,7 @@
     },
     {
       "site_id": "gcn73bvnk77k",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Nunney Catch, Frome",
       "postcode": "BA11 4NZ",
       "location": {
@@ -7569,7 +7569,7 @@
     },
     {
       "site_id": "gctwgm8wwn1z",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Lamplugh Road, Cockermouth",
       "postcode": "CA13 0QT",
       "location": {
@@ -7585,7 +7585,7 @@
     },
     {
       "site_id": "gcpvdkrccs1n",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "520-522 Watford Way, Greater London",
       "postcode": "NW7 2PT",
       "location": {
@@ -7601,7 +7601,7 @@
     },
     {
       "site_id": "gcmr5tphcb9q",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Colwyn Service Station, Abergale Road, Colwyn Bay",
       "postcode": "LL29 9YG",
       "location": {
@@ -7659,7 +7659,7 @@
     },
     {
       "site_id": "gctbwpm66n3j",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "201 County Road, Ormskirk",
       "postcode": "L39 3LU",
       "location": {
@@ -7675,7 +7675,7 @@
     },
     {
       "site_id": "gcmudvpt2fnv",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Shrewsbury Road, Oswestry",
       "postcode": "SY11 4JA",
       "location": {
@@ -7691,7 +7691,7 @@
     },
     {
       "site_id": "gcphzkj7phv7",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "329 Reading Road, Reading",
       "postcode": "RG8 7JE",
       "location": {
@@ -7706,7 +7706,7 @@
     },
     {
       "site_id": "gcqmxb8rzt3b",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Dividy Road, Stoke-on-trent",
       "postcode": "ST3 5YY",
       "location": {
@@ -7736,7 +7736,7 @@
     },
     {
       "site_id": "gcmytvuxwr8n",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Parkgate Road, Chester",
       "postcode": "CH1 4BE",
       "location": {
@@ -7752,7 +7752,7 @@
     },
     {
       "site_id": "gcx8b7tp4u1n",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Doncaster Road, Scunthorpe",
       "postcode": "DN15 7DR",
       "location": {
@@ -7768,7 +7768,7 @@
     },
     {
       "site_id": "gcw29epgeeuv",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "190 Bolton Road, Bolton",
       "postcode": "BL4 9BU",
       "location": {
@@ -7784,7 +7784,7 @@
     },
     {
       "site_id": "gcqzxu99c8q3",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "340 Prince of Wales Road, Sheffield",
       "postcode": "S9 4EL",
       "location": {
@@ -7814,7 +7814,7 @@
     },
     {
       "site_id": "gcw0e1fdv0dz",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Ormskirk Road, Wigan",
       "postcode": "WN5 8BE",
       "location": {
@@ -7844,7 +7844,7 @@
     },
     {
       "site_id": "gcq7zucnpxwk",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "Wolverhampton Road, Stafford",
       "postcode": "ST19 5NS",
       "location": {
@@ -7873,7 +7873,7 @@
     },
     {
       "site_id": "gbuj1fyucymq",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Western Promenade Road, Penzance",
       "postcode": "TR18 4NP",
       "location": {
@@ -7903,7 +7903,7 @@
     },
     {
       "site_id": "gfnxnbvrxz2q",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "Buchan Way, Peterhead",
       "postcode": "AB42 3JL",
       "location": {
@@ -7961,7 +7961,7 @@
     },
     {
       "site_id": "gcphru6kc4df",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Reading Road, Reading",
       "postcode": "RG7 3EH",
       "location": {
@@ -7977,7 +7977,7 @@
     },
     {
       "site_id": "gcq891cmvuyg",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "Abbey View, B4083, Pershore",
       "postcode": "WR10 2DT",
       "location": {
@@ -8007,7 +8007,7 @@
     },
     {
       "site_id": "gbvnem77v3bd",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "150 Plymouth Road, Plymouth",
       "postcode": "PL7 4NE",
       "location": {
@@ -8035,7 +8035,7 @@
     },
     {
       "site_id": "u101jmht38mw",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Hailsham Road, Polegate",
       "postcode": "BN26 6QL",
       "location": {
@@ -8050,7 +8050,7 @@
     },
     {
       "site_id": "gcvmu4ecdu75",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Armadale Road, Bathgate",
       "postcode": "EH47 0ET",
       "location": {
@@ -8066,7 +8066,7 @@
     },
     {
       "site_id": "gcuvxkvy940c",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "2 Polmadie Rd, Glasgow",
       "postcode": "G5 0DZ",
       "location": {
@@ -8082,7 +8082,7 @@
     },
     {
       "site_id": "gcjn77nny9f8",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "J49 M4 Motorway, LLanedi",
       "postcode": "SA4 0FU",
       "location": {
@@ -8096,7 +8096,7 @@
     },
     {
       "site_id": "gcjn2j263nfn",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "13 Heol Y Meinciau, Pontyates",
       "postcode": "SA15 5TR",
       "location": {
@@ -8125,7 +8125,7 @@
     },
     {
       "site_id": "gcn87xqyst81",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "291 Sandbanks Road, Poole",
       "postcode": "BH14 8EZ",
       "location": {
@@ -8183,7 +8183,7 @@
     },
     {
       "site_id": "gcqvp025pp5h",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Murdoch Road, Derby",
       "postcode": "DE24 8AN",
       "location": {
@@ -8199,7 +8199,7 @@
     },
     {
       "site_id": "gcqe4m5x5vmm",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "354 Wolverhampton Road, Walsall",
       "postcode": "WS2 8RN",
       "location": {
@@ -8215,7 +8215,7 @@
     },
     {
       "site_id": "gcy8tvkyj972",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Front Street, Prudhoe",
       "postcode": "NE42 5DH",
       "location": {
@@ -8259,7 +8259,7 @@
     },
     {
       "site_id": "gcmyf15wzzhc",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Church Street, Deeside",
       "postcode": "CH5 4AS",
       "location": {
@@ -8331,7 +8331,7 @@
     },
     {
       "site_id": "gcjtn05nn1su",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Llantrisant Road, Cardiff",
       "postcode": "CF5 2PY",
       "location": {
@@ -8360,7 +8360,7 @@
     },
     {
       "site_id": "gcqpbu9vvtvp",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Warrington Road, Liverpool",
       "postcode": "L35 9JB",
       "location": {
@@ -8376,7 +8376,7 @@
     },
     {
       "site_id": "gcp65nyx2mw3",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "London Road, Petersfield",
       "postcode": "GU31 4AT",
       "location": {
@@ -8405,7 +8405,7 @@
     },
     {
       "site_id": "gcx01t0wyuk7",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Dale Road, Sheffield",
       "postcode": "S62 7BY",
       "location": {
@@ -8421,7 +8421,7 @@
     },
     {
       "site_id": "gcpjw1zj6sde",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Station Road, Wallingford",
       "postcode": "OX10 0HX",
       "location": {
@@ -8436,7 +8436,7 @@
     },
     {
       "site_id": "gcmyv49pc5y0",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Parkgate Road, Chester",
       "postcode": "CH1 6JS",
       "location": {
@@ -8452,7 +8452,7 @@
     },
     {
       "site_id": "gcn2z52fg6fg",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Main Road A31, Blandford Forum",
       "postcode": "DT11 9EX",
       "location": {
@@ -8482,7 +8482,7 @@
     },
     {
       "site_id": "gctgw9fjxe5c",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Regents Road, Morecambe",
       "postcode": "LA4 4QY",
       "location": {
@@ -8498,7 +8498,7 @@
     },
     {
       "site_id": "gcrr6hp090n8",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Unit 1-4, North Road, Retford",
       "postcode": "DN22 7XQ",
       "location": {
@@ -8514,7 +8514,7 @@
     },
     {
       "site_id": "gcmvej6v3j19",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Wrexham Road, Wrexham",
       "postcode": "LL14 4EJ",
       "location": {
@@ -8530,7 +8530,7 @@
     },
     {
       "site_id": "gcmx1jwqffvz",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "Rhyl Road, Rhuddlan",
       "postcode": "LL18 2TS",
       "location": {
@@ -8560,7 +8560,7 @@
     },
     {
       "site_id": "gcwcbsg5sugh",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Rooley Lane, Bradford",
       "postcode": "BD4 7SJ",
       "location": {
@@ -8604,7 +8604,7 @@
     },
     {
       "site_id": "u10k5xe29qb1",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "342 City Way, Rochester",
       "postcode": "ME1 2BJ",
       "location": {
@@ -8620,7 +8620,7 @@
     },
     {
       "site_id": "gcpudkms3rhg",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "29 Roehampton Vale, London",
       "postcode": "SW15 3DX",
       "location": {
@@ -8635,7 +8635,7 @@
     },
     {
       "site_id": "gcncwtxc0uk4",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Redbridge Road, Southampton",
       "postcode": "SO15 0LT",
       "location": {
@@ -8651,7 +8651,7 @@
     },
     {
       "site_id": "gcnpmkk63zx2",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Ledbury Road, Ross-on-Wye",
       "postcode": "HR9 7QJ",
       "location": {
@@ -8681,7 +8681,7 @@
     },
     {
       "site_id": "gcn8etwb7rxx",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "347 Ringwood Road, Poole",
       "postcode": "BH12 3JN",
       "location": {
@@ -8711,7 +8711,7 @@
     },
     {
       "site_id": "gcr6jvz3endr",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Kettering Road, Rothwell",
       "postcode": "NN14 1SS",
       "location": {
@@ -8727,7 +8727,7 @@
     },
     {
       "site_id": "gcwfmd1tr3pv",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Street Lane, Leeds",
       "postcode": "LS8 1BD",
       "location": {
@@ -8742,7 +8742,7 @@
     },
     {
       "site_id": "gcqru9w5nfgv",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Longley Lane, Manchester",
       "postcode": "M22 4SY",
       "location": {
@@ -8758,7 +8758,7 @@
     },
     {
       "site_id": "gcrhyj80ymup",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Loughborough Road, Ruddington",
       "postcode": "NG11 6LJ",
       "location": {
@@ -8788,7 +8788,7 @@
     },
     {
       "site_id": "gcqp3y56nhrw",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Bridge Retail Park, Thomas Jones Way",
       "postcode": "WA7 5AQ",
       "location": {
@@ -8832,7 +8832,7 @@
     },
     {
       "site_id": "gcw582brpby5",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Owen Road, Lancaster",
       "postcode": "LA1 2LL",
       "location": {
@@ -8862,7 +8862,7 @@
     },
     {
       "site_id": "gcw2hn1fbpye",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Trafford Road, Salford",
       "postcode": "M5 3AW",
       "location": {
@@ -8878,7 +8878,7 @@
     },
     {
       "site_id": "gcqq67yxwywq",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Congleton Road, Sandbach",
       "postcode": "CW11 4SP",
       "location": {
@@ -8894,7 +8894,7 @@
     },
     {
       "site_id": "gcn82ny8xce9",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "Sandford Road, Wareham",
       "postcode": "BH20 7AQ",
       "location": {
@@ -8910,7 +8910,7 @@
     },
     {
       "site_id": "gcrb91q74hcd",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "Great North Road, Sandy",
       "postcode": "SG19 1NA",
       "location": {
@@ -8925,7 +8925,7 @@
     },
     {
       "site_id": "gcptwx30h6h9",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Sandy Lodge, Northwood",
       "postcode": "HA6 2HU",
       "location": {
@@ -8941,7 +8941,7 @@
     },
     {
       "site_id": "gctc5tpy7w1n",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "3A Scarisbrick New Road, Southport",
       "postcode": "PR8 6PU",
       "location": {
@@ -8956,7 +8956,7 @@
     },
     {
       "site_id": "gcrpxysk97jd",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Middleton Tyas Lane, Richmond",
       "postcode": "DL10 6NT",
       "location": {
@@ -8972,7 +8972,7 @@
     },
     {
       "site_id": "gcwfhzg2yw93",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Scott Hall Road, Leeds",
       "postcode": "LS7 2NA",
       "location": {
@@ -9030,7 +9030,7 @@
     },
     {
       "site_id": "gcw7s5hvj2x8",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "9 Church Street, Settle",
       "postcode": "BD24 9JD",
       "location": {
@@ -9046,7 +9046,7 @@
     },
     {
       "site_id": "gcw254quhj6v",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Bradfield Road, Stretford",
       "postcode": "M32 9RH",
       "location": {
@@ -9061,7 +9061,7 @@
     },
     {
       "site_id": "gcqmb6tr48wd",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "416 Newcastle Road, Crewe",
       "postcode": "CW2 5EB",
       "location": {
@@ -9077,7 +9077,7 @@
     },
     {
       "site_id": "gcpwnfnpvf21",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "North Orbital Road, St Albans",
       "postcode": "WD25 7LW",
       "location": {
@@ -9107,7 +9107,7 @@
     },
     {
       "site_id": "gcqzwk21rs32",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "158 Ecclesall Road, Sheffield",
       "postcode": "S11 8JD",
       "location": {
@@ -9151,7 +9151,7 @@
     },
     {
       "site_id": "gcw01bep3nmh",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "102 St Helens Linkway, St Helens",
       "postcode": "WA9 5DT",
       "location": {
@@ -9167,7 +9167,7 @@
     },
     {
       "site_id": "gcpk6tuw6gzz",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Arborfield Road, Reading",
       "postcode": "RG2 9DY",
       "location": {
@@ -9183,7 +9183,7 @@
     },
     {
       "site_id": "gcnhgj67wevn",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "High Street, Bristol",
       "postcode": "BS11 0DE",
       "location": {
@@ -9198,7 +9198,7 @@
     },
     {
       "site_id": "gcw2m4fevefe",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "490 Cheetham Hill Road, Manchester",
       "postcode": "M8 0PL",
       "location": {
@@ -9242,7 +9242,7 @@
     },
     {
       "site_id": "gcpmp2csx1t0",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Shoppenhangers Road, Maidenhead",
       "postcode": "SL6 2QJ",
       "location": {
@@ -9271,7 +9271,7 @@
     },
     {
       "site_id": "gcwbs7k15q6w",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "The Cross, Barnsley",
       "postcode": "S75 4LX",
       "location": {
@@ -9287,7 +9287,7 @@
     },
     {
       "site_id": "gcybybnb6156",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Newcastle Road, South Shields",
       "postcode": "NE34 9QE",
       "location": {
@@ -9316,7 +9316,7 @@
     },
     {
       "site_id": "gcmxj71ngz6g",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "St Asaph Road, Holywell",
       "postcode": "CH8 8RD",
       "location": {
@@ -9332,7 +9332,7 @@
     },
     {
       "site_id": "u10s0h7957cz",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Sheppey Way, Sittingbourne",
       "postcode": "ME9 8PG",
       "location": {
@@ -9362,7 +9362,7 @@
     },
     {
       "site_id": "gcnx1mkuxnc2",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "London Road, Cheltenham",
       "postcode": "GL52 6HZ",
       "location": {
@@ -9434,7 +9434,7 @@
     },
     {
       "site_id": "gcpt16g7fejp",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "395 Bath Road, Slough",
       "postcode": "SL1 5QL",
       "location": {
@@ -9463,7 +9463,7 @@
     },
     {
       "site_id": "u12dtb4dbm49",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Heath Road, Eccles",
       "postcode": "NR16 2JU",
       "location": {
@@ -9479,7 +9479,7 @@
     },
     {
       "site_id": "gcqdpt3r0s4v",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "94-96 High Street, Solihull",
       "postcode": "B91 1BB",
       "location": {
@@ -9495,7 +9495,7 @@
     },
     {
       "site_id": "gcrps0jbmmtb",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Worksop Road, Sheffield",
       "postcode": "S25 5ER",
       "location": {
@@ -9511,7 +9511,7 @@
     },
     {
       "site_id": "gcybgtv43p49",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "29-31 Benton Park Road, Newcastle Upon Tyne",
       "postcode": "NE7 7LX",
       "location": {
@@ -9527,7 +9527,7 @@
     },
     {
       "site_id": "gcvxxmbxcbvm",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "1 Roxburgh Road, Fife",
       "postcode": "KY6 1PB",
       "location": {
@@ -9543,7 +9543,7 @@
     },
     {
       "site_id": "gcn1b1sb5fxv",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Harp Road, South Petherton",
       "postcode": "TA13 5JG",
       "location": {
@@ -9615,7 +9615,7 @@
     },
     {
       "site_id": "gcr8t9369d73",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "73 London Road, Bedford",
       "postcode": "MK42 0NT",
       "location": {
@@ -9631,7 +9631,7 @@
     },
     {
       "site_id": "gcqdms5s6e35",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Stratford Road, Birmingham",
       "postcode": "B11 4AR",
       "location": {
@@ -9661,7 +9661,7 @@
     },
     {
       "site_id": "gcuvzwm0h4gy",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "911 Springburn Rd, Glasgow",
       "postcode": "G21 1LZ",
       "location": {
@@ -9677,7 +9677,7 @@
     },
     {
       "site_id": "u12b1m9rnd97",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "Sproughton Road, Ipswich",
       "postcode": "IP1 5BL",
       "location": {
@@ -9693,7 +9693,7 @@
     },
     {
       "site_id": "gcpy2eq3pxg8",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "London Road, St Albans",
       "postcode": "AL1 1LP",
       "location": {
@@ -9737,7 +9737,7 @@
     },
     {
       "site_id": "gcr5mmef9w0h",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Hinckley Road, Leicester",
       "postcode": "LE3 0WD",
       "location": {
@@ -9753,7 +9753,7 @@
     },
     {
       "site_id": "gcybdzzz1pcb",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "21 Barrack Road, Newcastle Upon Tyne",
       "postcode": "NE4 6BA",
       "location": {
@@ -9769,7 +9769,7 @@
     },
     {
       "site_id": "gbuxe1y2dsur",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "St Kew Highway, Bodmin",
       "postcode": "PL30 3ED",
       "location": {
@@ -9797,7 +9797,7 @@
     },
     {
       "site_id": "gcr5t881512x",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "335 Groby Road, Leicester",
       "postcode": "LE3 9QJ",
       "location": {
@@ -9813,7 +9813,7 @@
     },
     {
       "site_id": "gcybwn186b57",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "York Avenue, Jarrow",
       "postcode": "NE32 5YX",
       "location": {
@@ -9829,7 +9829,7 @@
     },
     {
       "site_id": "gcqu6gm8pcbz",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "St Peters Bridge, Burton-on-Trent",
       "postcode": "DE15 9AW",
       "location": {
@@ -9845,7 +9845,7 @@
     },
     {
       "site_id": "gcqzwqdy3rgt",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Craven Street, Sheffield",
       "postcode": "S3 7EZ",
       "location": {
@@ -9861,7 +9861,7 @@
     },
     {
       "site_id": "gcqky9r6pfm0",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "M6 Southbound, Stone",
       "postcode": "ST15 0XE",
       "location": {
@@ -9905,7 +9905,7 @@
     },
     {
       "site_id": "gcw0g567t2de",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Almond Brook Road, Wigan",
       "postcode": "WN6 0SR",
       "location": {
@@ -9921,7 +9921,7 @@
     },
     {
       "site_id": "gcwcqrcwyqhx",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Aberford Road, Wakefield",
       "postcode": "WF3 4NF",
       "location": {
@@ -9937,7 +9937,7 @@
     },
     {
       "site_id": "gcw830cbv47k",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Stamford Street, Ashton-under-Lyne",
       "postcode": "SK15 1LH",
       "location": {
@@ -9953,7 +9953,7 @@
     },
     {
       "site_id": "gcpz5mfpvfwe",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Gunnels Wood S/Stn, Arlington Business Park, Stevenage",
       "postcode": "SG1 2FS",
       "location": {
@@ -9983,7 +9983,7 @@
     },
     {
       "site_id": "gcvpnyfvrgxf",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Kerse Road, Stirling",
       "postcode": "FK7 7SY",
       "location": {
@@ -9999,7 +9999,7 @@
     },
     {
       "site_id": "gcqrxr4yzunz",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "297-309 Buxton Road, Stockport",
       "postcode": "SK2 7NR",
       "location": {
@@ -10042,7 +10042,7 @@
     },
     {
       "site_id": "gcqsvz912xjf",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Uttoxeter Road, Uttoxeter",
       "postcode": "ST14 5AA",
       "location": {
@@ -10058,7 +10058,7 @@
     },
     {
       "site_id": "gcqfxq717u18",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Lutterworth Road, Nuneaton",
       "postcode": "CV11 6PG",
       "location": {
@@ -10074,7 +10074,7 @@
     },
     {
       "site_id": "gcq6r79nv6c6",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "156 Hagley Road, Dudley",
       "postcode": "DY8 2JL",
       "location": {
@@ -10090,7 +10090,7 @@
     },
     {
       "site_id": "gcq3u0qrm6mm",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Vale Road, Stourport-on-Severn",
       "postcode": "DY13 8YJ",
       "location": {
@@ -10106,7 +10106,7 @@
     },
     {
       "site_id": "gcjv7y3wy5h2",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Stow Hill, Newport",
       "postcode": "NP20 4GA",
       "location": {
@@ -10149,7 +10149,7 @@
     },
     {
       "site_id": "gcqc7sjxr5e8",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "54 Stratford Road, Warwick",
       "postcode": "CV34 6AT",
       "location": {
@@ -10179,7 +10179,7 @@
     },
     {
       "site_id": "gcq2nyq4u3tt",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Junction 8, M5, Strensham",
       "postcode": "WR8 0BZ",
       "location": {
@@ -10195,7 +10195,7 @@
     },
     {
       "site_id": "u10k6sy6fcw7",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "202 Watling Street, Rochester",
       "postcode": "ME2 3QL",
       "location": {
@@ -10210,7 +10210,7 @@
     },
     {
       "site_id": "gcp1h7g2k1bh",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Stubbington Lane, Fareham",
       "postcode": "PO14 2PN",
       "location": {
@@ -10226,7 +10226,7 @@
     },
     {
       "site_id": "gcx0t6mvsszm",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "York Road, Doncaster",
       "postcode": "DN5 8SD",
       "location": {
@@ -10284,7 +10284,7 @@
     },
     {
       "site_id": "u10hkh5d4gv4",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "73-75 High Street, Swanley",
       "postcode": "BR8 8AF",
       "location": {
@@ -10313,7 +10313,7 @@
     },
     {
       "site_id": "u12gs8tfmvc7",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Sweet Briar Road, Norwich",
       "postcode": "NR6 5AL",
       "location": {
@@ -10343,7 +10343,7 @@
     },
     {
       "site_id": "gcuvvx7fpt4v",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "289 Bearsden Road, Glasgow",
       "postcode": "G13 1EQ",
       "location": {
@@ -10359,7 +10359,7 @@
     },
     {
       "site_id": "gcphnhbf7p22",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Mulfords Hill, Tadley",
       "postcode": "RG26 3LQ",
       "location": {
@@ -10402,7 +10402,7 @@
     },
     {
       "site_id": "gcqg68e8pz8u",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Green Ln, Dordon, Tamworth",
       "postcode": "B77 5PS",
       "location": {
@@ -10418,7 +10418,7 @@
     },
     {
       "site_id": "gcp3r9ydgssh",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A27 Arundel Road, Chichester",
       "postcode": "PO18 0DU",
       "location": {
@@ -10434,7 +10434,7 @@
     },
     {
       "site_id": "gcjf1xfc6gqt",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Priory Bridge Road, Taunton",
       "postcode": "TA1 1QD",
       "location": {
@@ -10463,7 +10463,7 @@
     },
     {
       "site_id": "gcq5zsg00b1u",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Hadley Park East, Telford",
       "postcode": "TF1 6QJ",
       "location": {
@@ -10493,7 +10493,7 @@
     },
     {
       "site_id": "gcpq3tyc13d6",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A418/B4011, Thame",
       "postcode": "OX9 3SB",
       "location": {
@@ -10509,7 +10509,7 @@
     },
     {
       "site_id": "gcq9c6tkqz9g",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "258 Birmingham Road, Bromsgrove",
       "postcode": "B61 0HA",
       "location": {
@@ -10525,7 +10525,7 @@
     },
     {
       "site_id": "gcr37k3bs5sn",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "New link road, Northampton",
       "postcode": "NN7 3NF",
       "location": {
@@ -10569,7 +10569,7 @@
     },
     {
       "site_id": "gcng6peubp56",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "St Andrews Road, Tidworth",
       "postcode": "SP9 7LA",
       "location": {
@@ -10641,7 +10641,7 @@
     },
     {
       "site_id": "gcxbqqfx4t0x",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Louth Road, Grimsby",
       "postcode": "DN36 4PT",
       "location": {
@@ -10656,7 +10656,7 @@
     },
     {
       "site_id": "gcp7rpeu7z3p",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Tongham Road, Farnham",
       "postcode": "GU10 1FP",
       "location": {
@@ -10714,7 +10714,7 @@
     },
     {
       "site_id": "gcncwj60y5mj",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "65 Ringwood Road, Southampton",
       "postcode": "SO40 8DD",
       "location": {
@@ -10729,7 +10729,7 @@
     },
     {
       "site_id": "gcw858yputr9",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "High Street East, Glossop",
       "postcode": "SK13 8PN",
       "location": {
@@ -10773,7 +10773,7 @@
     },
     {
       "site_id": "gcmxnbdtk7sv",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Halkyn Road, Flintshire",
       "postcode": "CH8 7SG",
       "location": {
@@ -10789,7 +10789,7 @@
     },
     {
       "site_id": "gcqmxh3x2pxh",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "4 Ruxley Road, Stoke-on-trent",
       "postcode": "ST2 9DG",
       "location": {
@@ -10805,7 +10805,7 @@
     },
     {
       "site_id": "gcnqugv0p5ju",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Stroud Road, Tuffley",
       "postcode": "GL4 0DA",
       "location": {
@@ -10834,7 +10834,7 @@
     },
     {
       "site_id": "gcpkqxyd26kx",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "5 Downshire Way, Bracknell",
       "postcode": "RG12 1QN",
       "location": {
@@ -10849,7 +10849,7 @@
     },
     {
       "site_id": "gcycp31cjc5b",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "Beach Road, North Shields",
       "postcode": "NE30 2TU",
       "location": {
@@ -10865,7 +10865,7 @@
     },
     {
       "site_id": "gcqssrx9df9u",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Uttoxeter Road, Uttoxeter",
       "postcode": "ST14 5AA",
       "location": {
@@ -10881,7 +10881,7 @@
     },
     {
       "site_id": "gcmx2ctpxfsp",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "193 Vale Road, Conwy",
       "postcode": "LL18 2PH",
       "location": {
@@ -10897,7 +10897,7 @@
     },
     {
       "site_id": "gcpxnkfp77rx",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "33 Dunstable Road, Luton",
       "postcode": "LU1 1BN",
       "location": {
@@ -10941,7 +10941,7 @@
     },
     {
       "site_id": "gcpvrm45kt2z",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "124 Markhouse Road, London",
       "postcode": "E17 8BQ",
       "location": {
@@ -10971,7 +10971,7 @@
     },
     {
       "site_id": "gcn7q3qf170g",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "East Street, Warminster",
       "postcode": "BA12 9BJ",
       "location": {
@@ -10987,7 +10987,7 @@
     },
     {
       "site_id": "gcxphjbw274g",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Easington Road, Hartlepool",
       "postcode": "TS24 9AG",
       "location": {
@@ -11003,7 +11003,7 @@
     },
     {
       "site_id": "gcw0e97jdwzc",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "240 Warrington Road, Wigan",
       "postcode": "WN3 6PF",
       "location": {
@@ -11019,7 +11019,7 @@
     },
     {
       "site_id": "gcybkgzt3kvd",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Parsons Road, Washington",
       "postcode": "NE37 1EZ",
       "location": {
@@ -11049,7 +11049,7 @@
     },
     {
       "site_id": "gcjkyy8kq009",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Bridgend by-pass, Bridgend",
       "postcode": "CF31 3NB",
       "location": {
@@ -11079,7 +11079,7 @@
     },
     {
       "site_id": "gcquz47f2bn5",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Chellaston Road, Derby",
       "postcode": "DE24 9EG",
       "location": {
@@ -11095,7 +11095,7 @@
     },
     {
       "site_id": "gcr3x2env7et",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "1-3 Rossetti Close, Wellingborough",
       "postcode": "NN8 3FQ",
       "location": {
@@ -11111,7 +11111,7 @@
     },
     {
       "site_id": "gcn57dmd1ews",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Chamberlain Street, Wells",
       "postcode": "BA5 2PT",
       "location": {
@@ -11141,7 +11141,7 @@
     },
     {
       "site_id": "gbvn7q0j275y",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Wembury Road, Plymouth",
       "postcode": "PL9 0DF",
       "location": {
@@ -11157,7 +11157,7 @@
     },
     {
       "site_id": "gcqrusffs7gu",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "849 Princess Road, Manchester",
       "postcode": "M20 2ZF",
       "location": {
@@ -11172,7 +11172,7 @@
     },
     {
       "site_id": "gcuyh1w8tdwe",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "2333 Great Western Rd, Clydebank",
       "postcode": "G81 2XT",
       "location": {
@@ -11216,7 +11216,7 @@
     },
     {
       "site_id": "gcxnpz2qeyuv",
-      "brand": "Shell",
+      "brand": "Asda",
       "address": "Westend, Guisborough",
       "postcode": "TS14 6RL",
       "location": {
@@ -11246,7 +11246,7 @@
     },
     {
       "site_id": "gcp38ced7vjr",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "127-129 London Road, Waterlooville",
       "postcode": "PO8 8XJ",
       "location": {
@@ -11261,7 +11261,7 @@
     },
     {
       "site_id": "gcn8txx7cu8p",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Castle Lane West, Bournemouth",
       "postcode": "BH9 3JZ",
       "location": {
@@ -11277,7 +11277,7 @@
     },
     {
       "site_id": "gcwgnyz2vedu",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Wetherby Road, Knaresborough",
       "postcode": "HG5 8LH",
       "location": {
@@ -11293,7 +11293,7 @@
     },
     {
       "site_id": "gcngm53g7553",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Weyhill Service Area East, Weyhill",
       "postcode": "SP11 0PN",
       "location": {
@@ -11309,7 +11309,7 @@
     },
     {
       "site_id": "gcngm5njqcsv",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "A303 West Bound, Weyhill Road, Weyhill",
       "postcode": "SP11 0PN",
       "location": {
@@ -11325,7 +11325,7 @@
     },
     {
       "site_id": "gbyrbn5zy22h",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "King Street, Weymouth",
       "postcode": "DT4 7BJ",
       "location": {
@@ -11355,7 +11355,7 @@
     },
     {
       "site_id": "gcyb9fs3xgvr",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Front Street, Whickham",
       "postcode": "NE16 4EL",
       "location": {
@@ -11371,7 +11371,7 @@
     },
     {
       "site_id": "gcqj66mfty5b",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Wrexham Road, Whitchurch",
       "postcode": "SY13 1JZ",
       "location": {
@@ -11387,7 +11387,7 @@
     },
     {
       "site_id": "gchzpdxzgbyq",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A40, Carmarthen, Carmarthen",
       "postcode": "SA32 7EN",
       "location": {
@@ -11415,7 +11415,7 @@
     },
     {
       "site_id": "gcqcbpu2em9t",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Widney Road, Solihull",
       "postcode": "B93 9DZ",
       "location": {
@@ -11445,7 +11445,7 @@
     },
     {
       "site_id": "gcw2j31kpsdv",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "32 Wilbraham Road, Fallowfield",
       "postcode": "M14 7DW",
       "location": {
@@ -11461,7 +11461,7 @@
     },
     {
       "site_id": "gcx9zy5b2b2w",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Beverley Road, Hull",
       "postcode": "HU10 6NT",
       "location": {
@@ -11477,7 +11477,7 @@
     },
     {
       "site_id": "gcn6wnxnjfbe",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A303 West Knoyle, Warminster",
       "postcode": "BA12 6AQ",
       "location": {
@@ -11493,7 +11493,7 @@
     },
     {
       "site_id": "gcptkbw57djx",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Oxford Road, Uxbridge",
       "postcode": "UB9 4DA",
       "location": {
@@ -11509,7 +11509,7 @@
     },
     {
       "site_id": "gcqrm59v0k32",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Hawthorne Street, Wilmslow",
       "postcode": "SK9 5EH",
       "location": {
@@ -11525,7 +11525,7 @@
     },
     {
       "site_id": "gcn8fjyr2j4m",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A31 Dorchester Road, Wimborne",
       "postcode": "BH21 3HA",
       "location": {
@@ -11541,7 +11541,7 @@
     },
     {
       "site_id": "gcn8f5evxr64",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "2 Wareham Road, Wimborne",
       "postcode": "BH21 3LE",
       "location": {
@@ -11557,7 +11557,7 @@
     },
     {
       "site_id": "u10qybppy2j0",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "London Road, Witham",
       "postcode": "CM8 1ED",
       "location": {
@@ -11614,7 +11614,7 @@
     },
     {
       "site_id": "gcwgju218bqy",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "135 Wetherby Road, Harrogate",
       "postcode": "HG2 7AA",
       "location": {
@@ -11644,7 +11644,7 @@
     },
     {
       "site_id": "gcq1d7mq08du",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "A49 Northbound, Woofferton, Shropshire",
       "postcode": "SY8 4AL",
       "location": {
@@ -11660,7 +11660,7 @@
     },
     {
       "site_id": "gcnthz2mr5sv",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "94 High Street, Wootton Bassett",
       "postcode": "SN4 7AS",
       "location": {
@@ -11704,7 +11704,7 @@
     },
     {
       "site_id": "gcw23t7shw2g",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Walkden Road, Manchester",
       "postcode": "M28 2RZ",
       "location": {
@@ -11720,7 +11720,7 @@
     },
     {
       "site_id": "gcmymvfdwv1z",
-      "brand": "BP",
+      "brand": "Asda",
       "address": "Wrexham Road, Chester",
       "postcode": "CH4 9DE",
       "location": {
@@ -11750,7 +11750,7 @@
     },
     {
       "site_id": "gcjxvzs9f3y9",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Llyswen, Brecon",
       "postcode": "LD3 0UR",
       "location": {
@@ -11766,7 +11766,7 @@
     },
     {
       "site_id": "gcmy2y8hg5nu",
-      "brand": "Esso",
+      "brand": "Asda",
       "address": "Chester Road, Mold",
       "postcode": "CH7 1UE",
       "location": {
@@ -11782,7 +11782,7 @@
     },
     {
       "site_id": "gcxn46sr310s",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Low Lane, Yarm",
       "postcode": "TS15 9JT",
       "location": {
@@ -11797,7 +11797,7 @@
     },
     {
       "site_id": "gcpkj693wkth",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "13 Reading Road, Yateley",
       "postcode": "GU46 7UH",
       "location": {
@@ -11812,7 +11812,7 @@
     },
     {
       "site_id": "gcn1u9ezx0gc",
-      "brand": "Asda Express",
+      "brand": "Asda",
       "address": "Sherborne Road, Yeovil",
       "postcode": "BA21 5BQ",
       "location": {
@@ -11840,7 +11840,7 @@
     },
     {
       "site_id": "gcx5n2j7d2x6",
-      "brand": "Texaco",
+      "brand": "Asda",
       "address": "97 Boroughbridge Road, York",
       "postcode": "YO26 6AA",
       "location": {
