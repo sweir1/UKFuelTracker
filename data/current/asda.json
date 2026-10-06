@@ -1,5 +1,5 @@
 {
-  "last_updated": "05/10/2026 09:59:17",
+  "last_updated": "06/10/2026 11:00:00",
   "stations": [
     {
       "site_id": "gcqfn1wd5k4j",
@@ -2826,7 +2826,7 @@
     },
     {
       "site_id": "gcybfsyfg90k",
-      "brand": "Asda",
+      "brand": "Esso",
       "address": "Kenton Ln, Newcastle upon Tyne",
       "postcode": "NE3 3ED",
       "location": {
@@ -3663,7 +3663,7 @@
     },
     {
       "site_id": "gcqmrpkm70wc",
-      "brand": "Asda",
+      "brand": "Esso",
       "address": "King Street, Stoke-on-trent",
       "postcode": "ST4 2LT",
       "location": {
@@ -3770,7 +3770,7 @@
     },
     {
       "site_id": "gcwys2vdehyq",
-      "brand": "Asda",
+      "brand": "Esso",
       "address": "Newton Park Service Station, Coatham Mundeville",
       "postcode": "DL1 3NL",
       "location": {
@@ -7977,7 +7977,7 @@
     },
     {
       "site_id": "gcq891cmvuyg",
-      "brand": "Asda",
+      "brand": "Esso",
       "address": "Abbey View, B4083, Pershore",
       "postcode": "WR10 2DT",
       "location": {
