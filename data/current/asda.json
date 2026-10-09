@@ -1,6 +1,650 @@
 {
-  "last_updated": "08/10/2026 11:00:00",
+  "last_updated": "09/10/2026 11:00:00",
   "stations": [
+    {
+      "site_id": "gcx9xmzu77vt",
+      "brand": "Asda",
+      "address": "Hessle Road, Hull",
+      "postcode": "HU3 4PE",
+      "location": {
+        "latitude": 53.733501,
+        "longitude": -0.373527
+      },
+      "prices": {
+        "E10": 175.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcw2bteuc2hy",
+      "brand": "Asda",
+      "address": "Moss Bank Way, Bolton",
+      "postcode": "BL1 8QG",
+      "location": {
+        "latitude": 53.600355,
+        "longitude": -2.433746
+      },
+      "prices": {
+        "E10": 171.9,
+        "B7": 197.9
+      }
+    },
+    {
+      "site_id": "gfnkzxjsgyq6",
+      "brand": "Asda",
+      "address": "Garth dee Road, Bridge of Dee, Aberdeen, Aberdeen",
+      "postcode": "AB10 7QA",
+      "location": {
+        "latitude": 57.124682,
+        "longitude": -2.123557
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcvnm3kmdhf2",
+      "brand": "Asda",
+      "address": "1 Tryst Road, Cumbernauld",
+      "postcode": "G67 1JW",
+      "location": {
+        "latitude": 55.950218,
+        "longitude": -3.982111
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 196.7
+      }
+    },
+    {
+      "site_id": "gcmyejd5qm8y",
+      "brand": "Asda",
+      "address": "Aston Road, Queensferry",
+      "postcode": "CH5 1TP",
+      "location": {
+        "latitude": 53.205254,
+        "longitude": -3.027189
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 198.9
+      }
+    },
+    {
+      "site_id": "gcxf01h0xcx6",
+      "brand": "Asda",
+      "address": "Bude Road, Kingswood Retail Park, Hull",
+      "postcode": "HU7 3DA",
+      "location": {
+        "latitude": 53.793364,
+        "longitude": -0.34509
+      },
+      "prices": {
+        "E10": 173.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcw822dkfw37",
+      "brand": "Asda",
+      "address": "Cavendish Street, Ashton-Under-Lyne",
+      "postcode": "OL6 7PF",
+      "location": {
+        "latitude": 53.483829,
+        "longitude": -2.094949
+      },
+      "prices": {
+        "E10": 170.7,
+        "B7": 193.7
+      }
+    },
+    {
+      "site_id": "gcw0qs19d3hz",
+      "brand": "Asda",
+      "address": "Atherleigh Way, Leigh",
+      "postcode": "WN7 5RZ",
+      "location": {
+        "latitude": 53.502485,
+        "longitude": -2.526221
+      },
+      "prices": {
+        "E10": 169.7,
+        "B7": 188.7
+      }
+    },
+    {
+      "site_id": "u10j5hzbxhbp",
+      "brand": "Asda",
+      "address": "Merrielands Crescent, Dagenham",
+      "postcode": "RM9 6SJ",
+      "location": {
+        "latitude": 51.529501,
+        "longitude": 0.139635
+      },
+      "prices": {
+        "E10": 173.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcjtqwym5ysf",
+      "brand": "Asda",
+      "address": "Pontygwindy Road, Caerphilly",
+      "postcode": "CF83 3SX",
+      "location": {
+        "latitude": 51.585824,
+        "longitude": -3.22123
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 198.9
+      }
+    },
+    {
+      "site_id": "gcmvu13t69pr",
+      "brand": "Asda",
+      "address": "Holt Road, Wrexham",
+      "postcode": "LL13 8HL",
+      "location": {
+        "latitude": 53.049168,
+        "longitude": -2.986174
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 195.7
+      }
+    },
+    {
+      "site_id": "gcteyke66d8h",
+      "brand": "Asda",
+      "address": "Walney Road, Barrow-In-Furness",
+      "postcode": "LA14 5UG",
+      "location": {
+        "latitude": 54.121811,
+        "longitude": -3.236439
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 196.7
+      }
+    },
+    {
+      "site_id": "gcjsxx3099sd",
+      "brand": "Asda",
+      "address": "Ferry Road Retail Park, Cardiff",
+      "postcode": "CF11 0JR",
+      "location": {
+        "latitude": 51.455816,
+        "longitude": -3.183209
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 196.9
+      }
+    },
+    {
+      "site_id": "gcyb9v4m5ju9",
+      "brand": "Asda",
+      "address": "Metro Centre, Gibside Way, Gateshead",
+      "postcode": "NE11 9YA",
+      "location": {
+        "latitude": 54.959921,
+        "longitude": -1.677779
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gbuw77572fks",
+      "brand": "Asda",
+      "address": "Cromwell Road, Saint Austell",
+      "postcode": "PL25 4PR",
+      "location": {
+        "latitude": 50.333291,
+        "longitude": -4.77409
+      },
+      "prices": {
+        "E10": 175.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "u10k8kcrhhys",
+      "brand": "Asda",
+      "address": "Thames Way, Gravesend",
+      "postcode": "DA11 0DQ",
+      "location": {
+        "latitude": 51.443095,
+        "longitude": 0.361967
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcpt18ty3dze",
+      "brand": "Asda",
+      "address": "Telford Drive, Slough",
+      "postcode": "SL1 9LA",
+      "location": {
+        "latitude": 51.507741,
+        "longitude": -0.629236
+      },
+      "prices": {
+        "E10": 171.9,
+        "B7": 195.9
+      }
+    },
+    {
+      "site_id": "gcw2u382yrv1",
+      "brand": "Asda",
+      "address": "Pilsworth Road, Bury",
+      "postcode": "BL9 8RS",
+      "location": {
+        "latitude": 53.577771,
+        "longitude": -2.273519
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 196.7
+      }
+    },
+    {
+      "site_id": "u135r1tmusxm",
+      "brand": "Asda",
+      "address": "Acle New Road, Runham Vauxhall, Great Yarmouth",
+      "postcode": "NR30 1SF",
+      "location": {
+        "latitude": 52.611791,
+        "longitude": 1.72128
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcw2ejb6jefe",
+      "brand": "Asda",
+      "address": "Riverside Retail Park, Manchester",
+      "postcode": "M26 3DA",
+      "location": {
+        "latitude": 53.557314,
+        "longitude": -2.328534
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 194.7
+      }
+    },
+    {
+      "site_id": "gcw9rd9zvx35",
+      "brand": "Asda",
+      "address": "Longhill Road - Off Bradford Road, Huddersfield",
+      "postcode": "HD2 2LQ",
+      "location": {
+        "latitude": 53.672433,
+        "longitude": -1.77595
+      },
+      "prices": {
+        "E10": 169.9,
+        "B7": 192.9
+      }
+    },
+    {
+      "site_id": "gcpum0e02sfs",
+      "brand": "Asda",
+      "address": "Marlow Way, Croydon",
+      "postcode": "CR0 4XS",
+      "location": {
+        "latitude": 51.374886,
+        "longitude": -0.127691
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcjw7zyu1tsc",
+      "brand": "Asda",
+      "address": "Dowlais Top, Merthyr Tydfil",
+      "postcode": "CF48 2YF",
+      "location": {
+        "latitude": 51.765326,
+        "longitude": -3.336215
+      },
+      "prices": {
+        "E10": 176.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcrt128vuzvx",
+      "brand": "Asda",
+      "address": "Union Street, Grantham",
+      "postcode": "NG31 6NZ",
+      "location": {
+        "latitude": 52.913372,
+        "longitude": -0.64508
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcpgfuw63mbf",
+      "brand": "Asda",
+      "address": "Reigate Road, Burgh Heath, Tadworth",
+      "postcode": "KT20 5NZ",
+      "location": {
+        "latitude": 51.30875,
+        "longitude": -0.22253
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcqmttrhmrd8",
+      "brand": "Asda",
+      "address": "Wolstanton Retail Park, Newcastle under Lyme",
+      "postcode": "ST5 0AP",
+      "location": {
+        "latitude": 53.027655,
+        "longitude": -2.209396
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 191.7
+      }
+    },
+    {
+      "site_id": "gctf53d64e3x",
+      "brand": "Asda",
+      "address": "Cherry Tree Road, Blackpool",
+      "postcode": "FY4 4QH",
+      "location": {
+        "latitude": 53.796873,
+        "longitude": -3.017296
+      },
+      "prices": {
+        "E10": 169.7,
+        "B7": 193.7
+      }
+    },
+    {
+      "site_id": "gcqg3k1ns59q",
+      "brand": "Asda",
+      "address": "Ventura Road, Tamworth",
+      "postcode": "B78 3HB",
+      "location": {
+        "latitude": 52.625595,
+        "longitude": -1.701441
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gfnmqtb2h86b",
+      "brand": "Asda",
+      "address": "Riverview Drive, Dyce, Aberdeen",
+      "postcode": "AB21 7NG",
+      "location": {
+        "latitude": 57.204251,
+        "longitude": -2.17216
+      },
+      "prices": {
+        "E10": 174.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gbvnf8rw3070",
+      "brand": "Asda",
+      "address": "Leypark Drive - Estover, Plymouth",
+      "postcode": "PL6 8TB",
+      "location": {
+        "latitude": 50.407721,
+        "longitude": -4.09854
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcx88rm2wuqc",
+      "brand": "Asda",
+      "address": "Burringham Road, Scunthorpe",
+      "postcode": "DN17 2XF",
+      "location": {
+        "latitude": 53.565325,
+        "longitude": -0.68463
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 196.9
+      }
+    },
+    {
+      "site_id": "gcxp98ue5qhn",
+      "brand": "Asda",
+      "address": "Surtrees Road, Peterlee",
+      "postcode": "SR8 1AR",
+      "location": {
+        "latitude": 54.760527,
+        "longitude": -1.334007
+      },
+      "prices": {
+        "E10": 174.9,
+        "B7": 197.9
+      }
+    },
+    {
+      "site_id": "gcxcfmcb5tqv",
+      "brand": "Asda",
+      "address": "Main Road - Bilton, Hull",
+      "postcode": "HU11 4AL",
+      "location": {
+        "latitude": 53.776732,
+        "longitude": -0.250123
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "u10gbcnm9qb4",
+      "brand": "Asda",
+      "address": "Sturry Road, Canterbury",
+      "postcode": "CT1 1DG",
+      "location": {
+        "latitude": 51.290393,
+        "longitude": 1.098257
+      },
+      "prices": {
+        "E10": 176.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcnhmx8fntr6",
+      "brand": "Asda",
+      "address": "Oatlands Avenue, Bristol",
+      "postcode": "BS14 0ST",
+      "location": {
+        "latitude": 51.413641,
+        "longitude": -2.569482
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 196.9
+      }
+    },
+    {
+      "site_id": "u10my16n7b2e",
+      "brand": "Asda",
+      "address": "1-10 Queen Elizabeth Square, Chelmsford",
+      "postcode": "CM3 5TB",
+      "location": {
+        "latitude": 51.643683,
+        "longitude": 0.618142
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcvj6uws2npw",
+      "brand": "Asda",
+      "address": "Glasgow Road, Blantyre",
+      "postcode": "G72 0AQ",
+      "location": {
+        "latitude": 55.794753,
+        "longitude": -4.094542
+      },
+      "prices": {
+        "E10": 175.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcq6xf23nj93",
+      "brand": "Asda",
+      "address": "Pearson Street, Brierley Hill",
+      "postcode": "DY5 3BJ",
+      "location": {
+        "latitude": 52.481396,
+        "longitude": -2.117811
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcp32w2den1u",
+      "brand": "Asda",
+      "address": "Portland Road, Waterlooville",
+      "postcode": "PO7 7XR",
+      "location": {
+        "latitude": 50.879521,
+        "longitude": -1.031897
+      },
+      "prices": {
+        "E10": 176.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "u10q7d0xq2vc",
+      "brand": "Asda",
+      "address": "Chelmer Village Centre, Chelmsford",
+      "postcode": "CM2 6RE",
+      "location": {
+        "latitude": 51.735868,
+        "longitude": 0.506334
+      },
+      "prices": {
+        "E10": 176.9,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcw6hcnb81ms",
+      "brand": "Asda",
+      "address": "Princess Way, Burnley",
+      "postcode": "BB12 0EQ",
+      "location": {
+        "latitude": 53.794649,
+        "longitude": -2.24292
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcpkdc8c3cgj",
+      "brand": "Asda",
+      "address": "Chalfont Way, Lower Earley, Reading",
+      "postcode": "RG6 5TT",
+      "location": {
+        "latitude": 51.424567,
+        "longitude": -0.932739
+      },
+      "prices": {
+        "E10": 174.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcqe9z1wk0rp",
+      "brand": "Asda",
+      "address": "Avon Road, Cannock",
+      "postcode": "WS11 1LH",
+      "location": {
+        "latitude": 52.68297,
+        "longitude": -2.03563
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcvr1zcguq8c",
+      "brand": "Asda",
+      "address": "Whins Road, Alloa",
+      "postcode": "FK10 3SD",
+      "location": {
+        "latitude": 56.1194,
+        "longitude": -3.78232
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "u10m6eckyrvs",
+      "brand": "Asda",
+      "address": "Eastgate Shopping Centre, Basildon",
+      "postcode": "SS14 1AE",
+      "location": {
+        "latitude": 51.569448,
+        "longitude": 0.460496
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 194.7
+      }
+    },
+    {
+      "site_id": "u123r8pjju87",
+      "brand": "Asda",
+      "address": "Western Way, Bury St Edmunds",
+      "postcode": "IP33 3SP",
+      "location": {
+        "latitude": 52.25155,
+        "longitude": 0.69199
+      },
+      "prices": {
+        "E10": 169.9,
+        "B7": 194.9
+      }
+    },
     {
       "site_id": "gcqfn1wd5k4j",
       "brand": "Asda",
@@ -12,6 +656,608 @@
       },
       "prices": {
         "E10": 173.9,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcq5cdkkm4bd",
+      "brand": "Asda",
+      "address": "Old Potts Way, Shrewsbury",
+      "postcode": "SY3 7ET",
+      "location": {
+        "latitude": 52.70352,
+        "longitude": -2.740529
+      },
+      "prices": {
+        "E10": 176.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gfnxnth4uuex",
+      "brand": "Asda",
+      "address": "Longside Road, Peterhead",
+      "postcode": "AB42 2FY",
+      "location": {
+        "latitude": 57.508587,
+        "longitude": -1.818092
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gchqpdf5ktcy",
+      "brand": "Asda",
+      "address": "Gordon Street, Pembroke Dock",
+      "postcode": "SA72 6DA",
+      "location": {
+        "latitude": 51.694402,
+        "longitude": -4.94109
+      },
+      "prices": {
+        "E10": 168.7,
+        "B7": 195.7
+      }
+    },
+    {
+      "site_id": "gckyvzjw0x0m",
+      "brand": "Asda",
+      "address": "Ffordd Cae Sel, Llangefni",
+      "postcode": "LL77 7DW",
+      "location": {
+        "latitude": 53.257239,
+        "longitude": -4.30966
+      },
+      "prices": {
+        "E10": 169.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gfnnb39ddgk3",
+      "brand": "Asda",
+      "address": "Steven Road, Huntly",
+      "postcode": "AB54 8SX",
+      "location": {
+        "latitude": 57.44521,
+        "longitude": -2.79933
+      },
+      "prices": {
+        "E10": 175.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcg38edgghbm",
+      "brand": "Asda",
+      "address": "1 Ring Rd, Coleraine",
+      "postcode": "BT52 1QP",
+      "location": {
+        "latitude": 55.127318,
+        "longitude": -6.653809
+      },
+      "prices": {
+        "E10": 167.7,
+        "B7": 189.7
+      }
+    },
+    {
+      "site_id": "gceny991w6cu",
+      "brand": "Asda",
+      "address": "Sweep Road, Cookstown",
+      "postcode": "BT80 8JR",
+      "location": {
+        "latitude": 54.63502,
+        "longitude": -6.74608
+      },
+      "prices": {
+        "E10": 165.7,
+        "B7": 191.7
+      }
+    },
+    {
+      "site_id": "gcdy9dgsrd7p",
+      "brand": "Asda",
+      "address": "31 Dromore Road, Omagh",
+      "postcode": "BT78 1QZ",
+      "location": {
+        "latitude": 54.59587,
+        "longitude": -7.31181
+      },
+      "prices": {
+        "E10": 166.7,
+        "B7": 193.7
+      }
+    },
+    {
+      "site_id": "gcjgkkeqkf9d",
+      "brand": "Asda",
+      "address": "Caxton Road, Highbridge",
+      "postcode": "TA9 3BX",
+      "location": {
+        "latitude": 51.222112,
+        "longitude": -2.972745
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gfjnb42rvh2h",
+      "brand": "Asda",
+      "address": "Ivanhoe Avenue, Inverness, Inverness",
+      "postcode": "IV2 6BZ",
+      "location": {
+        "latitude": 57.45097,
+        "longitude": -4.215638
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "u103ksk31sf4",
+      "brand": "Asda",
+      "address": "Battle Road, Saint Leonards",
+      "postcode": "TN37 7AA",
+      "location": {
+        "latitude": 50.86827,
+        "longitude": 0.55522
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcvz8nbgkmcx",
+      "brand": "Asda",
+      "address": "Fullerton Road, Glenrothes",
+      "postcode": "KY7 5QB",
+      "location": {
+        "latitude": 56.19924,
+        "longitude": -3.17138
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gchfpteqfd3j",
+      "brand": "Asda",
+      "address": "Clovelly Road, Bideford",
+      "postcode": "EX39 3QU",
+      "location": {
+        "latitude": 51.00771,
+        "longitude": -4.23816
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcw1hnksjbf9",
+      "brand": "Asda",
+      "address": "Bolton Street, Chorley",
+      "postcode": "PR7 3DL",
+      "location": {
+        "latitude": 53.648798,
+        "longitude": -2.629841
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gfm0gge2khwv",
+      "brand": "Asda",
+      "address": "Knockbreck Road, Tain",
+      "postcode": "IV19 1NZ",
+      "location": {
+        "latitude": 57.803612,
+        "longitude": -4.048216
+      },
+      "prices": {
+        "E10": 175.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gfjc695ughgn",
+      "brand": "Asda",
+      "address": "61 Myrekirk Road, Dundee",
+      "postcode": "DD2 4WB",
+      "location": {
+        "latitude": 56.473387,
+        "longitude": -3.050387
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 194.7
+      }
+    },
+    {
+      "site_id": "u12gm2f242nb",
+      "brand": "Asda",
+      "address": "Hall Road, Norwich",
+      "postcode": "NR4 6DP",
+      "location": {
+        "latitude": 52.606659,
+        "longitude": 1.288596
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gctqzn5vkyub",
+      "brand": "Asda",
+      "address": "Dunmail Park, Workington",
+      "postcode": "CA14 1NQ",
+      "location": {
+        "latitude": 54.65792,
+        "longitude": -3.55421
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcj4e6qg3fzb",
+      "brand": "Asda",
+      "address": "Anchorwood Retail Park, Taw Wharf, Barnstaple",
+      "postcode": "EX31 2BN",
+      "location": {
+        "latitude": 51.076563,
+        "longitude": -4.065875
+      },
+      "prices": {
+        "E10": 169.7,
+        "B7": 192.7
+      }
+    },
+    {
+      "site_id": "gcnrpw3ev103",
+      "brand": "Asda",
+      "address": "Hatherley Lane, Cheltenham",
+      "postcode": "GL51 6PN",
+      "location": {
+        "latitude": 51.891662,
+        "longitude": -2.128683
+      },
+      "prices": {
+        "E10": 169.7,
+        "B7": 194.7
+      }
+    },
+    {
+      "site_id": "gcybu0xj0q9b",
+      "brand": "Asda",
+      "address": "Unit 5, Newcastle Shopping Park, Newcastle upon Tyne",
+      "postcode": "NE6 2XP",
+      "location": {
+        "latitude": 54.979225,
+        "longitude": -1.572405
+      },
+      "prices": {
+        "E10": 173.9,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcrpq13s7uyc",
+      "brand": "Asda",
+      "address": "Sandy Lane, Worksop",
+      "postcode": "S80 3ET",
+      "location": {
+        "latitude": 53.313285,
+        "longitude": -1.140348
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcjsmkt55ek2",
+      "brand": "Asda",
+      "address": "Ffordd Y Mileniwm, Barry",
+      "postcode": "CF62 5AT",
+      "location": {
+        "latitude": 51.397238,
+        "longitude": -3.270975
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcemts6khuyy",
+      "brand": "Asda",
+      "address": "Bridge Street, Portadown",
+      "postcode": "BT63 5AQ",
+      "location": {
+        "latitude": 54.426234,
+        "longitude": -6.437165
+      },
+      "prices": {
+        "E10": 166.7,
+        "B7": 189.7
+      }
+    },
+    {
+      "site_id": "gcr6pkcmq83h",
+      "brand": "Asda",
+      "address": "Cunliffe Drive, Northfield Avenue, Kettering",
+      "postcode": "NN16 9HU",
+      "location": {
+        "latitude": 52.409475,
+        "longitude": -0.734174
+      },
+      "prices": {
+        "E10": 170.7,
+        "B7": 189.7
+      }
+    },
+    {
+      "site_id": "gcvtzu77vzbb",
+      "brand": "Asda",
+      "address": "Pentland Road, Loanhead",
+      "postcode": "EH20 9NY",
+      "location": {
+        "latitude": 55.878314,
+        "longitude": -3.170285
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 193.7
+      }
+    },
+    {
+      "site_id": "u10ydq5qvpzz",
+      "brand": "Asda",
+      "address": "Bull Hill Road, Clacton-on-Sea",
+      "postcode": "CO15 4AU",
+      "location": {
+        "latitude": 51.802295,
+        "longitude": 1.157747
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcmnccpwj6yf",
+      "brand": "Asda",
+      "address": "Farrar Road, Bangor",
+      "postcode": "LL57 1LJ",
+      "location": {
+        "latitude": 53.224381,
+        "longitude": -4.131761
+      },
+      "prices": {
+        "E10": 175.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcjjyv5yyxbz",
+      "brand": "Asda",
+      "address": "Upper Forest Way, Swansea",
+      "postcode": "SA6 8PS",
+      "location": {
+        "latitude": 51.664422,
+        "longitude": -3.916828
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcw24tsr48n1",
+      "brand": "Asda",
+      "address": "Barton Dock Road, Manchester",
+      "postcode": "M41 7ZA",
+      "location": {
+        "latitude": 53.46899,
+        "longitude": -2.343506
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcr5jpqpnvus",
+      "brand": "Asda",
+      "address": "Narborough Road South, Braunstone",
+      "postcode": "LE3 2LL",
+      "location": {
+        "latitude": 52.599777,
+        "longitude": -1.177952
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcrwdd9z58h3",
+      "brand": "Asda",
+      "address": "Newark Road, North Hykeham, Lincoln",
+      "postcode": "LN6 8JY",
+      "location": {
+        "latitude": 53.187871,
+        "longitude": -0.591536
+      },
+      "prices": {
+        "E10": 174.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcquy1b4sfxy",
+      "brand": "Asda",
+      "address": "Sinfin Shopping Centre, Derby",
+      "postcode": "DE24 3DS",
+      "location": {
+        "latitude": 52.876267,
+        "longitude": -1.493926
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gbuxhumt6s4d",
+      "brand": "Asda",
+      "address": "Launceston Road, Bodmin",
+      "postcode": "PL31 2AR",
+      "location": {
+        "latitude": 50.47602,
+        "longitude": -4.70314
+      },
+      "prices": {
+        "E10": 175.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcmztpvzsc1v",
+      "brand": "Asda",
+      "address": "126 Smithdown Road, Liverpool",
+      "postcode": "L15 3JR",
+      "location": {
+        "latitude": 53.391738,
+        "longitude": -2.932798
+      },
+      "prices": {
+        "E10": 173.9,
+        "B7": 195.9
+      }
+    },
+    {
+      "site_id": "gcntwcj1wh6p",
+      "brand": "Asda",
+      "address": "Unit A1, North Swindon District Centre, Swindon",
+      "postcode": "SN25 4BG",
+      "location": {
+        "latitude": 51.59724,
+        "longitude": -1.805133
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcpz5rv8xb7q",
+      "brand": "Asda",
+      "address": "Monkswood Way, Stevenage",
+      "postcode": "SG1 1LA",
+      "location": {
+        "latitude": 51.898129,
+        "longitude": -0.20085
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 191.7
+      }
+    },
+    {
+      "site_id": "gcp0zrw7d6cb",
+      "brand": "Asda",
+      "address": "The Bridge Shopping Centre, Portsmouth",
+      "postcode": "PO1 1SL",
+      "location": {
+        "latitude": 50.79865,
+        "longitude": -1.078964
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcw2q069jsyn",
+      "brand": "Asda",
+      "address": "ASDA Sportcity, Ashton New Road, Manchester",
+      "postcode": "M11 4BD",
+      "location": {
+        "latitude": 53.484036,
+        "longitude": -2.195119
+      },
+      "prices": {
+        "E10": 169.7,
+        "B7": 194.7
+      }
+    },
+    {
+      "site_id": "gcjtzmfk1y3j",
+      "brand": "Asda",
+      "address": "High Street, Blackwood",
+      "postcode": "NP12 0NT",
+      "location": {
+        "latitude": 51.668049,
+        "longitude": -3.193855
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 195.7
+      }
+    },
+    {
+      "site_id": "gcwycyjns2mb",
+      "brand": "Asda",
+      "address": "South Church Road, Bishop Auckland",
+      "postcode": "DL14 7LB",
+      "location": {
+        "latitude": 54.65803,
+        "longitude": -1.67133
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 194.7
+      }
+    },
+    {
+      "site_id": "gcpv1u77ppgr",
+      "brand": "Asda",
+      "address": "2-20 Western Road, Park Royal, London",
+      "postcode": "NW10 7LW",
+      "location": {
+        "latitude": 51.52781,
+        "longitude": -0.26989
+      },
+      "prices": {
+        "E10": 169.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcq0453snztq",
+      "brand": "Asda",
+      "address": "Belmont Road, Hereford",
+      "postcode": "HR2 7JE",
+      "location": {
+        "latitude": 52.04896,
+        "longitude": -2.72019
+      },
+      "prices": {
+        "E10": 175.7,
         "B7": 199.7
       }
     },
@@ -30,18 +1276,311 @@
       }
     },
     {
-      "site_id": "gfj6057mn7se",
+      "site_id": "gcw2yxvrw81e",
       "brand": "Asda",
-      "address": "46 Dunkeld Street, Aberfeldy",
-      "postcode": "PH15 2AF",
+      "address": "The Old Cricket Ground, Dane Street, Rochdale",
+      "postcode": "OL12 6XT",
       "location": {
-        "latitude": 56.620278,
-        "longitude": -3.862503
+        "latitude": 53.613196,
+        "longitude": -2.167802
       },
       "prices": {
-        "E10": 176.9,
-        "E5": 192.9,
-        "B7": 203.9
+        "E10": 172.9,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcqfr2kmzxn5",
+      "brand": "Asda",
+      "address": "Brade Drive, Coventry",
+      "postcode": "CV2 2PN",
+      "location": {
+        "latitude": 52.429065,
+        "longitude": -1.432156
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcmrrbuks3x5",
+      "brand": "Asda",
+      "address": "St Asaph Avenue North, Kinmel Bay, Rhyl",
+      "postcode": "LL18 5EQ",
+      "location": {
+        "latitude": 53.310565,
+        "longitude": -3.520583
+      },
+      "prices": {
+        "E10": 175.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "u10t1y89mr2r",
+      "brand": "Asda",
+      "address": "North Shoebury Road, Shoeburyness",
+      "postcode": "SS3 8DA",
+      "location": {
+        "latitude": 51.538509,
+        "longitude": 0.781887
+      },
+      "prices": {
+        "E10": 175.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcqvp9nnxzm6",
+      "brand": "Asda",
+      "address": "Derby Road, Spondon",
+      "postcode": "DE21 7LW",
+      "location": {
+        "latitude": 52.916821,
+        "longitude": -1.419854
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gctgx8tktj4m",
+      "brand": "Asda",
+      "address": "Ovangle Road, Lancaster",
+      "postcode": "LA1 5JR",
+      "location": {
+        "latitude": 54.056358,
+        "longitude": -2.821952
+      },
+      "prices": {
+        "E10": 175.9,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "u10hzcu9pu4t",
+      "brand": "Asda",
+      "address": "Thurrock Park Way, Tilbury",
+      "postcode": "RM18 7HJ",
+      "location": {
+        "latitude": 51.469768,
+        "longitude": 0.347092
+      },
+      "prices": {
+        "E10": 171.9,
+        "B7": 197.9
+      }
+    },
+    {
+      "site_id": "gcxnt0prcj3b",
+      "brand": "Asda",
+      "address": "2 North Street, Middlesbrough",
+      "postcode": "TS6 6AN",
+      "location": {
+        "latitude": 54.581436,
+        "longitude": -1.176521
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcw0eg0pvx9x",
+      "brand": "Asda",
+      "address": "Soho Street, Robin Park, Wigan",
+      "postcode": "WN5 0XA",
+      "location": {
+        "latitude": 53.543242,
+        "longitude": -2.647467
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 195.7
+      }
+    },
+    {
+      "site_id": "gcqkruzut0ep",
+      "brand": "Asda",
+      "address": "Queensway, Stafford",
+      "postcode": "ST16 3TA",
+      "location": {
+        "latitude": 52.804175,
+        "longitude": -2.106814
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcnhxjvcxv6f",
+      "brand": "Asda",
+      "address": "Craven Way, Bristol",
+      "postcode": "BS30 7DY",
+      "location": {
+        "latitude": 51.44789,
+        "longitude": -2.496633
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 198.9
+      }
+    },
+    {
+      "site_id": "gcnrj17qqq21",
+      "brand": "Asda",
+      "address": "Bruton Way, Gloucester",
+      "postcode": "GL1 1DS",
+      "location": {
+        "latitude": 51.862606,
+        "longitude": -2.235281
+      },
+      "prices": {
+        "E10": 170.7,
+        "B7": 195.7
+      }
+    },
+    {
+      "site_id": "u12gs9ppj79f",
+      "brand": "Asda",
+      "address": "Drayton High Road, Hellesdon",
+      "postcode": "NR6 5DT",
+      "location": {
+        "latitude": 52.654088,
+        "longitude": 1.263376
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "u10j164kt8e3",
+      "brand": "Asda",
+      "address": "Tollgate Road, Beckton",
+      "postcode": "E6 5JP",
+      "location": {
+        "latitude": 51.515668,
+        "longitude": 0.058262
+      },
+      "prices": {
+        "E10": 170.7,
+        "B7": 190.7
+      }
+    },
+    {
+      "site_id": "gcpmw78m5vx3",
+      "brand": "Asda",
+      "address": "Holmers Farm Way, High Wycombe",
+      "postcode": "HP12 4NU",
+      "location": {
+        "latitude": 51.611911,
+        "longitude": -0.779515
+      },
+      "prices": {
+        "E10": 171.9,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcwcjydtndc4",
+      "brand": "Asda",
+      "address": "Asdale Road, Wakefield",
+      "postcode": "WF2 7EQ",
+      "location": {
+        "latitude": 53.649515,
+        "longitude": -1.499387
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 197.9
+      }
+    },
+    {
+      "site_id": "gcpuzwnzzntc",
+      "brand": "Asda",
+      "address": "151 East Ferry Road, Isle of Dogs, London",
+      "postcode": "E14 3BT",
+      "location": {
+        "latitude": 51.494393,
+        "longitude": -0.01185
+      },
+      "prices": {
+        "E10": 173.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "u10hbt36vf1q",
+      "brand": "Asda",
+      "address": "Bugsby Way, Charlton, London",
+      "postcode": "SE7 7ST",
+      "location": {
+        "latitude": 51.489284,
+        "longitude": 0.023938
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcvy1r7gr66e",
+      "brand": "Asda",
+      "address": "100 The Jewel, Brunstane, Edinburgh",
+      "postcode": "EH15 3AR",
+      "location": {
+        "latitude": 55.938863,
+        "longitude": -3.101527
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 195.7
+      }
+    },
+    {
+      "site_id": "gcxbwpxs1hg5",
+      "brand": "Asda",
+      "address": "Holles Street, Grimsby",
+      "postcode": "DN32 9DL",
+      "location": {
+        "latitude": 53.567302,
+        "longitude": -0.077544
+      },
+      "prices": {
+        "E10": 170.7,
+        "B7": 191.7
+      }
+    },
+    {
+      "site_id": "gcwgjjfkpjhb",
+      "brand": "Asda",
+      "address": "Bower Road, Harrogate",
+      "postcode": "HG1 5DE",
+      "location": {
+        "latitude": 53.997143,
+        "longitude": -1.534689
+      },
+      "prices": {
+        "E10": 167.7,
+        "B7": 190.7
+      }
+    },
+    {
+      "site_id": "gcrd8s862dv8",
+      "brand": "Asda",
+      "address": "Phoenix Park Way, Corby",
+      "postcode": "NN17 5DT",
+      "location": {
+        "latitude": 52.493857,
+        "longitude": -0.678637
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 196.7
       }
     },
     {
@@ -56,6 +1595,1659 @@
       "prices": {
         "E10": 174.9,
         "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcpvd06dbtke",
+      "brand": "Asda",
+      "address": "Capitol Way off Edgware Road, Colindale, London",
+      "postcode": "NW9 0AS",
+      "location": {
+        "latitude": 51.593664,
+        "longitude": -0.260208
+      },
+      "prices": {
+        "E10": 174.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcw44bkm1c2s",
+      "brand": "Asda",
+      "address": "East Way - Fulwood, Preston",
+      "postcode": "PR2 9NP",
+      "location": {
+        "latitude": 53.791151,
+        "longitude": -2.68316
+      },
+      "prices": {
+        "E10": 169.9,
+        "B7": 194.7
+      }
+    },
+    {
+      "site_id": "gfnkxk18z6n7",
+      "brand": "Asda",
+      "address": "Muir End Road, Portlethen",
+      "postcode": "AB12 4XP",
+      "location": {
+        "latitude": 57.064144,
+        "longitude": -2.13523
+      },
+      "prices": {
+        "E10": 175.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcz00wzg7qnp",
+      "brand": "Asda",
+      "address": "Leechmere Road Industrial Estate, Sunderland",
+      "postcode": "SR2 9TT",
+      "location": {
+        "latitude": 54.880843,
+        "longitude": -1.371798
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 198.9
+      }
+    },
+    {
+      "site_id": "gcybwenbxtbz",
+      "brand": "Asda",
+      "address": "North Road, Boldon Colliery, Newcastle upon Tyne",
+      "postcode": "NE35 9AR",
+      "location": {
+        "latitude": 54.947773,
+        "longitude": -1.462712
+      },
+      "prices": {
+        "E10": 169.7,
+        "B7": 195.7
+      }
+    },
+    {
+      "site_id": "gcvbkzmgfryv",
+      "brand": "Asda",
+      "address": "Chandler Way, Carlisle",
+      "postcode": "CA3 0JQ",
+      "location": {
+        "latitude": 54.928207,
+        "longitude": -2.94732
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcqfy9ym7v8s",
+      "brand": "Asda",
+      "address": "Newtown Road, Nuneaton",
+      "postcode": "CV11 4FL",
+      "location": {
+        "latitude": 52.525387,
+        "longitude": -1.463363
+      },
+      "prices": {
+        "E10": 173.9,
+        "B7": 197.9
+      }
+    },
+    {
+      "site_id": "gcpwp0h40t04",
+      "brand": "Asda",
+      "address": "Odhams Industrial Estate, St Albans Road, Watford",
+      "postcode": "WD24 7RT",
+      "location": {
+        "latitude": 51.680033,
+        "longitude": -0.389979
+      },
+      "prices": {
+        "E10": 169.7,
+        "B7": 189.7
+      }
+    },
+    {
+      "site_id": "gctbkcge1y1u",
+      "brand": "Asda",
+      "address": "Ormskirk Road, Liverpool",
+      "postcode": "L10 3LN",
+      "location": {
+        "latitude": 53.489995,
+        "longitude": -2.948134
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 193.7
+      }
+    },
+    {
+      "site_id": "u12b33eub9ee",
+      "brand": "Asda",
+      "address": "Whitehouse Industrial Estate, Ipswich",
+      "postcode": "IP1 5PD",
+      "location": {
+        "latitude": 52.084259,
+        "longitude": 1.114795
+      },
+      "prices": {
+        "E10": 171.9,
+        "B7": 195.9
+      }
+    },
+    {
+      "site_id": "gcmzwc33hkdd",
+      "brand": "Asda",
+      "address": "Hunts Cross Shopping Centre, Liverpool",
+      "postcode": "L24 9WA",
+      "location": {
+        "latitude": 53.356672,
+        "longitude": -2.865529
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcpcmhjp5294",
+      "brand": "Asda",
+      "address": "Unit 1 Crowhurst Road, off Carden Avenue, Brighton",
+      "postcode": "BN1 8AS",
+      "location": {
+        "latitude": 50.867535,
+        "longitude": -0.122511
+      },
+      "prices": {
+        "E10": 173.9,
+        "B7": 195.9
+      }
+    },
+    {
+      "site_id": "gcnhsvn6b08s",
+      "brand": "Asda",
+      "address": "East Street, Bristol",
+      "postcode": "BS3 4JY",
+      "location": {
+        "latitude": 51.443957,
+        "longitude": -2.595176
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcvz27j95nyz",
+      "brand": "Asda",
+      "address": "Carberry Road, Kirkcaldy",
+      "postcode": "KY1 3NU",
+      "location": {
+        "latitude": 56.135276,
+        "longitude": -3.14415
+      },
+      "prices": {
+        "E10": 176.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcvjbwx75q31",
+      "brand": "Asda",
+      "address": "1 Monument Drive, Glasgow",
+      "postcode": "G33 1AD",
+      "location": {
+        "latitude": 55.89116,
+        "longitude": -4.184506
+      },
+      "prices": {
+        "E10": 171.9,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcw0y6f07kfr",
+      "brand": "Asda",
+      "address": "43-53 The Linkway, Horwich",
+      "postcode": "BL6 6JA",
+      "location": {
+        "latitude": 53.584487,
+        "longitude": -2.534266
+      },
+      "prices": {
+        "E10": 169.7,
+        "B7": 191.7
+      }
+    },
+    {
+      "site_id": "gcpvrc3nvsw5",
+      "brand": "Asda",
+      "address": "Marshall Road, Leyton",
+      "postcode": "E10 5NH",
+      "location": {
+        "latitude": 51.555896,
+        "longitude": -0.009331
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 198.9
+      }
+    },
+    {
+      "site_id": "gcqdcfg6862x",
+      "brand": "Asda",
+      "address": "Brickhouse Lane, Tipton",
+      "postcode": "DY4 7HW",
+      "location": {
+        "latitude": 52.530902,
+        "longitude": -2.026537
+      },
+      "prices": {
+        "E10": 174.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcqcms84yu1u",
+      "brand": "Asda",
+      "address": "Chesterton Drive, Leamington Spa",
+      "postcode": "CV31 1YD",
+      "location": {
+        "latitude": 52.27619,
+        "longitude": -1.515821
+      },
+      "prices": {
+        "E10": 176.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcuvtxshq35s",
+      "brand": "Asda",
+      "address": "500 Helen Street, Glasgow",
+      "postcode": "G51 3HR",
+      "location": {
+        "latitude": 55.852667,
+        "longitude": -4.322557
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcjv0vdh6dwz",
+      "brand": "Asda",
+      "address": "8 Dering Road, Pontprennau, Cardiff",
+      "postcode": "CF23 8NL",
+      "location": {
+        "latitude": 51.536202,
+        "longitude": -3.13046
+      },
+      "prices": {
+        "E10": 174.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcvwnj52htgj",
+      "brand": "Asda",
+      "address": "3 New Mart Road, Edinburgh",
+      "postcode": "EH14 1RJ",
+      "location": {
+        "latitude": 55.925904,
+        "longitude": -3.247354
+      },
+      "prices": {
+        "E10": 169.7,
+        "B7": 190.7
+      }
+    },
+    {
+      "site_id": "gcrnmkv4tvtj",
+      "brand": "Asda",
+      "address": "Old Mill Lane, Mansfield",
+      "postcode": "NG19 0HA",
+      "location": {
+        "latitude": 53.156435,
+        "longitude": -1.168417
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcqdqnf6dbjr",
+      "brand": "Asda",
+      "address": "859 Coventry Road, Small Heath",
+      "postcode": "B10 0HH",
+      "location": {
+        "latitude": 52.464267,
+        "longitude": -1.842488
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcw1ec1ghu4p",
+      "brand": "Asda",
+      "address": "Clayton Green Centre, Sheephill Lane, Chorley",
+      "postcode": "PR6 7JY",
+      "location": {
+        "latitude": 53.707202,
+        "longitude": -2.645095
+      },
+      "prices": {
+        "E10": 173.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcp1jn1dxu53",
+      "brand": "Asda",
+      "address": "Speedfields Park, Newgate Lane, Fareham",
+      "postcode": "PO14 1TT",
+      "location": {
+        "latitude": 50.833922,
+        "longitude": -1.184805
+      },
+      "prices": {
+        "E10": 174.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcjuhdqt55xc",
+      "brand": "Asda",
+      "address": "Phillips Road (off Winterstoke Road), Weston-super-Mare",
+      "postcode": "BS23 3UZ",
+      "location": {
+        "latitude": 51.341362,
+        "longitude": -2.957243
+      },
+      "prices": {
+        "E10": 176.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcp32gjrtws3",
+      "brand": "Asda",
+      "address": "Larchwood Avenue, Bedhampton, Havant",
+      "postcode": "PO9 3QW",
+      "location": {
+        "latitude": 50.864032,
+        "longitude": -1.008058
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 197.9
+      }
+    },
+    {
+      "site_id": "gcwbwqmvqkzc",
+      "brand": "Asda",
+      "address": "Old Mill Lane, Barnsley",
+      "postcode": "S71 1LN",
+      "location": {
+        "latitude": 53.560015,
+        "longitude": -1.473065
+      },
+      "prices": {
+        "E10": 173.9,
+        "B7": 198.9
+      }
+    },
+    {
+      "site_id": "gcqduwd1xrpt",
+      "brand": "Asda",
+      "address": "6 Old Horns Crescent, Birmingham",
+      "postcode": "B43 7HA",
+      "location": {
+        "latitude": 52.55126,
+        "longitude": -1.90994
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gbum7e2zuqhb",
+      "brand": "Asda",
+      "address": "Jennings Road, Penryn",
+      "postcode": "TR10 9LY",
+      "location": {
+        "latitude": 50.160817,
+        "longitude": -5.11841
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcuvx7w0dgb0",
+      "brand": "Asda",
+      "address": "555 Prospecthill Road, Glasgow",
+      "postcode": "G42 0AE",
+      "location": {
+        "latitude": 55.829879,
+        "longitude": -4.243351
+      },
+      "prices": {
+        "E10": 170.7,
+        "B7": 193.7
+      }
+    },
+    {
+      "site_id": "gcn1g3bvm2q0",
+      "brand": "Asda",
+      "address": "Preston Road, Yeovil",
+      "postcode": "BA20 2HB",
+      "location": {
+        "latitude": 50.941891,
+        "longitude": -2.666191
+      },
+      "prices": {
+        "E10": 169.9,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcycj00tb2s9",
+      "brand": "Asda",
+      "address": "Whitley Road, Newcastle upon Tyne",
+      "postcode": "NE12 9SJ",
+      "location": {
+        "latitude": 55.020552,
+        "longitude": -1.536797
+      },
+      "prices": {
+        "E10": 173.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "u10xk2xddxq3",
+      "brand": "Asda",
+      "address": "Turner Rise, Colchester",
+      "postcode": "CO4 5TU",
+      "location": {
+        "latitude": 51.902629,
+        "longitude": 0.900308
+      },
+      "prices": {
+        "E10": 176.9,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcrp8hz09bfp",
+      "brand": "Asda",
+      "address": "Handsworth Road, Sheffield",
+      "postcode": "S13 9LR",
+      "location": {
+        "latitude": 53.375793,
+        "longitude": -1.396559
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 196.9
+      }
+    },
+    {
+      "site_id": "gcpv3ep6en2h",
+      "brand": "Asda",
+      "address": "Forty Lane, Wembley",
+      "postcode": "HA9 9EX",
+      "location": {
+        "latitude": 51.564791,
+        "longitude": -0.275559
+      },
+      "prices": {
+        "E10": 175.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcx705zwkbn6",
+      "brand": "Asda",
+      "address": "Jockey Lane - Monks Cross, York",
+      "postcode": "YO32 9LF",
+      "location": {
+        "latitude": 53.987035,
+        "longitude": -1.042137
+      },
+      "prices": {
+        "E10": 169.7,
+        "B7": 188.7
+      }
+    },
+    {
+      "site_id": "gcprz7m8expy",
+      "brand": "Asda",
+      "address": "Bletcham Way, Milton Keynes",
+      "postcode": "MK1 1QB",
+      "location": {
+        "latitude": 52.005282,
+        "longitude": -0.72837
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 195.7
+      }
+    },
+    {
+      "site_id": "u10k5e4990s8",
+      "brand": "Asda",
+      "address": "387 Maidstone Road, Chatham",
+      "postcode": "ME5 9SE",
+      "location": {
+        "latitude": 51.34679,
+        "longitude": 0.508844
+      },
+      "prices": {
+        "E10": 174.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcq7be78u09d",
+      "brand": "Asda",
+      "address": "St Georges Road, Telford",
+      "postcode": "TF2 7RX",
+      "location": {
+        "latitude": 52.708135,
+        "longitude": -2.432238
+      },
+      "prices": {
+        "E10": 176.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcpy6z1uk9hb",
+      "brand": "Asda",
+      "address": "98 Town Centre, Hatfield",
+      "postcode": "AL10 0JP",
+      "location": {
+        "latitude": 51.763155,
+        "longitude": -0.227615
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcrp3p10u9ze",
+      "brand": "Asda",
+      "address": "Beighton Road East, Sheffield",
+      "postcode": "S20 7AB",
+      "location": {
+        "latitude": 53.344255,
+        "longitude": -1.360728
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 196.7
+      }
+    },
+    {
+      "site_id": "u12k4pnn5sp1",
+      "brand": "Asda",
+      "address": "Langley Road, South Wootton, Kings Lynn",
+      "postcode": "PE30 3UG",
+      "location": {
+        "latitude": 52.773744,
+        "longitude": 0.448099
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcp06sr7vbpb",
+      "brand": "Asda",
+      "address": "St Georges Way, Newport",
+      "postcode": "PO30 2QH",
+      "location": {
+        "latitude": 50.692935,
+        "longitude": -1.286173
+      },
+      "prices": {
+        "E10": 177.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcxq6j8z57ry",
+      "brand": "Asda",
+      "address": "Pheasant Fields Lane, Skelton, Saltburn-by-the-Sea",
+      "postcode": "TS12 2ZL",
+      "location": {
+        "latitude": 54.567543,
+        "longitude": -0.965606
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcp9je7msdzy",
+      "brand": "Asda",
+      "address": "Littlehampton Road, Ferring",
+      "postcode": "BN12 6PN",
+      "location": {
+        "latitude": 50.819594,
+        "longitude": -0.456759
+      },
+      "prices": {
+        "E10": 174.9,
+        "B7": 193.9
+      }
+    },
+    {
+      "site_id": "u10kks4rxz42",
+      "brand": "Asda",
+      "address": "Pier Road, Gillingham",
+      "postcode": "ME7 1RZ",
+      "location": {
+        "latitude": 51.395368,
+        "longitude": 0.552742
+      },
+      "prices": {
+        "E10": 174.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcr5w15dhjgc",
+      "brand": "Asda",
+      "address": "1 Exploration Drive, Leicester",
+      "postcode": "LE4 5NU",
+      "location": {
+        "latitude": 52.65246,
+        "longitude": -1.135026
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 197.9
+      }
+    },
+    {
+      "site_id": "gcps5btq1z1t",
+      "brand": "Asda",
+      "address": "Forsyth Road, Sheerwater, Woking",
+      "postcode": "GU21 5SE",
+      "location": {
+        "latitude": 51.33194,
+        "longitude": -0.531043
+      },
+      "prices": {
+        "E10": 173.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcqryv105sdd",
+      "brand": "Asda",
+      "address": "Manchester Road, Stockport",
+      "postcode": "SK4 1TN",
+      "location": {
+        "latitude": 53.420756,
+        "longitude": -2.163026
+      },
+      "prices": {
+        "E10": 174.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcjmhh254rk0",
+      "brand": "Asda",
+      "address": "Pyle Industrial Estate, Pyle Cross, Pyle, Bridgend",
+      "postcode": "CF33 6BU",
+      "location": {
+        "latitude": 51.527806,
+        "longitude": -3.691304
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcxph7ytxww5",
+      "brand": "Asda",
+      "address": "Marina Way, Hartlepool",
+      "postcode": "TS24 0XR",
+      "location": {
+        "latitude": 54.689553,
+        "longitude": -1.210183
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 196.7
+      }
+    },
+    {
+      "site_id": "gcpcjd5esfex",
+      "brand": "Asda",
+      "address": "Brighton Marina, Brighton",
+      "postcode": "BN2 5UT",
+      "location": {
+        "latitude": 50.812383,
+        "longitude": -0.104848
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 197.9
+      }
+    },
+    {
+      "site_id": "gcnjhuugeu8y",
+      "brand": "Asda",
+      "address": "Highwood Lane, Bristol",
+      "postcode": "BS34 5TL",
+      "location": {
+        "latitude": 51.530692,
+        "longitude": -2.59649
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcqpu4msxd28",
+      "brand": "Asda",
+      "address": "Westbrook Shopping Centre, Warrington",
+      "postcode": "WA5 8UG",
+      "location": {
+        "latitude": 53.408246,
+        "longitude": -2.629926
+      },
+      "prices": {
+        "E10": 171.9,
+        "B7": 191.9
+      }
+    },
+    {
+      "site_id": "gcpnqe713kmy",
+      "brand": "Asda",
+      "address": "London Road, Wheatley",
+      "postcode": "OX33 1YZ",
+      "location": {
+        "latitude": 51.741724,
+        "longitude": -1.116424
+      },
+      "prices": {
+        "E10": 176.9,
+        "B7": 198.9
+      }
+    },
+    {
+      "site_id": "gcvx43r9xbgx",
+      "brand": "Asda",
+      "address": "Halbeath Road Retail Park, Fife",
+      "postcode": "KY11 4LP",
+      "location": {
+        "latitude": 56.081348,
+        "longitude": -3.406111
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gfjcm3qcmvgy",
+      "brand": "Asda",
+      "address": "Milton Of Craigie Road, Dundee",
+      "postcode": "DD4 7RX",
+      "location": {
+        "latitude": 56.474817,
+        "longitude": -2.925404
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcjv71xf9h7r",
+      "brand": "Asda",
+      "address": "Pencarn Way - Coedkernew, Newport",
+      "postcode": "NP10 8XL",
+      "location": {
+        "latitude": 51.556544,
+        "longitude": -3.021536
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 196.7
+      }
+    },
+    {
+      "site_id": "gcqp6s1jc26c",
+      "brand": "Asda",
+      "address": "West Lane, Runcorn",
+      "postcode": "WA7 2PY",
+      "location": {
+        "latitude": 53.329873,
+        "longitude": -2.702799
+      },
+      "prices": {
+        "E10": 173.9,
+        "B7": 196.9
+      }
+    },
+    {
+      "site_id": "u100zrjr52np",
+      "brand": "Asda",
+      "address": "The Crumbles - Pevensey Bay Road, Eastbourne",
+      "postcode": "BN23 6JH",
+      "location": {
+        "latitude": 50.796491,
+        "longitude": 0.325961
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 196.7
+      }
+    },
+    {
+      "site_id": "gcmzkmfgt4ns",
+      "brand": "Asda",
+      "address": "Welton Road - Croft Business Park, Bromborough",
+      "postcode": "CH62 3QP",
+      "location": {
+        "latitude": 53.337862,
+        "longitude": -2.973295
+      },
+      "prices": {
+        "E10": 174.9,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcybgnu7mc9t",
+      "brand": "Asda",
+      "address": "Hollywood Avenue, Newcastle upon Tyne",
+      "postcode": "NE3 5BU",
+      "location": {
+        "latitude": 55.013194,
+        "longitude": -1.619794
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gfjxutmmuyg7",
+      "brand": "Asda",
+      "address": "Edgar Road, Elgin",
+      "postcode": "IV30 6YQ",
+      "location": {
+        "latitude": 57.640515,
+        "longitude": -3.306699
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcw08v1njh6k",
+      "brand": "Asda",
+      "address": "Ingram Road, Skelmersdale",
+      "postcode": "WN8 6LU",
+      "location": {
+        "latitude": 53.553246,
+        "longitude": -2.778957
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 195.9
+      }
+    },
+    {
+      "site_id": "gcwhcybcun7t",
+      "brand": "Asda",
+      "address": "Burton Road, Kendal",
+      "postcode": "LA9 7JA",
+      "location": {
+        "latitude": 54.310126,
+        "longitude": -2.73546
+      },
+      "prices": {
+        "E10": 171.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcuvdmcsgvek",
+      "brand": "Asda",
+      "address": "Phoenix Retail Park, Paisley",
+      "postcode": "PA1 2AB",
+      "location": {
+        "latitude": 55.842691,
+        "longitude": -4.46615
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 196.7
+      }
+    },
+    {
+      "site_id": "gcw6q5jmb823",
+      "brand": "Asda",
+      "address": "Unit 1, Swinden Retail Park, Colne",
+      "postcode": "BB8 8LU",
+      "location": {
+        "latitude": 53.850476,
+        "longitude": -2.190034
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcq7pw1sgfq9",
+      "brand": "Asda",
+      "address": "Jack Hayward Way - Waterloo Road, Wolverhampton",
+      "postcode": "WV1 4DE",
+      "location": {
+        "latitude": 52.59238,
+        "longitude": -2.129117
+      },
+      "prices": {
+        "E10": 171.9,
+        "B7": 194.9
+      }
+    },
+    {
+      "site_id": "gcwym3dth2bz",
+      "brand": "Asda",
+      "address": "Whinbush Way, Darlington",
+      "postcode": "DL1 3RB",
+      "location": {
+        "latitude": 54.545393,
+        "longitude": -1.523833
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 198.9
+      }
+    },
+    {
+      "site_id": "u10s0uk1e8wp",
+      "brand": "Asda",
+      "address": "Mill Way - Trinity Trading Estate, Sittingbourne",
+      "postcode": "ME10 2PD",
+      "location": {
+        "latitude": 51.349663,
+        "longitude": 0.741699
+      },
+      "prices": {
+        "E10": 174.9,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcqdcjw7qgwg",
+      "brand": "Asda",
+      "address": "Wednesbury Oak Road, Tipton",
+      "postcode": "DY4 0BP",
+      "location": {
+        "latitude": 52.544378,
+        "longitude": -2.05604
+      },
+      "prices": {
+        "E10": 174.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcx0qym0prxc",
+      "brand": "Asda",
+      "address": "Gliwice Way, Bawtry Road, Doncaster",
+      "postcode": "DN4 5NW",
+      "location": {
+        "latitude": 53.516188,
+        "longitude": -1.102366
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcycses0uvme",
+      "brand": "Asda",
+      "address": "Cowpen Road, Blyth",
+      "postcode": "NE24 4LZ",
+      "location": {
+        "latitude": 55.127152,
+        "longitude": -1.55507
+      },
+      "prices": {
+        "E10": 174.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gfj8csk45kv4",
+      "brand": "Asda",
+      "address": "89 Dunkeld Road, Perth",
+      "postcode": "PH1 5AP",
+      "location": {
+        "latitude": 56.408018,
+        "longitude": -3.444069
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcjf3b7e15gs",
+      "brand": "Asda",
+      "address": "Creechbarrow Road, Taunton",
+      "postcode": "TA1 2AN",
+      "location": {
+        "latitude": 51.022417,
+        "longitude": -3.082304
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcx01cp1xhpt",
+      "brand": "Asda",
+      "address": "Alwdarke Lane, Off Doncaster Road, Rotherham",
+      "postcode": "S65 3SW",
+      "location": {
+        "latitude": 53.443273,
+        "longitude": -1.319422
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcq6xcxxq7z0",
+      "brand": "Asda",
+      "address": "Merryhill Centre, Dudley",
+      "postcode": "DY5 1QL",
+      "location": {
+        "latitude": 52.476011,
+        "longitude": -2.10749
+      },
+      "prices": {
+        "E10": 176.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcrr66xepg07",
+      "brand": "Asda",
+      "address": "Wharf Road, East Retford",
+      "postcode": "DN22 6EN",
+      "location": {
+        "latitude": 53.320954,
+        "longitude": -0.941507
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcp1bq7dd7bm",
+      "brand": "Asda",
+      "address": "Bournemouth Road, Eastleigh",
+      "postcode": "SO53 3YJ",
+      "location": {
+        "latitude": 50.966475,
+        "longitude": -1.389003
+      },
+      "prices": {
+        "E10": 177.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcmzftenc3qk",
+      "brand": "Asda",
+      "address": "Sea View Road, Wallasey",
+      "postcode": "CH45 4NZ",
+      "location": {
+        "latitude": 53.419956,
+        "longitude": -3.045901
+      },
+      "prices": {
+        "E10": 175.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcrhgn6yp1yj",
+      "brand": "Asda",
+      "address": "Midland Street, Long Eaton",
+      "postcode": "NG10 1NY",
+      "location": {
+        "latitude": 52.899966,
+        "longitude": -1.268493
+      },
+      "prices": {
+        "E10": 167.7,
+        "B7": 188.7
+      }
+    },
+    {
+      "site_id": "gcpxptcrn7x8",
+      "brand": "Asda",
+      "address": "Wigmore Hall Shopping Centre, Luton",
+      "postcode": "LU2 9TA",
+      "location": {
+        "latitude": 51.888275,
+        "longitude": -0.37154
+      },
+      "prices": {
+        "E10": 173.9,
+        "B7": 197.9
+      }
+    },
+    {
+      "site_id": "gcqdz7pnnj2t",
+      "brand": "Asda",
+      "address": "Walmley Ash Road, Sutton Coldfield",
+      "postcode": "B76 1XL",
+      "location": {
+        "latitude": 52.532751,
+        "longitude": -1.78046
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcvj8rvvhsze",
+      "brand": "Asda",
+      "address": "1300 Duke Street, Glasgow",
+      "postcode": "G31 4EB",
+      "location": {
+        "latitude": 55.854003,
+        "longitude": -4.201596
+      },
+      "prices": {
+        "E10": 170.7,
+        "B7": 193.7
+      }
+    },
+    {
+      "site_id": "gcntq6hbsjcp",
+      "brand": "Asda",
+      "address": "West Swindon Shopping Centre, Swindon",
+      "postcode": "SN5 7DL",
+      "location": {
+        "latitude": 51.557876,
+        "longitude": -1.825442
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 198.7
+      }
+    },
+    {
+      "site_id": "gcxn68m6sfec",
+      "brand": "Asda",
+      "address": "Allensway, Thornaby, Stockton on Tees",
+      "postcode": "TS17 9EN",
+      "location": {
+        "latitude": 54.537949,
+        "longitude": -1.288968
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcqpy7w7ewjs",
+      "brand": "Asda",
+      "address": "1 Dewhurst Road, Warrington",
+      "postcode": "WA3 7PG",
+      "location": {
+        "latitude": 53.414385,
+        "longitude": -2.526637
+      },
+      "prices": {
+        "E10": 171.9,
+        "B7": 192.9
+      }
+    },
+    {
+      "site_id": "gcxn6yf7g95c",
+      "brand": "Asda",
+      "address": "Portrack Lane, Stockton on Tees",
+      "postcode": "TS18 2PB",
+      "location": {
+        "latitude": 54.570701,
+        "longitude": -1.285191
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcycunp936gs",
+      "brand": "Asda",
+      "address": "Portland Park, Lintonville Terrace, Ashington",
+      "postcode": "NE63 9XG",
+      "location": {
+        "latitude": 55.184674,
+        "longitude": -1.571892
+      },
+      "prices": {
+        "E10": 175.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcexrrxsjt5h",
+      "brand": "Asda",
+      "address": "Park Street, Ballyclare",
+      "postcode": "BT39 9DQ",
+      "location": {
+        "latitude": 54.753845,
+        "longitude": -5.99897
+      },
+      "prices": {
+        "E10": 167.9,
+        "B7": 195.9
+      }
+    },
+    {
+      "site_id": "gcq78jqcbz2y",
+      "brand": "Asda",
+      "address": "Malinsgate, Telford",
+      "postcode": "TF3 4HZ",
+      "location": {
+        "latitude": 52.676235,
+        "longitude": -2.45129
+      },
+      "prices": {
+        "E10": 177.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcqrf0z0djjt",
+      "brand": "Asda",
+      "address": "90 George Richards Way, Broadheath, Altrincham",
+      "postcode": "WA14 5ZR",
+      "location": {
+        "latitude": 53.398236,
+        "longitude": -2.364485
+      },
+      "prices": {
+        "E10": 175.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcr5xqch65jq",
+      "brand": "Asda",
+      "address": "Barkby Thorpe Lane, Leicester",
+      "postcode": "LE4 8GN",
+      "location": {
+        "latitude": 52.68431,
+        "longitude": -1.08618
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 196.7
+      }
+    },
+    {
+      "site_id": "u134x85vnx6d",
+      "brand": "Asda",
+      "address": "Belvedere Road-Off Horn Hill, Lowestoft",
+      "postcode": "NR33 0PX",
+      "location": {
+        "latitude": 52.4723,
+        "longitude": 1.7461
+      },
+      "prices": {
+        "E10": 169.9,
+        "B7": 196.9
+      }
+    },
+    {
+      "site_id": "gcr1gq0jp4vk",
+      "brand": "Asda",
+      "address": "12 Chapel Street, Rugby",
+      "postcode": "CV21 3EB",
+      "location": {
+        "latitude": 52.3727,
+        "longitude": -1.26312
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 196.7
+      }
+    },
+    {
+      "site_id": "gcr9d21gq2hc",
+      "brand": "Asda",
+      "address": "Washbrook Road, Rushden",
+      "postcode": "NN10 6AA",
+      "location": {
+        "latitude": 52.29548,
+        "longitude": -0.60157
+      },
+      "prices": {
+        "E10": 175.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gctferv627rr",
+      "brand": "Asda",
+      "address": "Cop Lane, Fleetwood",
+      "postcode": "FY7 6NU",
+      "location": {
+        "latitude": 53.91993,
+        "longitude": -3.01401
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 198.9
+      }
+    },
+    {
+      "site_id": "gcynwbs1fj2h",
+      "brand": "Asda",
+      "address": "Spott Road, Dunbar",
+      "postcode": "EH42 1LE",
+      "location": {
+        "latitude": 55.989404,
+        "longitude": -2.51029
+      },
+      "prices": {
+        "E10": 175.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcuex7v522d1",
+      "brand": "Asda",
+      "address": "Liberator Drive, Heathfield Retail Park, Ayr",
+      "postcode": "KA8 9BF",
+      "location": {
+        "latitude": 55.480174,
+        "longitude": -4.596262
+      },
+      "prices": {
+        "E10": 170.7,
+        "B7": 190.7
+      }
+    },
+    {
+      "site_id": "gcqp9fgdz63c",
+      "brand": "Asda",
+      "address": "Widnes Road, Widnes",
+      "postcode": "WA8 6AH",
+      "location": {
+        "latitude": 53.363929,
+        "longitude": -2.73121
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 194.7
+      }
+    },
+    {
+      "site_id": "gcw9th344j0y",
+      "brand": "Asda",
+      "address": "Thrum Hall Lane, Halifax",
+      "postcode": "HX1 4PG",
+      "location": {
+        "latitude": 53.72312,
+        "longitude": -1.88621
+      },
+      "prices": {
+        "E10": 174.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcjfgezp637j",
+      "brand": "Asda",
+      "address": "East Quay, Bridgwater",
+      "postcode": "TA6 5AZ",
+      "location": {
+        "latitude": 51.13025,
+        "longitude": -3.00054
+      },
+      "prices": {
+        "E10": 173.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcn77t6v1kzf",
+      "brand": "Asda",
+      "address": "Warminster Road, Frome",
+      "postcode": "BA11 5LA",
+      "location": {
+        "latitude": 51.227391,
+        "longitude": -2.3044
+      },
+      "prices": {
+        "E10": 176.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gctb5f88udbe",
+      "brand": "Asda",
+      "address": "81 Strand Road, Bootle",
+      "postcode": "L20 4BB",
+      "location": {
+        "latitude": 53.451377,
+        "longitude": -2.998387
+      },
+      "prices": {
+        "E10": 172.9,
+        "B7": 193.9
+      }
+    },
+    {
+      "site_id": "gcmzz7w4h45s",
+      "brand": "Asda",
+      "address": "Huyton Lane, Liverpool",
+      "postcode": "L36 7TX",
+      "location": {
+        "latitude": 53.412557,
+        "longitude": -2.836817
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 197.7
+      }
+    },
+    {
+      "site_id": "gcvqeq5hcn31",
+      "brand": "Asda",
+      "address": "Dock Road, Grangemouth",
+      "postcode": "FK3 8TY",
+      "location": {
+        "latitude": 56.02016,
+        "longitude": -3.71782
+      },
+      "prices": {
+        "E10": 174.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcwdkwx2h14r",
+      "brand": "Asda",
+      "address": "Bingley Street, Keighley",
+      "postcode": "BD21 3ER",
+      "location": {
+        "latitude": 53.86872,
+        "longitude": -1.90149
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 194.7
+      }
+    },
+    {
+      "site_id": "gcvwrrjdmfxf",
+      "brand": "Asda",
+      "address": "2 Sandpiper Drive, Edinburgh",
+      "postcode": "EH6 6QJ",
+      "location": {
+        "latitude": 55.981559,
+        "longitude": -3.189525
+      },
+      "prices": {
+        "E10": 172.7,
+        "B7": 195.7
+      }
+    },
+    {
+      "site_id": "gcpuykmnqk3b",
+      "brand": "Asda",
+      "address": "464 - 504 Old Kent Road, London",
+      "postcode": "SE1 5AG",
+      "location": {
+        "latitude": 51.484397,
+        "longitude": -0.069791
+      },
+      "prices": {
+        "E10": 171.7,
+        "B7": 193.7
+      }
+    },
+    {
+      "site_id": "gcyh2hv6bnx9",
+      "brand": "Asda",
+      "address": "Currie Road, Galashiels",
+      "postcode": "TD1 2AG",
+      "location": {
+        "latitude": 55.61742,
+        "longitude": -2.80528
+      },
+      "prices": {
+        "E10": 171.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcmr2fr6sgny",
+      "brand": "Asda",
+      "address": "Conway Road, Llandudno",
+      "postcode": "LL30 1PJ",
+      "location": {
+        "latitude": 53.31847,
+        "longitude": -3.824059
+      },
+      "prices": {
+        "E10": 177.7,
+        "B7": 199.7
+      }
+    },
+    {
+      "site_id": "gcybz79sgnt5",
+      "brand": "Asda",
+      "address": "Coronation Street, South Shields",
+      "postcode": "NE33 1AZ",
+      "location": {
+        "latitude": 54.9962,
+        "longitude": -1.43648
+      },
+      "prices": {
+        "E10": 171.9,
+        "B7": 195.9
+      }
+    },
+    {
+      "site_id": "gcrvrk8thdef",
+      "brand": "Asda",
+      "address": "Lister Way, Boston",
+      "postcode": "PE21 8EQ",
+      "location": {
+        "latitude": 52.979693,
+        "longitude": -0.032074
+      },
+      "prices": {
+        "E10": 178.9,
+        "B7": 199.9
+      }
+    },
+    {
+      "site_id": "gcdt4k6t0278",
+      "brand": "Asda",
+      "address": "Derrychara Rd, Enniskillen",
+      "postcode": "BT74 6JG",
+      "location": {
+        "latitude": 54.3413,
+        "longitude": -7.63324
+      },
+      "prices": {
+        "E10": 167.7,
+        "B7": 195.7
+      }
+    },
+    {
+      "site_id": "gcdxyj9wh5qe",
+      "brand": "Asda",
+      "address": "2 Branch Road, Strabane",
+      "postcode": "BT82 8EQ",
+      "location": {
+        "latitude": 54.830803,
+        "longitude": -7.471151
+      },
+      "prices": {
+        "E10": 166.9,
+        "B7": 196.9
+      }
+    },
+    {
+      "site_id": "gfj6057mn7se",
+      "brand": "Asda",
+      "address": "46 Dunkeld Street, Aberfeldy",
+      "postcode": "PH15 2AF",
+      "location": {
+        "latitude": 56.620278,
+        "longitude": -3.862503
+      },
+      "prices": {
+        "E10": 176.9,
+        "E5": 192.9,
+        "B7": 203.9
       }
     },
     {
@@ -106,20 +3298,6 @@
       }
     },
     {
-      "site_id": "gctbkcge1y1u",
-      "brand": "Asda",
-      "address": "Ormskirk Road, Liverpool",
-      "postcode": "L10 3LN",
-      "location": {
-        "latitude": 53.489995,
-        "longitude": -2.948134
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 193.7
-      }
-    },
-    {
       "site_id": "u10j2f87ut0h",
       "brand": "Asda",
       "address": "19 Aldersbrook Road, Greater London",
@@ -133,20 +3311,6 @@
         "E5": 194.9,
         "B7": 199.9,
         "SDV": 218.9
-      }
-    },
-    {
-      "site_id": "gcvr1zcguq8c",
-      "brand": "Asda",
-      "address": "Whins Road, Alloa",
-      "postcode": "FK10 3SD",
-      "location": {
-        "latitude": 56.1194,
-        "longitude": -3.78232
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 197.7
       }
     },
     {
@@ -194,20 +3358,6 @@
         "E5": 197.9,
         "B7": 201.9,
         "SDV": 219.9
-      }
-    },
-    {
-      "site_id": "gcqrf0z0djjt",
-      "brand": "Asda",
-      "address": "90 George Richards Way, Broadheath, Altrincham",
-      "postcode": "WA14 5ZR",
-      "location": {
-        "latitude": 53.398236,
-        "longitude": -2.364485
-      },
-      "prices": {
-        "E10": 175.7,
-        "B7": 199.7
       }
     },
     {
@@ -423,34 +3573,6 @@
       }
     },
     {
-      "site_id": "gcycunp936gs",
-      "brand": "Asda",
-      "address": "Portland Park, Lintonville Terrace, Ashington",
-      "postcode": "NE63 9XG",
-      "location": {
-        "latitude": 55.184674,
-        "longitude": -1.571892
-      },
-      "prices": {
-        "E10": 175.9,
-        "B7": 199.9
-      }
-    },
-    {
-      "site_id": "gcw822dkfw37",
-      "brand": "Asda",
-      "address": "Cavendish Street, Ashton-Under-Lyne",
-      "postcode": "OL6 7PF",
-      "location": {
-        "latitude": 53.483829,
-        "longitude": -2.094949
-      },
-      "prices": {
-        "E10": 170.7,
-        "B7": 193.7
-      }
-    },
-    {
       "site_id": "gcw227f137e4",
       "brand": "Asda",
       "address": "Manchester Road, Manchester",
@@ -494,34 +3616,6 @@
         "E5": 192.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcuex7v522d1",
-      "brand": "Asda",
-      "address": "Liberator Drive, Heathfield Retail Park, Ayr",
-      "postcode": "KA8 9BF",
-      "location": {
-        "latitude": 55.480174,
-        "longitude": -4.596262
-      },
-      "prices": {
-        "E10": 170.7,
-        "B7": 190.7
-      }
-    },
-    {
-      "site_id": "gcexrrxsjt5h",
-      "brand": "Asda",
-      "address": "Park Street, Ballyclare",
-      "postcode": "BT39 9DQ",
-      "location": {
-        "latitude": 54.753845,
-        "longitude": -5.99897
-      },
-      "prices": {
-        "E10": 167.9,
-        "B7": 195.9
       }
     },
     {
@@ -571,20 +3665,6 @@
       }
     },
     {
-      "site_id": "gcmnccpwj6yf",
-      "brand": "Asda",
-      "address": "Farrar Road, Bangor",
-      "postcode": "LL57 1LJ",
-      "location": {
-        "latitude": 53.224381,
-        "longitude": -4.131761
-      },
-      "prices": {
-        "E10": 175.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gceyzn84ugbk",
       "brand": "Asda",
       "address": "89-105 Main St, Bangor",
@@ -625,34 +3705,6 @@
       "prices": {
         "E10": 172.7,
         "B7": 198.7
-      }
-    },
-    {
-      "site_id": "gcwbwqmvqkzc",
-      "brand": "Asda",
-      "address": "Old Mill Lane, Barnsley",
-      "postcode": "S71 1LN",
-      "location": {
-        "latitude": 53.560015,
-        "longitude": -1.473065
-      },
-      "prices": {
-        "E10": 173.9,
-        "B7": 198.9
-      }
-    },
-    {
-      "site_id": "gcj4e6qg3fzb",
-      "brand": "Asda",
-      "address": "Anchorwood Retail Park, Taw Wharf, Barnstaple",
-      "postcode": "EX31 2BN",
-      "location": {
-        "latitude": 51.076563,
-        "longitude": -4.065875
-      },
-      "prices": {
-        "E10": 169.7,
-        "B7": 192.7
       }
     },
     {
@@ -699,34 +3751,6 @@
       }
     },
     {
-      "site_id": "gcteyke66d8h",
-      "brand": "Asda",
-      "address": "Walney Road, Barrow-In-Furness",
-      "postcode": "LA14 5UG",
-      "location": {
-        "latitude": 54.121811,
-        "longitude": -3.236439
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 196.7
-      }
-    },
-    {
-      "site_id": "gcjsmkt55ek2",
-      "brand": "Asda",
-      "address": "Ffordd Y Mileniwm, Barry",
-      "postcode": "CF62 5AT",
-      "location": {
-        "latitude": 51.397238,
-        "longitude": -3.270975
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcx9msxdqdh6",
       "brand": "Asda",
       "address": "A1077 Ferriby Road, Barton-Upon-Humber",
@@ -740,20 +3764,6 @@
         "E5": 191.9,
         "B7": 196.9,
         "SDV": 215.9
-      }
-    },
-    {
-      "site_id": "u10m6eckyrvs",
-      "brand": "Asda",
-      "address": "Eastgate Shopping Centre, Basildon",
-      "postcode": "SS14 1AE",
-      "location": {
-        "latitude": 51.569448,
-        "longitude": 0.460496
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 194.7
       }
     },
     {
@@ -833,34 +3843,6 @@
       }
     },
     {
-      "site_id": "u10j164kt8e3",
-      "brand": "Asda",
-      "address": "Tollgate Road, Beckton",
-      "postcode": "E6 5JP",
-      "location": {
-        "latitude": 51.515668,
-        "longitude": 0.058262
-      },
-      "prices": {
-        "E10": 170.7,
-        "B7": 190.7
-      }
-    },
-    {
-      "site_id": "gcnhsvn6b08s",
-      "brand": "Asda",
-      "address": "East Street, Bristol",
-      "postcode": "BS3 4JY",
-      "location": {
-        "latitude": 51.443957,
-        "longitude": -2.595176
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 198.7
-      }
-    },
-    {
       "site_id": "gcwcukh7f4v1",
       "brand": "Asda",
       "address": "Old Lane, Beeston, Leeds",
@@ -920,20 +3902,6 @@
         "E5": 194.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcycj00tb2s9",
-      "brand": "Asda",
-      "address": "Whitley Road, Newcastle upon Tyne",
-      "postcode": "NE12 9SJ",
-      "location": {
-        "latitude": 55.020552,
-        "longitude": -1.536797
-      },
-      "prices": {
-        "E10": 173.9,
-        "B7": 199.9
       }
     },
     {
@@ -998,20 +3966,6 @@
       }
     },
     {
-      "site_id": "gchfpteqfd3j",
-      "brand": "Asda",
-      "address": "Clovelly Road, Bideford",
-      "postcode": "EX39 3QU",
-      "location": {
-        "latitude": 51.00771,
-        "longitude": -4.23816
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "u105bv8959tq",
       "brand": "Asda",
       "address": "141 Main Road, Westerham",
@@ -1059,20 +4013,6 @@
       }
     },
     {
-      "site_id": "gcqpy7w7ewjs",
-      "brand": "Asda",
-      "address": "1 Dewhurst Road, Warrington",
-      "postcode": "WA3 7PG",
-      "location": {
-        "latitude": 53.414385,
-        "longitude": -2.526637
-      },
-      "prices": {
-        "E10": 171.9,
-        "B7": 192.9
-      }
-    },
-    {
       "site_id": "gcqyz80hrwft",
       "brand": "Asda",
       "address": "Derby Road, Chesterfield",
@@ -1100,20 +4040,6 @@
         "E10": 174.9,
         "E5": 190.9,
         "B7": 197.9
-      }
-    },
-    {
-      "site_id": "gcwycyjns2mb",
-      "brand": "Asda",
-      "address": "South Church Road, Bishop Auckland",
-      "postcode": "DL14 7LB",
-      "location": {
-        "latitude": 54.65803,
-        "longitude": -1.67133
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 194.7
       }
     },
     {
@@ -1161,20 +4087,6 @@
       }
     },
     {
-      "site_id": "gctf53d64e3x",
-      "brand": "Asda",
-      "address": "Cherry Tree Road, Blackpool",
-      "postcode": "FY4 4QH",
-      "location": {
-        "latitude": 53.796873,
-        "longitude": -3.017296
-      },
-      "prices": {
-        "E10": 169.7,
-        "B7": 193.7
-      }
-    },
-    {
       "site_id": "gcjtzm4ufg7q",
       "brand": "Asda",
       "address": "235 High St, Blackwood",
@@ -1187,20 +4099,6 @@
         "E10": 172.9,
         "E5": 191.9,
         "B7": 201.9
-      }
-    },
-    {
-      "site_id": "gcjtzmfk1y3j",
-      "brand": "Asda",
-      "address": "High Street, Blackwood",
-      "postcode": "NP12 0NT",
-      "location": {
-        "latitude": 51.668049,
-        "longitude": -3.193855
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 195.7
       }
     },
     {
@@ -1220,20 +4118,6 @@
       }
     },
     {
-      "site_id": "gcvj6uws2npw",
-      "brand": "Asda",
-      "address": "Glasgow Road, Blantyre",
-      "postcode": "G72 0AQ",
-      "location": {
-        "latitude": 55.794753,
-        "longitude": -4.094542
-      },
-      "prices": {
-        "E10": 175.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcrpxygktuc9",
       "brand": "Asda",
       "address": "Moto Service Area, Hilltop Roundabout, Worksop",
@@ -1247,34 +4131,6 @@
         "E5": 212.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcycses0uvme",
-      "brand": "Asda",
-      "address": "Cowpen Road, Blyth",
-      "postcode": "NE24 4LZ",
-      "location": {
-        "latitude": 55.127152,
-        "longitude": -1.55507
-      },
-      "prices": {
-        "E10": 174.9,
-        "B7": 199.9
-      }
-    },
-    {
-      "site_id": "gbuxhumt6s4d",
-      "brand": "Asda",
-      "address": "Launceston Road, Bodmin",
-      "postcode": "PL31 2AR",
-      "location": {
-        "latitude": 50.47602,
-        "longitude": -4.70314
-      },
-      "prices": {
-        "E10": 175.7,
-        "B7": 199.7
       }
     },
     {
@@ -1294,34 +4150,6 @@
       }
     },
     {
-      "site_id": "gcybwenbxtbz",
-      "brand": "Asda",
-      "address": "North Road, Boldon Colliery, Newcastle upon Tyne",
-      "postcode": "NE35 9AR",
-      "location": {
-        "latitude": 54.947773,
-        "longitude": -1.462712
-      },
-      "prices": {
-        "E10": 169.7,
-        "B7": 195.7
-      }
-    },
-    {
-      "site_id": "gcw2bteuc2hy",
-      "brand": "Asda",
-      "address": "Moss Bank Way, Bolton",
-      "postcode": "BL1 8QG",
-      "location": {
-        "latitude": 53.600355,
-        "longitude": -2.433746
-      },
-      "prices": {
-        "E10": 171.9,
-        "B7": 197.9
-      }
-    },
-    {
       "site_id": "gctbhmtstnt3",
       "brand": "Asda",
       "address": "Orrell Lane, Bootle",
@@ -1329,20 +4157,6 @@
       "location": {
         "latitude": 53.46852,
         "longitude": -2.96952
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 193.9
-      }
-    },
-    {
-      "site_id": "gctb5f88udbe",
-      "brand": "Asda",
-      "address": "81 Strand Road, Bootle",
-      "postcode": "L20 4BB",
-      "location": {
-        "latitude": 53.451377,
-        "longitude": -2.998387
       },
       "prices": {
         "E10": 172.9,
@@ -1363,20 +4177,6 @@
         "E5": 190.9,
         "B7": 198.9,
         "SDV": 999.9
-      }
-    },
-    {
-      "site_id": "gcrvrk8thdef",
-      "brand": "Asda",
-      "address": "Lister Way, Boston",
-      "postcode": "PE21 8EQ",
-      "location": {
-        "latitude": 52.979693,
-        "longitude": -0.032074
-      },
-      "prices": {
-        "E10": 178.9,
-        "B7": 199.9
       }
     },
     {
@@ -1546,20 +4346,6 @@
       }
     },
     {
-      "site_id": "gfnkzxjsgyq6",
-      "brand": "Asda",
-      "address": "Garth dee Road, Bridge of Dee, Aberdeen, Aberdeen",
-      "postcode": "AB10 7QA",
-      "location": {
-        "latitude": 57.124682,
-        "longitude": -2.123557
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcq6c6m78jnx",
       "brand": "Asda",
       "address": "Chartwell Business Park, Stourbridge",
@@ -1573,20 +4359,6 @@
         "E5": 198.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcjfgezp637j",
-      "brand": "Asda",
-      "address": "East Quay, Bridgwater",
-      "postcode": "TA6 5AZ",
-      "location": {
-        "latitude": 51.13025,
-        "longitude": -3.00054
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 197.7
       }
     },
     {
@@ -1606,48 +4378,6 @@
       }
     },
     {
-      "site_id": "gcq6xf23nj93",
-      "brand": "Asda",
-      "address": "Pearson Street, Brierley Hill",
-      "postcode": "DY5 3BJ",
-      "location": {
-        "latitude": 52.481396,
-        "longitude": -2.117811
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 199.7
-      }
-    },
-    {
-      "site_id": "gcpcmhjp5294",
-      "brand": "Asda",
-      "address": "Unit 1 Crowhurst Road, off Carden Avenue, Brighton",
-      "postcode": "BN1 8AS",
-      "location": {
-        "latitude": 50.867535,
-        "longitude": -0.122511
-      },
-      "prices": {
-        "E10": 173.9,
-        "B7": 195.9
-      }
-    },
-    {
-      "site_id": "gcpcjd5esfex",
-      "brand": "Asda",
-      "address": "Brighton Marina, Brighton",
-      "postcode": "BN2 5UT",
-      "location": {
-        "latitude": 50.812383,
-        "longitude": -0.104848
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 197.9
-      }
-    },
-    {
       "site_id": "gcrpbfevbn85",
       "brand": "Asda",
       "address": "Bawtry Road, Rotherham",
@@ -1661,20 +4391,6 @@
         "E5": 191.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcnhmx8fntr6",
-      "brand": "Asda",
-      "address": "Oatlands Avenue, Bristol",
-      "postcode": "BS14 0ST",
-      "location": {
-        "latitude": 51.413641,
-        "longitude": -2.569482
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 196.9
       }
     },
     {
@@ -1756,20 +4472,6 @@
       }
     },
     {
-      "site_id": "gcmzkmfgt4ns",
-      "brand": "Asda",
-      "address": "Welton Road - Croft Business Park, Bromborough",
-      "postcode": "CH62 3QP",
-      "location": {
-        "latitude": 53.337862,
-        "longitude": -2.973295
-      },
-      "prices": {
-        "E10": 174.9,
-        "B7": 198.7
-      }
-    },
-    {
       "site_id": "gcq5r9qevdm6",
       "brand": "Asda",
       "address": "Ironbridge Road, Broseley",
@@ -1834,34 +4536,6 @@
       }
     },
     {
-      "site_id": "gcpgfuw63mbf",
-      "brand": "Asda",
-      "address": "Reigate Road, Burgh Heath, Tadworth",
-      "postcode": "KT20 5NZ",
-      "location": {
-        "latitude": 51.30875,
-        "longitude": -0.22253
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 199.9
-      }
-    },
-    {
-      "site_id": "gcw6hcnb81ms",
-      "brand": "Asda",
-      "address": "Princess Way, Burnley",
-      "postcode": "BB12 0EQ",
-      "location": {
-        "latitude": 53.794649,
-        "longitude": -2.24292
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 197.7
-      }
-    },
-    {
       "site_id": "u121rkybrev9",
       "brand": "Asda",
       "address": "Ness Road, Cambridge",
@@ -1874,48 +4548,6 @@
         "E10": 177.9,
         "E5": 193.9,
         "B7": 202.9
-      }
-    },
-    {
-      "site_id": "u123r8pjju87",
-      "brand": "Asda",
-      "address": "Western Way, Bury St Edmunds",
-      "postcode": "IP33 3SP",
-      "location": {
-        "latitude": 52.25155,
-        "longitude": 0.69199
-      },
-      "prices": {
-        "E10": 169.9,
-        "B7": 194.9
-      }
-    },
-    {
-      "site_id": "gcybu0xj0q9b",
-      "brand": "Asda",
-      "address": "Unit 5, Newcastle Shopping Park, Newcastle upon Tyne",
-      "postcode": "NE6 2XP",
-      "location": {
-        "latitude": 54.979225,
-        "longitude": -1.572405
-      },
-      "prices": {
-        "E10": 173.9,
-        "B7": 199.7
-      }
-    },
-    {
-      "site_id": "gcjtqwym5ysf",
-      "brand": "Asda",
-      "address": "Pontygwindy Road, Caerphilly",
-      "postcode": "CF83 3SX",
-      "location": {
-        "latitude": 51.585824,
-        "longitude": -3.22123
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 198.9
       }
     },
     {
@@ -1997,48 +4629,6 @@
       }
     },
     {
-      "site_id": "gcqe9z1wk0rp",
-      "brand": "Asda",
-      "address": "Avon Road, Cannock",
-      "postcode": "WS11 1LH",
-      "location": {
-        "latitude": 52.68297,
-        "longitude": -2.03563
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 199.7
-      }
-    },
-    {
-      "site_id": "u10gbcnm9qb4",
-      "brand": "Asda",
-      "address": "Sturry Road, Canterbury",
-      "postcode": "CT1 1DG",
-      "location": {
-        "latitude": 51.290393,
-        "longitude": 1.098257
-      },
-      "prices": {
-        "E10": 176.9,
-        "B7": 199.9
-      }
-    },
-    {
-      "site_id": "gcjsxx3099sd",
-      "brand": "Asda",
-      "address": "Ferry Road Retail Park, Cardiff",
-      "postcode": "CF11 0JR",
-      "location": {
-        "latitude": 51.455816,
-        "longitude": -3.183209
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 196.9
-      }
-    },
-    {
       "site_id": "gcjtn5xk4hj1",
       "brand": "Asda",
       "address": "Longwood Drive, Cardiff",
@@ -2050,20 +4640,6 @@
       "prices": {
         "E10": 172.7,
         "B7": 198.7
-      }
-    },
-    {
-      "site_id": "gcvbkzmgfryv",
-      "brand": "Asda",
-      "address": "Chandler Way, Carlisle",
-      "postcode": "CA3 0JQ",
-      "location": {
-        "latitude": 54.928207,
-        "longitude": -2.94732
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 197.7
       }
     },
     {
@@ -2190,20 +4766,6 @@
       }
     },
     {
-      "site_id": "u10hbt36vf1q",
-      "brand": "Asda",
-      "address": "Bugsby Way, Charlton, London",
-      "postcode": "SE7 7ST",
-      "location": {
-        "latitude": 51.489284,
-        "longitude": 0.023938
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcn8tthhbqde",
       "brand": "Asda",
       "address": "332/334 Charminster Road, Bournemouth",
@@ -2216,48 +4778,6 @@
         "E10": 175.9,
         "E5": 194.9,
         "B7": 202.9
-      }
-    },
-    {
-      "site_id": "u10k5e4990s8",
-      "brand": "Asda",
-      "address": "387 Maidstone Road, Chatham",
-      "postcode": "ME5 9SE",
-      "location": {
-        "latitude": 51.34679,
-        "longitude": 0.508844
-      },
-      "prices": {
-        "E10": 174.9,
-        "B7": 199.9
-      }
-    },
-    {
-      "site_id": "u10q7d0xq2vc",
-      "brand": "Asda",
-      "address": "Chelmer Village Centre, Chelmsford",
-      "postcode": "CM2 6RE",
-      "location": {
-        "latitude": 51.735868,
-        "longitude": 0.506334
-      },
-      "prices": {
-        "E10": 176.9,
-        "B7": 199.7
-      }
-    },
-    {
-      "site_id": "gcnrpw3ev103",
-      "brand": "Asda",
-      "address": "Hatherley Lane, Cheltenham",
-      "postcode": "GL51 6PN",
-      "location": {
-        "latitude": 51.891662,
-        "longitude": -2.128683
-      },
-      "prices": {
-        "E10": 169.7,
-        "B7": 194.7
       }
     },
     {
@@ -2290,20 +4810,6 @@
         "E5": 218.9,
         "B7": 217.9,
         "SDV": 236.9
-      }
-    },
-    {
-      "site_id": "gcvwnj52htgj",
-      "brand": "Asda",
-      "address": "3 New Mart Road, Edinburgh",
-      "postcode": "EH14 1RJ",
-      "location": {
-        "latitude": 55.925904,
-        "longitude": -3.247354
-      },
-      "prices": {
-        "E10": 169.7,
-        "B7": 190.7
       }
     },
     {
@@ -2354,20 +4860,6 @@
       }
     },
     {
-      "site_id": "gcw1hnksjbf9",
-      "brand": "Asda",
-      "address": "Bolton Street, Chorley",
-      "postcode": "PR7 3DL",
-      "location": {
-        "latitude": 53.648798,
-        "longitude": -2.629841
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcn8xk6gjn4f",
       "brand": "Asda",
       "address": "58 Barrack Road, Christchurch",
@@ -2400,20 +4892,6 @@
       }
     },
     {
-      "site_id": "u10ydq5qvpzz",
-      "brand": "Asda",
-      "address": "Bull Hill Road, Clacton-on-Sea",
-      "postcode": "CO15 4AU",
-      "location": {
-        "latitude": 51.802295,
-        "longitude": 1.157747
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 198.7
-      }
-    },
-    {
       "site_id": "gcpuuc8hv7zc",
       "brand": "Asda",
       "address": "474-488 Wandsworth Road, London",
@@ -2442,20 +4920,6 @@
         "E5": 192.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcw1ec1ghu4p",
-      "brand": "Asda",
-      "address": "Clayton Green Centre, Sheephill Lane, Chorley",
-      "postcode": "PR6 7JY",
-      "location": {
-        "latitude": 53.707202,
-        "longitude": -2.645095
-      },
-      "prices": {
-        "E10": 173.9,
-        "B7": 199.9
       }
     },
     {
@@ -2519,48 +4983,6 @@
       }
     },
     {
-      "site_id": "u10xk2xddxq3",
-      "brand": "Asda",
-      "address": "Turner Rise, Colchester",
-      "postcode": "CO4 5TU",
-      "location": {
-        "latitude": 51.902629,
-        "longitude": 0.900308
-      },
-      "prices": {
-        "E10": 176.9,
-        "B7": 199.7
-      }
-    },
-    {
-      "site_id": "gcg38edgghbm",
-      "brand": "Asda",
-      "address": "1 Ring Rd, Coleraine",
-      "postcode": "BT52 1QP",
-      "location": {
-        "latitude": 55.127318,
-        "longitude": -6.653809
-      },
-      "prices": {
-        "E10": 167.7,
-        "B7": 189.7
-      }
-    },
-    {
-      "site_id": "gcpvd06dbtke",
-      "brand": "Asda",
-      "address": "Capitol Way off Edgware Road, Colindale, London",
-      "postcode": "NW9 0AS",
-      "location": {
-        "latitude": 51.593664,
-        "longitude": -0.260208
-      },
-      "prices": {
-        "E10": 174.9,
-        "B7": 199.9
-      }
-    },
-    {
       "site_id": "gcw6q5hbxjzx",
       "brand": "Asda",
       "address": "Burnley Road, Colne",
@@ -2577,20 +4999,6 @@
       }
     },
     {
-      "site_id": "gcw6q5jmb823",
-      "brand": "Asda",
-      "address": "Unit 1, Swinden Retail Park, Colne",
-      "postcode": "BB8 8LU",
-      "location": {
-        "latitude": 53.850476,
-        "longitude": -2.190034
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 198.7
-      }
-    },
-    {
       "site_id": "gcrs6h7jsd83",
       "brand": "Asda",
       "address": "A1 South Bound, Grantham",
@@ -2604,20 +5012,6 @@
         "E5": 192.9,
         "B7": 203.9,
         "SDV": 222.9
-      }
-    },
-    {
-      "site_id": "gceny991w6cu",
-      "brand": "Asda",
-      "address": "Sweep Road, Cookstown",
-      "postcode": "BT80 8JR",
-      "location": {
-        "latitude": 54.63502,
-        "longitude": -6.74608
-      },
-      "prices": {
-        "E10": 165.7,
-        "B7": 191.7
       }
     },
     {
@@ -2650,20 +5044,6 @@
         "E5": 193.9,
         "B7": 199.9,
         "SDV": 218.9
-      }
-    },
-    {
-      "site_id": "gcrd8s862dv8",
-      "brand": "Asda",
-      "address": "Phoenix Park Way, Corby",
-      "postcode": "NN17 5DT",
-      "location": {
-        "latitude": 52.493857,
-        "longitude": -0.678637
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 196.7
       }
     },
     {
@@ -2712,20 +5092,6 @@
         "E5": 191.9,
         "B7": 199.9,
         "SDV": 218.9
-      }
-    },
-    {
-      "site_id": "gcqfr2kmzxn5",
-      "brand": "Asda",
-      "address": "Brade Drive, Coventry",
-      "postcode": "CV2 2PN",
-      "location": {
-        "latitude": 52.429065,
-        "longitude": -1.432156
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 197.7
       }
     },
     {
@@ -2871,20 +5237,6 @@
       }
     },
     {
-      "site_id": "gcvnm3kmdhf2",
-      "brand": "Asda",
-      "address": "1 Tryst Road, Cumbernauld",
-      "postcode": "G67 1JW",
-      "location": {
-        "latitude": 55.950218,
-        "longitude": -3.982111
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 196.7
-      }
-    },
-    {
       "site_id": "gcvbjr1kgy4y",
       "brand": "Asda",
       "address": "Currock Road, Carlisle",
@@ -2948,34 +5300,6 @@
       }
     },
     {
-      "site_id": "u10j5hzbxhbp",
-      "brand": "Asda",
-      "address": "Merrielands Crescent, Dagenham",
-      "postcode": "RM9 6SJ",
-      "location": {
-        "latitude": 51.529501,
-        "longitude": 0.139635
-      },
-      "prices": {
-        "E10": 173.9,
-        "B7": 199.9
-      }
-    },
-    {
-      "site_id": "gcwym3dth2bz",
-      "brand": "Asda",
-      "address": "Whinbush Way, Darlington",
-      "postcode": "DL1 3RB",
-      "location": {
-        "latitude": 54.545393,
-        "longitude": -1.523833
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 198.9
-      }
-    },
-    {
       "site_id": "gcmygd6ygfex",
       "brand": "Asda",
       "address": "Parkway, Deeside",
@@ -3008,20 +5332,6 @@
       }
     },
     {
-      "site_id": "gcqvp9nnxzm6",
-      "brand": "Asda",
-      "address": "Derby Road, Spondon",
-      "postcode": "DE21 7LW",
-      "location": {
-        "latitude": 52.916821,
-        "longitude": -1.419854
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 198.7
-      }
-    },
-    {
       "site_id": "gcwc6vdt7j89",
       "brand": "Asda",
       "address": "Mill Street West, Dewsbury",
@@ -3049,34 +5359,6 @@
         "E5": 196.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcx0qym0prxc",
-      "brand": "Asda",
-      "address": "Gliwice Way, Bawtry Road, Doncaster",
-      "postcode": "DN4 5NW",
-      "location": {
-        "latitude": 53.516188,
-        "longitude": -1.102366
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 198.7
-      }
-    },
-    {
-      "site_id": "gcq7be78u09d",
-      "brand": "Asda",
-      "address": "St Georges Road, Telford",
-      "postcode": "TF2 7RX",
-      "location": {
-        "latitude": 52.708135,
-        "longitude": -2.432238
-      },
-      "prices": {
-        "E10": 176.9,
-        "B7": 199.9
       }
     },
     {
@@ -3142,20 +5424,6 @@
       }
     },
     {
-      "site_id": "gcq6xcxxq7z0",
-      "brand": "Asda",
-      "address": "Merryhill Centre, Dudley",
-      "postcode": "DY5 1QL",
-      "location": {
-        "latitude": 52.476011,
-        "longitude": -2.10749
-      },
-      "prices": {
-        "E10": 176.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcqvn72ktxdg",
       "brand": "Asda",
       "address": "27 Duffield Road, Derby",
@@ -3184,20 +5452,6 @@
         "E5": 197.9,
         "B7": 199.9,
         "SDV": 218.9
-      }
-    },
-    {
-      "site_id": "gcynwbs1fj2h",
-      "brand": "Asda",
-      "address": "Spott Road, Dunbar",
-      "postcode": "EH42 1LE",
-      "location": {
-        "latitude": 55.989404,
-        "longitude": -2.51029
-      },
-      "prices": {
-        "E10": 175.9,
-        "B7": 199.9
       }
     },
     {
@@ -3231,48 +5485,6 @@
       }
     },
     {
-      "site_id": "gfjcm3qcmvgy",
-      "brand": "Asda",
-      "address": "Milton Of Craigie Road, Dundee",
-      "postcode": "DD4 7RX",
-      "location": {
-        "latitude": 56.474817,
-        "longitude": -2.925404
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 199.7
-      }
-    },
-    {
-      "site_id": "gfjc695ughgn",
-      "brand": "Asda",
-      "address": "61 Myrekirk Road, Dundee",
-      "postcode": "DD2 4WB",
-      "location": {
-        "latitude": 56.473387,
-        "longitude": -3.050387
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 194.7
-      }
-    },
-    {
-      "site_id": "gcvx43r9xbgx",
-      "brand": "Asda",
-      "address": "Halbeath Road Retail Park, Fife",
-      "postcode": "KY11 4LP",
-      "location": {
-        "latitude": 56.081348,
-        "longitude": -3.406111
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcp9nesqmxek",
       "brand": "Asda",
       "address": "The Boulevard, Nelson Road, Worthing",
@@ -3286,76 +5498,6 @@
         "E5": 189.9,
         "B7": 196.9,
         "SDV": 212.9
-      }
-    },
-    {
-      "site_id": "gfnmqtb2h86b",
-      "brand": "Asda",
-      "address": "Riverview Drive, Dyce, Aberdeen",
-      "postcode": "AB21 7NG",
-      "location": {
-        "latitude": 57.204251,
-        "longitude": -2.17216
-      },
-      "prices": {
-        "E10": 174.9,
-        "B7": 199.9
-      }
-    },
-    {
-      "site_id": "gcrr66xepg07",
-      "brand": "Asda",
-      "address": "Wharf Road, East Retford",
-      "postcode": "DN22 6EN",
-      "location": {
-        "latitude": 53.320954,
-        "longitude": -0.941507
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 199.7
-      }
-    },
-    {
-      "site_id": "u100zrjr52np",
-      "brand": "Asda",
-      "address": "The Crumbles - Pevensey Bay Road, Eastbourne",
-      "postcode": "BN23 6JH",
-      "location": {
-        "latitude": 50.796491,
-        "longitude": 0.325961
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 196.7
-      }
-    },
-    {
-      "site_id": "gcw2q069jsyn",
-      "brand": "Asda",
-      "address": "ASDA Sportcity, Ashton New Road, Manchester",
-      "postcode": "M11 4BD",
-      "location": {
-        "latitude": 53.484036,
-        "longitude": -2.195119
-      },
-      "prices": {
-        "E10": 169.7,
-        "B7": 194.7
-      }
-    },
-    {
-      "site_id": "gcp1bq7dd7bm",
-      "brand": "Asda",
-      "address": "Bournemouth Road, Eastleigh",
-      "postcode": "SO53 3YJ",
-      "location": {
-        "latitude": 50.966475,
-        "longitude": -1.389003
-      },
-      "prices": {
-        "E10": 177.9,
-        "B7": 199.9
       }
     },
     {
@@ -3391,20 +5533,6 @@
       }
     },
     {
-      "site_id": "gcvy1r7gr66e",
-      "brand": "Asda",
-      "address": "100 The Jewel, Brunstane, Edinburgh",
-      "postcode": "EH15 3AR",
-      "location": {
-        "latitude": 55.938863,
-        "longitude": -3.101527
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 195.7
-      }
-    },
-    {
       "site_id": "gfjxvszp2w12",
       "brand": "Asda",
       "address": "Coxton Park, Elgin",
@@ -3418,20 +5546,6 @@
         "E5": 190.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gfjxutmmuyg7",
-      "brand": "Asda",
-      "address": "Edgar Road, Elgin",
-      "postcode": "IV30 6YQ",
-      "location": {
-        "latitude": 57.640515,
-        "longitude": -3.306699
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 199.7
       }
     },
     {
@@ -3513,20 +5627,6 @@
       }
     },
     {
-      "site_id": "gcdt4k6t0278",
-      "brand": "Asda",
-      "address": "Derrychara Rd, Enniskillen",
-      "postcode": "BT74 6JG",
-      "location": {
-        "latitude": 54.3413,
-        "longitude": -7.63324
-      },
-      "prices": {
-        "E10": 167.7,
-        "B7": 195.7
-      }
-    },
-    {
       "site_id": "gcr04nc8hd99",
       "brand": "Asda",
       "address": "Ermont Way, Banbury",
@@ -3590,20 +5690,6 @@
       }
     },
     {
-      "site_id": "gbum7e2zuqhb",
-      "brand": "Asda",
-      "address": "Jennings Road, Penryn",
-      "postcode": "TR10 9LY",
-      "location": {
-        "latitude": 50.160817,
-        "longitude": -5.11841
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcp1k6hp9d74",
       "brand": "Asda",
       "address": "165 Highlands Road, Fareham",
@@ -3616,20 +5702,6 @@
         "E10": 175.9,
         "E5": 193.9,
         "B7": 202.9
-      }
-    },
-    {
-      "site_id": "gcp1jn1dxu53",
-      "brand": "Asda",
-      "address": "Speedfields Park, Newgate Lane, Fareham",
-      "postcode": "PO14 1TT",
-      "location": {
-        "latitude": 50.833922,
-        "longitude": -1.184805
-      },
-      "prices": {
-        "E10": 174.9,
-        "B7": 199.9
       }
     },
     {
@@ -3693,20 +5765,6 @@
       }
     },
     {
-      "site_id": "gcp9je7msdzy",
-      "brand": "Asda",
-      "address": "Littlehampton Road, Ferring",
-      "postcode": "BN12 6PN",
-      "location": {
-        "latitude": 50.819594,
-        "longitude": -0.456759
-      },
-      "prices": {
-        "E10": 174.9,
-        "B7": 193.9
-      }
-    },
-    {
       "site_id": "gcxcbs16qsjb",
       "brand": "Asda",
       "address": "Stoneferry Retail Park, Stoneferry Road, Hull",
@@ -3736,20 +5794,6 @@
         "E5": 197.9,
         "B7": 201.9,
         "SDV": 217.9
-      }
-    },
-    {
-      "site_id": "gctferv627rr",
-      "brand": "Asda",
-      "address": "Cop Lane, Fleetwood",
-      "postcode": "FY7 6NU",
-      "location": {
-        "latitude": 53.91993,
-        "longitude": -3.01401
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 198.9
       }
     },
     {
@@ -3829,20 +5873,6 @@
       }
     },
     {
-      "site_id": "gcn77t6v1kzf",
-      "brand": "Asda",
-      "address": "Warminster Road, Frome",
-      "postcode": "BA11 5LA",
-      "location": {
-        "latitude": 51.227391,
-        "longitude": -2.3044
-      },
-      "prices": {
-        "E10": 176.9,
-        "B7": 199.9
-      }
-    },
-    {
       "site_id": "gcvj8vnw5kxg",
       "brand": "Asda",
       "address": "2101 London Rd, Glasgow",
@@ -3859,34 +5889,6 @@
       }
     },
     {
-      "site_id": "gcw44bkm1c2s",
-      "brand": "Asda",
-      "address": "East Way - Fulwood, Preston",
-      "postcode": "PR2 9NP",
-      "location": {
-        "latitude": 53.791151,
-        "longitude": -2.68316
-      },
-      "prices": {
-        "E10": 169.9,
-        "B7": 194.7
-      }
-    },
-    {
-      "site_id": "gcyh2hv6bnx9",
-      "brand": "Asda",
-      "address": "Currie Road, Galashiels",
-      "postcode": "TD1 2AG",
-      "location": {
-        "latitude": 55.61742,
-        "longitude": -2.80528
-      },
-      "prices": {
-        "E10": 171.9,
-        "B7": 199.9
-      }
-    },
-    {
       "site_id": "gcvjdrye7gnx",
       "brand": "Asda",
       "address": "61 Edinburgh Road, Glasgow",
@@ -3900,20 +5902,6 @@
         "E5": 195.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcyb9v4m5ju9",
-      "brand": "Asda",
-      "address": "Metro Centre, Gibside Way, Gateshead",
-      "postcode": "NE11 9YA",
-      "location": {
-        "latitude": 54.959921,
-        "longitude": -1.677779
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 199.7
       }
     },
     {
@@ -3964,34 +5952,6 @@
       }
     },
     {
-      "site_id": "u10kks4rxz42",
-      "brand": "Asda",
-      "address": "Pier Road, Gillingham",
-      "postcode": "ME7 1RZ",
-      "location": {
-        "latitude": 51.395368,
-        "longitude": 0.552742
-      },
-      "prices": {
-        "E10": 174.9,
-        "B7": 199.9
-      }
-    },
-    {
-      "site_id": "gcvj8rvvhsze",
-      "brand": "Asda",
-      "address": "1300 Duke Street, Glasgow",
-      "postcode": "G31 4EB",
-      "location": {
-        "latitude": 55.854003,
-        "longitude": -4.201596
-      },
-      "prices": {
-        "E10": 170.7,
-        "B7": 193.7
-      }
-    },
-    {
       "site_id": "gcx194rm3sdf",
       "brand": "Asda",
       "address": "Leeds Road, Glasshoughton, Castleford",
@@ -4018,34 +5978,6 @@
         "E10": 175.9,
         "E5": 194.9,
         "B7": 197.9
-      }
-    },
-    {
-      "site_id": "gcvz8nbgkmcx",
-      "brand": "Asda",
-      "address": "Fullerton Road, Glenrothes",
-      "postcode": "KY7 5QB",
-      "location": {
-        "latitude": 56.19924,
-        "longitude": -3.17138
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 199.7
-      }
-    },
-    {
-      "site_id": "gcnrj17qqq21",
-      "brand": "Asda",
-      "address": "Bruton Way, Gloucester",
-      "postcode": "GL1 1DS",
-      "location": {
-        "latitude": 51.862606,
-        "longitude": -2.235281
-      },
-      "prices": {
-        "E10": 170.7,
-        "B7": 195.7
       }
     },
     {
@@ -4124,20 +6056,6 @@
       }
     },
     {
-      "site_id": "gcybgnu7mc9t",
-      "brand": "Asda",
-      "address": "Hollywood Avenue, Newcastle upon Tyne",
-      "postcode": "NE3 5BU",
-      "location": {
-        "latitude": 55.013194,
-        "longitude": -1.619794
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 197.7
-      }
-    },
-    {
       "site_id": "gcp1m0485ctp",
       "brand": "Asda",
       "address": "86 Gosport Road, Fareham",
@@ -4154,20 +6072,6 @@
       }
     },
     {
-      "site_id": "gcuvtxshq35s",
-      "brand": "Asda",
-      "address": "500 Helen Street, Glasgow",
-      "postcode": "G51 3HR",
-      "location": {
-        "latitude": 55.852667,
-        "longitude": -4.322557
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 197.7
-      }
-    },
-    {
       "site_id": "gcqn8heeg0ee",
       "brand": "Asda",
       "address": "Tarvin Road, Chester",
@@ -4181,62 +6085,6 @@
         "E5": 198.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcvqeq5hcn31",
-      "brand": "Asda",
-      "address": "Dock Road, Grangemouth",
-      "postcode": "FK3 8TY",
-      "location": {
-        "latitude": 56.02016,
-        "longitude": -3.71782
-      },
-      "prices": {
-        "E10": 174.9,
-        "B7": 199.9
-      }
-    },
-    {
-      "site_id": "gcrt128vuzvx",
-      "brand": "Asda",
-      "address": "Union Street, Grantham",
-      "postcode": "NG31 6NZ",
-      "location": {
-        "latitude": 52.913372,
-        "longitude": -0.64508
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 198.7
-      }
-    },
-    {
-      "site_id": "u10k8kcrhhys",
-      "brand": "Asda",
-      "address": "Thames Way, Gravesend",
-      "postcode": "DA11 0DQ",
-      "location": {
-        "latitude": 51.443095,
-        "longitude": 0.361967
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 199.7
-      }
-    },
-    {
-      "site_id": "gcqdcfg6862x",
-      "brand": "Asda",
-      "address": "Brickhouse Lane, Tipton",
-      "postcode": "DY4 7HW",
-      "location": {
-        "latitude": 52.530902,
-        "longitude": -2.026537
-      },
-      "prices": {
-        "E10": 174.9,
-        "B7": 199.9
       }
     },
     {
@@ -4267,20 +6115,6 @@
       "prices": {
         "E10": 175.9,
         "B7": 203.9
-      }
-    },
-    {
-      "site_id": "u135r1tmusxm",
-      "brand": "Asda",
-      "address": "Acle New Road, Runham Vauxhall, Great Yarmouth",
-      "postcode": "NR30 1SF",
-      "location": {
-        "latitude": 52.611791,
-        "longitude": 1.72128
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 197.7
       }
     },
     {
@@ -4343,20 +6177,6 @@
         "E5": 198.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcxbwpxs1hg5",
-      "brand": "Asda",
-      "address": "Holles Street, Grimsby",
-      "postcode": "DN32 9DL",
-      "location": {
-        "latitude": 53.567302,
-        "longitude": -0.077544
-      },
-      "prices": {
-        "E10": 170.7,
-        "B7": 191.7
       }
     },
     {
@@ -4468,20 +6288,6 @@
         "E5": 198.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcw9th344j0y",
-      "brand": "Asda",
-      "address": "Thrum Hall Lane, Halifax",
-      "postcode": "HX1 4PG",
-      "location": {
-        "latitude": 53.72312,
-        "longitude": -1.88621
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 199.7
       }
     },
     {
@@ -4625,20 +6431,6 @@
       }
     },
     {
-      "site_id": "gcwgjjfkpjhb",
-      "brand": "Asda",
-      "address": "Bower Road, Harrogate",
-      "postcode": "HG1 5DE",
-      "location": {
-        "latitude": 53.997143,
-        "longitude": -1.534689
-      },
-      "prices": {
-        "E10": 167.7,
-        "B7": 190.7
-      }
-    },
-    {
       "site_id": "gcq3tt0pr9f9",
       "brand": "Asda",
       "address": "Crown Lane, Waresley",
@@ -4652,20 +6444,6 @@
         "E5": 193.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcxph7ytxww5",
-      "brand": "Asda",
-      "address": "Marina Way, Hartlepool",
-      "postcode": "TS24 0XR",
-      "location": {
-        "latitude": 54.689553,
-        "longitude": -1.210183
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 196.7
       }
     },
     {
@@ -4713,20 +6491,6 @@
       }
     },
     {
-      "site_id": "gcpy6z1uk9hb",
-      "brand": "Asda",
-      "address": "98 Town Centre, Hatfield",
-      "postcode": "AL10 0JP",
-      "location": {
-        "latitude": 51.763155,
-        "longitude": -0.227615
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 197.7
-      }
-    },
-    {
       "site_id": "gcrh7chm41q3",
       "brand": "Asda",
       "address": "Derby Road, Loughborough",
@@ -4740,20 +6504,6 @@
         "E5": 193.9,
         "B7": 199.9,
         "SDV": 218.9
-      }
-    },
-    {
-      "site_id": "gcp32gjrtws3",
-      "brand": "Asda",
-      "address": "Larchwood Avenue, Bedhampton, Havant",
-      "postcode": "PO9 3QW",
-      "location": {
-        "latitude": 50.864032,
-        "longitude": -1.008058
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 197.9
       }
     },
     {
@@ -4926,20 +6676,6 @@
       }
     },
     {
-      "site_id": "gcq0453snztq",
-      "brand": "Asda",
-      "address": "Belmont Road, Hereford",
-      "postcode": "HR2 7JE",
-      "location": {
-        "latitude": 52.04896,
-        "longitude": -2.72019
-      },
-      "prices": {
-        "E10": 175.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcx9xy64rwej",
       "brand": "Asda",
       "address": "181 Hessle Road, Hull",
@@ -4953,20 +6689,6 @@
         "E5": 999.9,
         "B7": 201.9,
         "SDV": 219.9
-      }
-    },
-    {
-      "site_id": "gcx9xmzu77vt",
-      "brand": "Asda",
-      "address": "Hessle Road, Hull",
-      "postcode": "HU3 4PE",
-      "location": {
-        "latitude": 53.733501,
-        "longitude": -0.373527
-      },
-      "prices": {
-        "E10": 175.7,
-        "B7": 199.7
       }
     },
     {
@@ -5013,34 +6735,6 @@
         "E10": 176.9,
         "E5": 194.9,
         "B7": 203.9
-      }
-    },
-    {
-      "site_id": "gcpmw78m5vx3",
-      "brand": "Asda",
-      "address": "Holmers Farm Way, High Wycombe",
-      "postcode": "HP12 4NU",
-      "location": {
-        "latitude": 51.611911,
-        "longitude": -0.779515
-      },
-      "prices": {
-        "E10": 171.9,
-        "B7": 197.7
-      }
-    },
-    {
-      "site_id": "gcjgkkeqkf9d",
-      "brand": "Asda",
-      "address": "Caxton Road, Highbridge",
-      "postcode": "TA9 3BX",
-      "location": {
-        "latitude": 51.222112,
-        "longitude": -2.972745
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 199.7
       }
     },
     {
@@ -5292,34 +6986,6 @@
       }
     },
     {
-      "site_id": "gcw0y6f07kfr",
-      "brand": "Asda",
-      "address": "43-53 The Linkway, Horwich",
-      "postcode": "BL6 6JA",
-      "location": {
-        "latitude": 53.584487,
-        "longitude": -2.534266
-      },
-      "prices": {
-        "E10": 169.7,
-        "B7": 191.7
-      }
-    },
-    {
-      "site_id": "gcw9rd9zvx35",
-      "brand": "Asda",
-      "address": "Longhill Road - Off Bradford Road, Huddersfield",
-      "postcode": "HD2 2LQ",
-      "location": {
-        "latitude": 53.672433,
-        "longitude": -1.77595
-      },
-      "prices": {
-        "E10": 169.9,
-        "B7": 192.9
-      }
-    },
-    {
       "site_id": "gcxcc89ryqzs",
       "brand": "Asda",
       "address": "Littlefair Road, Hull",
@@ -5333,20 +6999,6 @@
         "E5": 201.9,
         "B7": 202.9,
         "SDV": 221.9
-      }
-    },
-    {
-      "site_id": "gcxcfmcb5tqv",
-      "brand": "Asda",
-      "address": "Main Road - Bilton, Hull",
-      "postcode": "HU11 4AL",
-      "location": {
-        "latitude": 53.776732,
-        "longitude": -0.250123
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 199.7
       }
     },
     {
@@ -5377,48 +7029,6 @@
         "E5": 195.9,
         "B7": 201.9,
         "SDV": 217.9
-      }
-    },
-    {
-      "site_id": "gfnnb39ddgk3",
-      "brand": "Asda",
-      "address": "Steven Road, Huntly",
-      "postcode": "AB54 8SX",
-      "location": {
-        "latitude": 57.44521,
-        "longitude": -2.79933
-      },
-      "prices": {
-        "E10": 175.7,
-        "B7": 198.7
-      }
-    },
-    {
-      "site_id": "gcmzwc33hkdd",
-      "brand": "Asda",
-      "address": "Hunts Cross Shopping Centre, Liverpool",
-      "postcode": "L24 9WA",
-      "location": {
-        "latitude": 53.356672,
-        "longitude": -2.865529
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 197.7
-      }
-    },
-    {
-      "site_id": "gcmzz7w4h45s",
-      "brand": "Asda",
-      "address": "Huyton Lane, Liverpool",
-      "postcode": "L36 7TX",
-      "location": {
-        "latitude": 53.412557,
-        "longitude": -2.836817
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 197.7
       }
     },
     {
@@ -5498,48 +7108,6 @@
       }
     },
     {
-      "site_id": "gfjnb42rvh2h",
-      "brand": "Asda",
-      "address": "Ivanhoe Avenue, Inverness, Inverness",
-      "postcode": "IV2 6BZ",
-      "location": {
-        "latitude": 57.45097,
-        "longitude": -4.215638
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 199.7
-      }
-    },
-    {
-      "site_id": "u12b33eub9ee",
-      "brand": "Asda",
-      "address": "Whitehouse Industrial Estate, Ipswich",
-      "postcode": "IP1 5PD",
-      "location": {
-        "latitude": 52.084259,
-        "longitude": 1.114795
-      },
-      "prices": {
-        "E10": 171.9,
-        "B7": 195.9
-      }
-    },
-    {
-      "site_id": "gcpuzwnzzntc",
-      "brand": "Asda",
-      "address": "151 East Ferry Road, Isle of Dogs, London",
-      "postcode": "E14 3BT",
-      "location": {
-        "latitude": 51.494393,
-        "longitude": -0.01185
-      },
-      "prices": {
-        "E10": 173.9,
-        "B7": 199.9
-      }
-    },
-    {
       "site_id": "gcn6nn5v1z5c",
       "brand": "Asda",
       "address": "Ivy Cross, Shaftesbury",
@@ -5572,34 +7140,6 @@
       }
     },
     {
-      "site_id": "gcwdkwx2h14r",
-      "brand": "Asda",
-      "address": "Bingley Street, Keighley",
-      "postcode": "BD21 3ER",
-      "location": {
-        "latitude": 53.86872,
-        "longitude": -1.90149
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 194.7
-      }
-    },
-    {
-      "site_id": "gcwhcybcun7t",
-      "brand": "Asda",
-      "address": "Burton Road, Kendal",
-      "postcode": "LA9 7JA",
-      "location": {
-        "latitude": 54.310126,
-        "longitude": -2.73546
-      },
-      "prices": {
-        "E10": 171.9,
-        "B7": 199.9
-      }
-    },
-    {
       "site_id": "gcr6pmhw4t2f",
       "brand": "Asda",
       "address": "Rockingham Road, Kettering",
@@ -5613,20 +7153,6 @@
         "E5": 193.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcr6pkcmq83h",
-      "brand": "Asda",
-      "address": "Cunliffe Drive, Northfield Avenue, Kettering",
-      "postcode": "NN16 9HU",
-      "location": {
-        "latitude": 52.409475,
-        "longitude": -0.734174
-      },
-      "prices": {
-        "E10": 170.7,
-        "B7": 189.7
       }
     },
     {
@@ -5722,20 +7248,6 @@
       }
     },
     {
-      "site_id": "gcxf01h0xcx6",
-      "brand": "Asda",
-      "address": "Bude Road, Kingswood Retail Park, Hull",
-      "postcode": "HU7 3DA",
-      "location": {
-        "latitude": 53.793364,
-        "longitude": -0.34509
-      },
-      "prices": {
-        "E10": 173.9,
-        "B7": 199.9
-      }
-    },
-    {
       "site_id": "gcmrpcmwq7mq",
       "brand": "Asda",
       "address": "55 Expressway, Bodelwyddan",
@@ -5816,20 +7328,6 @@
       }
     },
     {
-      "site_id": "gcvz27j95nyz",
-      "brand": "Asda",
-      "address": "Carberry Road, Kirkcaldy",
-      "postcode": "KY1 3NU",
-      "location": {
-        "latitude": 56.135276,
-        "longitude": -3.14415
-      },
-      "prices": {
-        "E10": 176.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcw2s48n7cqc",
       "brand": "Asda",
       "address": "71-73 Bury Old Road, Whitefield",
@@ -5890,20 +7388,6 @@
         "E5": 196.9,
         "B7": 199.9,
         "SDV": 218.9
-      }
-    },
-    {
-      "site_id": "gctgx8tktj4m",
-      "brand": "Asda",
-      "address": "Ovangle Road, Lancaster",
-      "postcode": "LA1 5JR",
-      "location": {
-        "latitude": 54.056358,
-        "longitude": -2.821952
-      },
-      "prices": {
-        "E10": 175.9,
-        "B7": 199.7
       }
     },
     {
@@ -5981,20 +7465,6 @@
       }
     },
     {
-      "site_id": "gcqcms84yu1u",
-      "brand": "Asda",
-      "address": "Chesterton Drive, Leamington Spa",
-      "postcode": "CV31 1YD",
-      "location": {
-        "latitude": 52.27619,
-        "longitude": -1.515821
-      },
-      "prices": {
-        "E10": 176.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcqe694vrcdh",
       "brand": "Asda",
       "address": "570 Bloxwich Road, Walsall",
@@ -6040,20 +7510,6 @@
       }
     },
     {
-      "site_id": "gcr5w15dhjgc",
-      "brand": "Asda",
-      "address": "1 Exploration Drive, Leicester",
-      "postcode": "LE4 5NU",
-      "location": {
-        "latitude": 52.65246,
-        "longitude": -1.135026
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 197.9
-      }
-    },
-    {
       "site_id": "gcr5j6ntnjjx",
       "brand": "Asda",
       "address": "77 Lutterworth Road, Blaby",
@@ -6065,62 +7521,6 @@
       "prices": {
         "E10": 172.9,
         "B7": 196.9
-      }
-    },
-    {
-      "site_id": "gcr5jpqpnvus",
-      "brand": "Asda",
-      "address": "Narborough Road South, Braunstone",
-      "postcode": "LE3 2LL",
-      "location": {
-        "latitude": 52.599777,
-        "longitude": -1.177952
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 197.7
-      }
-    },
-    {
-      "site_id": "gcw0qs19d3hz",
-      "brand": "Asda",
-      "address": "Atherleigh Way, Leigh",
-      "postcode": "WN7 5RZ",
-      "location": {
-        "latitude": 53.502485,
-        "longitude": -2.526221
-      },
-      "prices": {
-        "E10": 169.7,
-        "B7": 188.7
-      }
-    },
-    {
-      "site_id": "gcvwrrjdmfxf",
-      "brand": "Asda",
-      "address": "2 Sandpiper Drive, Edinburgh",
-      "postcode": "EH6 6QJ",
-      "location": {
-        "latitude": 55.981559,
-        "longitude": -3.189525
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 195.7
-      }
-    },
-    {
-      "site_id": "gcpvrc3nvsw5",
-      "brand": "Asda",
-      "address": "Marshall Road, Leyton",
-      "postcode": "E10 5NH",
-      "location": {
-        "latitude": 51.555896,
-        "longitude": -0.009331
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 198.9
       }
     },
     {
@@ -6156,20 +7556,6 @@
       }
     },
     {
-      "site_id": "gcrwdd9z58h3",
-      "brand": "Asda",
-      "address": "Newark Road, North Hykeham, Lincoln",
-      "postcode": "LN6 8JY",
-      "location": {
-        "latitude": 53.187871,
-        "longitude": -0.591536
-      },
-      "prices": {
-        "E10": 174.9,
-        "B7": 199.9
-      }
-    },
-    {
       "site_id": "gcrwem559ch4",
       "brand": "Asda",
       "address": "246 Newark Road, Lincoln",
@@ -6182,34 +7568,6 @@
         "E10": 174.9,
         "E5": 193.9,
         "B7": 201.9
-      }
-    },
-    {
-      "site_id": "gcuvdmcsgvek",
-      "brand": "Asda",
-      "address": "Phoenix Retail Park, Paisley",
-      "postcode": "PA1 2AB",
-      "location": {
-        "latitude": 55.842691,
-        "longitude": -4.46615
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 196.7
-      }
-    },
-    {
-      "site_id": "gcmzftenc3qk",
-      "brand": "Asda",
-      "address": "Sea View Road, Wallasey",
-      "postcode": "CH45 4NZ",
-      "location": {
-        "latitude": 53.419956,
-        "longitude": -3.045901
-      },
-      "prices": {
-        "E10": 175.9,
-        "B7": 199.9
       }
     },
     {
@@ -6259,20 +7617,6 @@
       }
     },
     {
-      "site_id": "gcmr2fr6sgny",
-      "brand": "Asda",
-      "address": "Conway Road, Llandudno",
-      "postcode": "LL30 1PJ",
-      "location": {
-        "latitude": 53.31847,
-        "longitude": -3.824059
-      },
-      "prices": {
-        "E10": 177.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcjn12j56n9s",
       "brand": "Asda",
       "address": "Murray Street, Llanelli",
@@ -6284,20 +7628,6 @@
       "prices": {
         "E10": 174.7,
         "B7": 196.7
-      }
-    },
-    {
-      "site_id": "gckyvzjw0x0m",
-      "brand": "Asda",
-      "address": "Ffordd Cae Sel, Llangefni",
-      "postcode": "LL77 7DW",
-      "location": {
-        "latitude": 53.257239,
-        "longitude": -4.30966
-      },
-      "prices": {
-        "E10": 169.7,
-        "B7": 197.7
       }
     },
     {
@@ -6380,20 +7710,6 @@
       }
     },
     {
-      "site_id": "gcrhgn6yp1yj",
-      "brand": "Asda",
-      "address": "Midland Street, Long Eaton",
-      "postcode": "NG10 1NY",
-      "location": {
-        "latitude": 52.899966,
-        "longitude": -1.268493
-      },
-      "prices": {
-        "E10": 167.7,
-        "B7": 188.7
-      }
-    },
-    {
       "site_id": "gcqpufnx4dvu",
       "brand": "Asda",
       "address": "296 Winwick Road, Warrington",
@@ -6426,48 +7742,6 @@
       }
     },
     {
-      "site_id": "gcnhxjvcxv6f",
-      "brand": "Asda",
-      "address": "Craven Way, Bristol",
-      "postcode": "BS30 7DY",
-      "location": {
-        "latitude": 51.44789,
-        "longitude": -2.496633
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 198.9
-      }
-    },
-    {
-      "site_id": "gcpkdc8c3cgj",
-      "brand": "Asda",
-      "address": "Chalfont Way, Lower Earley, Reading",
-      "postcode": "RG6 5TT",
-      "location": {
-        "latitude": 51.424567,
-        "longitude": -0.932739
-      },
-      "prices": {
-        "E10": 174.9,
-        "B7": 199.9
-      }
-    },
-    {
-      "site_id": "u134x85vnx6d",
-      "brand": "Asda",
-      "address": "Belvedere Road-Off Horn Hill, Lowestoft",
-      "postcode": "NR33 0PX",
-      "location": {
-        "latitude": 52.4723,
-        "longitude": 1.7461
-      },
-      "prices": {
-        "E10": 169.9,
-        "B7": 196.9
-      }
-    },
-    {
       "site_id": "gcwcm450bjvd",
       "brand": "Asda",
       "address": "323 Horbury Road, Wakefield",
@@ -6481,20 +7755,6 @@
         "E5": 187.9,
         "B7": 197.9,
         "SDV": 213.9
-      }
-    },
-    {
-      "site_id": "gcpxptcrn7x8",
-      "brand": "Asda",
-      "address": "Wigmore Hall Shopping Centre, Luton",
-      "postcode": "LU2 9TA",
-      "location": {
-        "latitude": 51.888275,
-        "longitude": -0.37154
-      },
-      "prices": {
-        "E10": 173.9,
-        "B7": 197.9
       }
     },
     {
@@ -6589,20 +7849,6 @@
         "E10": 177.9,
         "E5": 196.9,
         "B7": 199.9
-      }
-    },
-    {
-      "site_id": "gcrnmkv4tvtj",
-      "brand": "Asda",
-      "address": "Old Mill Lane, Mansfield",
-      "postcode": "NG19 0HA",
-      "location": {
-        "latitude": 53.156435,
-        "longitude": -1.168417
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 198.7
       }
     },
     {
@@ -6781,20 +8027,6 @@
       }
     },
     {
-      "site_id": "gcjw7zyu1tsc",
-      "brand": "Asda",
-      "address": "Dowlais Top, Merthyr Tydfil",
-      "postcode": "CF48 2YF",
-      "location": {
-        "latitude": 51.765326,
-        "longitude": -3.336215
-      },
-      "prices": {
-        "E10": 176.9,
-        "B7": 199.9
-      }
-    },
-    {
       "site_id": "gcp55xs107mz",
       "brand": "Asda",
       "address": "Cocksford Down, Popham",
@@ -6823,20 +8055,6 @@
         "E10": 174.9,
         "E5": 193.9,
         "B7": 199.9
-      }
-    },
-    {
-      "site_id": "gcxnt0prcj3b",
-      "brand": "Asda",
-      "address": "2 North Street, Middlesbrough",
-      "postcode": "TS6 6AN",
-      "location": {
-        "latitude": 54.581436,
-        "longitude": -1.176521
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 198.7
       }
     },
     {
@@ -6930,20 +8148,6 @@
       }
     },
     {
-      "site_id": "gcprz7m8expy",
-      "brand": "Asda",
-      "address": "Bletcham Way, Milton Keynes",
-      "postcode": "MK1 1QB",
-      "location": {
-        "latitude": 52.005282,
-        "longitude": -0.72837
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 195.7
-      }
-    },
-    {
       "site_id": "u10ujfxzftxr",
       "brand": "Asda",
       "address": "Tothill Street, Ramsgate",
@@ -6956,20 +8160,6 @@
         "E10": 170.9,
         "E5": 186.9,
         "B7": 201.9
-      }
-    },
-    {
-      "site_id": "gcqdz7pnnj2t",
-      "brand": "Asda",
-      "address": "Walmley Ash Road, Sutton Coldfield",
-      "postcode": "B76 1XL",
-      "location": {
-        "latitude": 52.532751,
-        "longitude": -1.78046
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 199.7
       }
     },
     {
@@ -7300,20 +8490,6 @@
       }
     },
     {
-      "site_id": "gcp06sr7vbpb",
-      "brand": "Asda",
-      "address": "St Georges Way, Newport",
-      "postcode": "PO30 2QH",
-      "location": {
-        "latitude": 50.692935,
-        "longitude": -1.286173
-      },
-      "prices": {
-        "E10": 177.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcjv7yp4sd7p",
       "brand": "Asda",
       "address": "Lower Dock Street, Newport",
@@ -7321,20 +8497,6 @@
       "location": {
         "latitude": 51.581253,
         "longitude": -2.989457
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 196.7
-      }
-    },
-    {
-      "site_id": "gcjv71xf9h7r",
-      "brand": "Asda",
-      "address": "Pencarn Way - Coedkernew, Newport",
-      "postcode": "NP10 8XL",
-      "location": {
-        "latitude": 51.556544,
-        "longitude": -3.021536
       },
       "prices": {
         "E10": 174.7,
@@ -7496,34 +8658,6 @@
       }
     },
     {
-      "site_id": "u12gm2f242nb",
-      "brand": "Asda",
-      "address": "Hall Road, Norwich",
-      "postcode": "NR4 6DP",
-      "location": {
-        "latitude": 52.606659,
-        "longitude": 1.288596
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 197.7
-      }
-    },
-    {
-      "site_id": "u12gs9ppj79f",
-      "brand": "Asda",
-      "address": "Drayton High Road, Hellesdon",
-      "postcode": "NR6 5DT",
-      "location": {
-        "latitude": 52.654088,
-        "longitude": 1.263376
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 197.7
-      }
-    },
-    {
       "site_id": "gcrjn4dz7y94",
       "brand": "Asda",
       "address": "Loughborough Road, Nottingham",
@@ -7535,20 +8669,6 @@
       "prices": {
         "E10": 172.7,
         "B7": 196.7
-      }
-    },
-    {
-      "site_id": "gcqfy9ym7v8s",
-      "brand": "Asda",
-      "address": "Newtown Road, Nuneaton",
-      "postcode": "CV11 4FL",
-      "location": {
-        "latitude": 52.525387,
-        "longitude": -1.463363
-      },
-      "prices": {
-        "E10": 173.9,
-        "B7": 197.9
       }
     },
     {
@@ -7616,20 +8736,6 @@
       }
     },
     {
-      "site_id": "gcpuykmnqk3b",
-      "brand": "Asda",
-      "address": "464 - 504 Old Kent Road, London",
-      "postcode": "SE1 5AG",
-      "location": {
-        "latitude": 51.484397,
-        "longitude": -0.069791
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 193.7
-      }
-    },
-    {
       "site_id": "gcqdd59f012j",
       "brand": "Asda",
       "address": "Wolverhampton Road, Oldbury",
@@ -7641,20 +8747,6 @@
       "prices": {
         "E10": 176.7,
         "B7": 199.7
-      }
-    },
-    {
-      "site_id": "gcdy9dgsrd7p",
-      "brand": "Asda",
-      "address": "31 Dromore Road, Omagh",
-      "postcode": "BT78 1QZ",
-      "location": {
-        "latitude": 54.59587,
-        "longitude": -7.31181
-      },
-      "prices": {
-        "E10": 166.7,
-        "B7": 193.7
       }
     },
     {
@@ -7718,20 +8810,6 @@
         "E5": 185.9,
         "B7": 193.9,
         "SDV": 999.9
-      }
-    },
-    {
-      "site_id": "gcpv1u77ppgr",
-      "brand": "Asda",
-      "address": "2-20 Western Road, Park Royal, London",
-      "postcode": "NW10 7LW",
-      "location": {
-        "latitude": 51.52781,
-        "longitude": -0.26989
-      },
-      "prices": {
-        "E10": 169.7,
-        "B7": 197.7
       }
     },
     {
@@ -7799,20 +8877,6 @@
       }
     },
     {
-      "site_id": "gcnjhuugeu8y",
-      "brand": "Asda",
-      "address": "Highwood Lane, Bristol",
-      "postcode": "BS34 5TL",
-      "location": {
-        "latitude": 51.530692,
-        "longitude": -2.59649
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcw0e1fdv0dz",
       "brand": "Asda",
       "address": "Ormskirk Road, Wigan",
@@ -7829,20 +8893,6 @@
       }
     },
     {
-      "site_id": "gchqpdf5ktcy",
-      "brand": "Asda",
-      "address": "Gordon Street, Pembroke Dock",
-      "postcode": "SA72 6DA",
-      "location": {
-        "latitude": 51.694402,
-        "longitude": -4.94109
-      },
-      "prices": {
-        "E10": 168.7,
-        "B7": 195.7
-      }
-    },
-    {
       "site_id": "gcq7zucnpxwk",
       "brand": "Asda",
       "address": "Wolverhampton Road, Stafford",
@@ -7855,20 +8905,6 @@
         "E10": 174.9,
         "E5": 192.9,
         "B7": 202.9
-      }
-    },
-    {
-      "site_id": "gcjv0vdh6dwz",
-      "brand": "Asda",
-      "address": "8 Dering Road, Pontprennau, Cardiff",
-      "postcode": "CF23 8NL",
-      "location": {
-        "latitude": 51.536202,
-        "longitude": -3.13046
-      },
-      "prices": {
-        "E10": 174.9,
-        "B7": 199.9
       }
     },
     {
@@ -7888,20 +8924,6 @@
       }
     },
     {
-      "site_id": "gfj8csk45kv4",
-      "brand": "Asda",
-      "address": "89 Dunkeld Road, Perth",
-      "postcode": "PH1 5AP",
-      "location": {
-        "latitude": 56.408018,
-        "longitude": -3.444069
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gfnxnbvrxz2q",
       "brand": "Asda",
       "address": "Buchan Way, Peterhead",
@@ -7915,48 +8937,6 @@
         "E5": 191.9,
         "B7": 199.9,
         "SDV": 218.9
-      }
-    },
-    {
-      "site_id": "gfnxnth4uuex",
-      "brand": "Asda",
-      "address": "Longside Road, Peterhead",
-      "postcode": "AB42 2FY",
-      "location": {
-        "latitude": 57.508587,
-        "longitude": -1.818092
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 199.9
-      }
-    },
-    {
-      "site_id": "gcxp98ue5qhn",
-      "brand": "Asda",
-      "address": "Surtrees Road, Peterlee",
-      "postcode": "SR8 1AR",
-      "location": {
-        "latitude": 54.760527,
-        "longitude": -1.334007
-      },
-      "prices": {
-        "E10": 174.9,
-        "B7": 197.9
-      }
-    },
-    {
-      "site_id": "gcw2u382yrv1",
-      "brand": "Asda",
-      "address": "Pilsworth Road, Bury",
-      "postcode": "BL9 8RS",
-      "location": {
-        "latitude": 53.577771,
-        "longitude": -2.273519
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 196.7
       }
     },
     {
@@ -8017,20 +8997,6 @@
       "prices": {
         "E10": 174.9,
         "B7": 199.9
-      }
-    },
-    {
-      "site_id": "gbvnf8rw3070",
-      "brand": "Asda",
-      "address": "Leypark Drive - Estover, Plymouth",
-      "postcode": "PL6 8TB",
-      "location": {
-        "latitude": 50.407721,
-        "longitude": -4.09854
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 198.7
       }
     },
     {
@@ -8140,48 +9106,6 @@
       }
     },
     {
-      "site_id": "gcemts6khuyy",
-      "brand": "Asda",
-      "address": "Bridge Street, Portadown",
-      "postcode": "BT63 5AQ",
-      "location": {
-        "latitude": 54.426234,
-        "longitude": -6.437165
-      },
-      "prices": {
-        "E10": 166.7,
-        "B7": 189.7
-      }
-    },
-    {
-      "site_id": "gfnkxk18z6n7",
-      "brand": "Asda",
-      "address": "Muir End Road, Portlethen",
-      "postcode": "AB12 4XP",
-      "location": {
-        "latitude": 57.064144,
-        "longitude": -2.13523
-      },
-      "prices": {
-        "E10": 175.7,
-        "B7": 199.7
-      }
-    },
-    {
-      "site_id": "gcp0zrw7d6cb",
-      "brand": "Asda",
-      "address": "The Bridge Shopping Centre, Portsmouth",
-      "postcode": "PO1 1SL",
-      "location": {
-        "latitude": 50.79865,
-        "longitude": -1.078964
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 198.7
-      }
-    },
-    {
       "site_id": "gcqvp025pp5h",
       "brand": "Asda",
       "address": "Murdoch Road, Derby",
@@ -8244,20 +9168,6 @@
       }
     },
     {
-      "site_id": "gcjmhh254rk0",
-      "brand": "Asda",
-      "address": "Pyle Industrial Estate, Pyle Cross, Pyle, Bridgend",
-      "postcode": "CF33 6BU",
-      "location": {
-        "latitude": 51.527806,
-        "longitude": -3.691304
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 199.9
-      }
-    },
-    {
       "site_id": "gcmyf15wzzhc",
       "brand": "Asda",
       "address": "Church Street, Deeside",
@@ -8285,48 +9195,6 @@
       "prices": {
         "E10": 167.7,
         "B7": 188.7
-      }
-    },
-    {
-      "site_id": "gcmyejd5qm8y",
-      "brand": "Asda",
-      "address": "Aston Road, Queensferry",
-      "postcode": "CH5 1TP",
-      "location": {
-        "latitude": 53.205254,
-        "longitude": -3.027189
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 198.9
-      }
-    },
-    {
-      "site_id": "gcqduwd1xrpt",
-      "brand": "Asda",
-      "address": "6 Old Horns Crescent, Birmingham",
-      "postcode": "B43 7HA",
-      "location": {
-        "latitude": 52.55126,
-        "longitude": -1.90994
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 199.9
-      }
-    },
-    {
-      "site_id": "gcw2ejb6jefe",
-      "brand": "Asda",
-      "address": "Riverside Retail Park, Manchester",
-      "postcode": "M26 3DA",
-      "location": {
-        "latitude": 53.557314,
-        "longitude": -2.328534
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 194.7
       }
     },
     {
@@ -8467,20 +9335,6 @@
       }
     },
     {
-      "site_id": "gcqryv105sdd",
-      "brand": "Asda",
-      "address": "Manchester Road, Stockport",
-      "postcode": "SK4 1TN",
-      "location": {
-        "latitude": 53.420756,
-        "longitude": -2.163026
-      },
-      "prices": {
-        "E10": 174.9,
-        "B7": 199.9
-      }
-    },
-    {
       "site_id": "gctgw9fjxe5c",
       "brand": "Asda",
       "address": "Regents Road, Morecambe",
@@ -8545,20 +9399,6 @@
       }
     },
     {
-      "site_id": "gcmrrbuks3x5",
-      "brand": "Asda",
-      "address": "St Asaph Avenue North, Kinmel Bay, Rhyl",
-      "postcode": "LL18 5EQ",
-      "location": {
-        "latitude": 53.310565,
-        "longitude": -3.520583
-      },
-      "prices": {
-        "E10": 175.9,
-        "B7": 199.9
-      }
-    },
-    {
       "site_id": "gcwcbsg5sugh",
       "brand": "Asda",
       "address": "Rooley Lane, Bradford",
@@ -8572,34 +9412,6 @@
         "E5": 192.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcvjbwx75q31",
-      "brand": "Asda",
-      "address": "1 Monument Drive, Glasgow",
-      "postcode": "G33 1AD",
-      "location": {
-        "latitude": 55.89116,
-        "longitude": -4.184506
-      },
-      "prices": {
-        "E10": 171.9,
-        "B7": 197.7
-      }
-    },
-    {
-      "site_id": "gcw2yxvrw81e",
-      "brand": "Asda",
-      "address": "The Old Cricket Ground, Dane Street, Rochdale",
-      "postcode": "OL12 6XT",
-      "location": {
-        "latitude": 53.613196,
-        "longitude": -2.167802
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 197.7
       }
     },
     {
@@ -8696,20 +9508,6 @@
       }
     },
     {
-      "site_id": "gcx01cp1xhpt",
-      "brand": "Asda",
-      "address": "Alwdarke Lane, Off Doncaster Road, Rotherham",
-      "postcode": "S65 3SW",
-      "location": {
-        "latitude": 53.443273,
-        "longitude": -1.319422
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 197.7
-      }
-    },
-    {
       "site_id": "gcr6jvz3endr",
       "brand": "Asda",
       "address": "Kettering Road, Rothwell",
@@ -8773,20 +9571,6 @@
       }
     },
     {
-      "site_id": "gcr1gq0jp4vk",
-      "brand": "Asda",
-      "address": "12 Chapel Street, Rugby",
-      "postcode": "CV21 3EB",
-      "location": {
-        "latitude": 52.3727,
-        "longitude": -1.26312
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 196.7
-      }
-    },
-    {
       "site_id": "gcqp3y56nhrw",
       "brand": "Asda",
       "address": "Bridge Retail Park, Thomas Jones Way",
@@ -8800,34 +9584,6 @@
         "E5": 196.9,
         "B7": 202.9,
         "SDV": 221.9
-      }
-    },
-    {
-      "site_id": "gcqp6s1jc26c",
-      "brand": "Asda",
-      "address": "West Lane, Runcorn",
-      "postcode": "WA7 2PY",
-      "location": {
-        "latitude": 53.329873,
-        "longitude": -2.702799
-      },
-      "prices": {
-        "E10": 173.9,
-        "B7": 196.9
-      }
-    },
-    {
-      "site_id": "gcr9d21gq2hc",
-      "brand": "Asda",
-      "address": "Washbrook Road, Rushden",
-      "postcode": "NN10 6AA",
-      "location": {
-        "latitude": 52.29548,
-        "longitude": -0.60157
-      },
-      "prices": {
-        "E10": 175.9,
-        "B7": 199.9
       }
     },
     {
@@ -8987,34 +9743,6 @@
       }
     },
     {
-      "site_id": "gcx88rm2wuqc",
-      "brand": "Asda",
-      "address": "Burringham Road, Scunthorpe",
-      "postcode": "DN17 2XF",
-      "location": {
-        "latitude": 53.565325,
-        "longitude": -0.68463
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 196.9
-      }
-    },
-    {
-      "site_id": "gcmztpvzsc1v",
-      "brand": "Asda",
-      "address": "126 Smithdown Road, Liverpool",
-      "postcode": "L15 3JR",
-      "location": {
-        "latitude": 53.391738,
-        "longitude": -2.932798
-      },
-      "prices": {
-        "E10": 173.9,
-        "B7": 195.9
-      }
-    },
-    {
       "site_id": "gcp2wjr7t0ry",
       "brand": "Asda",
       "address": "Unit 1, Wave Approach, Selsey, Chichester",
@@ -9092,20 +9820,6 @@
       }
     },
     {
-      "site_id": "gcrp3p10u9ze",
-      "brand": "Asda",
-      "address": "Beighton Road East, Sheffield",
-      "postcode": "S20 7AB",
-      "location": {
-        "latitude": 53.344255,
-        "longitude": -1.360728
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 196.7
-      }
-    },
-    {
       "site_id": "gcqzwk21rs32",
       "brand": "Asda",
       "address": "158 Ecclesall Road, Sheffield",
@@ -9133,20 +9847,6 @@
       "prices": {
         "E10": 173.9,
         "B7": 198.9
-      }
-    },
-    {
-      "site_id": "gcrp8hz09bfp",
-      "brand": "Asda",
-      "address": "Handsworth Road, Sheffield",
-      "postcode": "S13 9LR",
-      "location": {
-        "latitude": 53.375793,
-        "longitude": -1.396559
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 196.9
       }
     },
     {
@@ -9227,20 +9927,6 @@
       }
     },
     {
-      "site_id": "u10t1y89mr2r",
-      "brand": "Asda",
-      "address": "North Shoebury Road, Shoeburyness",
-      "postcode": "SS3 8DA",
-      "location": {
-        "latitude": 51.538509,
-        "longitude": 0.781887
-      },
-      "prices": {
-        "E10": 175.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcpmp2csx1t0",
       "brand": "Asda",
       "address": "Shoppenhangers Road, Maidenhead",
@@ -9253,20 +9939,6 @@
         "E10": 181.9,
         "E5": 200.9,
         "B7": 201.9
-      }
-    },
-    {
-      "site_id": "gcq5cdkkm4bd",
-      "brand": "Asda",
-      "address": "Old Potts Way, Shrewsbury",
-      "postcode": "SY3 7ET",
-      "location": {
-        "latitude": 52.70352,
-        "longitude": -2.740529
-      },
-      "prices": {
-        "E10": 176.7,
-        "B7": 199.7
       }
     },
     {
@@ -9298,20 +9970,6 @@
         "E10": 166.9,
         "E5": 185.9,
         "B7": 195.9
-      }
-    },
-    {
-      "site_id": "gcquy1b4sfxy",
-      "brand": "Asda",
-      "address": "Sinfin Shopping Centre, Derby",
-      "postcode": "DE24 3DS",
-      "location": {
-        "latitude": 52.876267,
-        "longitude": -1.493926
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 199.9
       }
     },
     {
@@ -9347,20 +10005,6 @@
       }
     },
     {
-      "site_id": "u10s0uk1e8wp",
-      "brand": "Asda",
-      "address": "Mill Way - Trinity Trading Estate, Sittingbourne",
-      "postcode": "ME10 2PD",
-      "location": {
-        "latitude": 51.349663,
-        "longitude": 0.741699
-      },
-      "prices": {
-        "E10": 174.9,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcnx1mkuxnc2",
       "brand": "Asda",
       "address": "London Road, Cheltenham",
@@ -9391,48 +10035,6 @@
       }
     },
     {
-      "site_id": "gcw08v1njh6k",
-      "brand": "Asda",
-      "address": "Ingram Road, Skelmersdale",
-      "postcode": "WN8 6LU",
-      "location": {
-        "latitude": 53.553246,
-        "longitude": -2.778957
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 195.9
-      }
-    },
-    {
-      "site_id": "gcxq6j8z57ry",
-      "brand": "Asda",
-      "address": "Pheasant Fields Lane, Skelton, Saltburn-by-the-Sea",
-      "postcode": "TS12 2ZL",
-      "location": {
-        "latitude": 54.567543,
-        "longitude": -0.965606
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 198.7
-      }
-    },
-    {
-      "site_id": "gcpt18ty3dze",
-      "brand": "Asda",
-      "address": "Telford Drive, Slough",
-      "postcode": "SL1 9LA",
-      "location": {
-        "latitude": 51.507741,
-        "longitude": -0.629236
-      },
-      "prices": {
-        "E10": 171.9,
-        "B7": 195.9
-      }
-    },
-    {
       "site_id": "gcpt16g7fejp",
       "brand": "Asda",
       "address": "395 Bath Road, Slough",
@@ -9445,20 +10047,6 @@
         "E10": 173.9,
         "E5": 192.9,
         "B7": 197.9
-      }
-    },
-    {
-      "site_id": "gcqdqnf6dbjr",
-      "brand": "Asda",
-      "address": "859 Coventry Road, Small Heath",
-      "postcode": "B10 0HH",
-      "location": {
-        "latitude": 52.464267,
-        "longitude": -1.842488
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 199.7
       }
     },
     {
@@ -9572,48 +10160,6 @@
       }
     },
     {
-      "site_id": "gcybz79sgnt5",
-      "brand": "Asda",
-      "address": "Coronation Street, South Shields",
-      "postcode": "NE33 1AZ",
-      "location": {
-        "latitude": 54.9962,
-        "longitude": -1.43648
-      },
-      "prices": {
-        "E10": 171.9,
-        "B7": 195.9
-      }
-    },
-    {
-      "site_id": "u10my16n7b2e",
-      "brand": "Asda",
-      "address": "1-10 Queen Elizabeth Square, Chelmsford",
-      "postcode": "CM3 5TB",
-      "location": {
-        "latitude": 51.643683,
-        "longitude": 0.618142
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 198.7
-      }
-    },
-    {
-      "site_id": "u12k4pnn5sp1",
-      "brand": "Asda",
-      "address": "Langley Road, South Wootton, Kings Lynn",
-      "postcode": "PE30 3UG",
-      "location": {
-        "latitude": 52.773744,
-        "longitude": 0.448099
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 199.9
-      }
-    },
-    {
       "site_id": "gcr8t9369d73",
       "brand": "Asda",
       "address": "73 London Road, Bedford",
@@ -9708,20 +10254,6 @@
       }
     },
     {
-      "site_id": "gbuw77572fks",
-      "brand": "Asda",
-      "address": "Cromwell Road, Saint Austell",
-      "postcode": "PL25 4PR",
-      "location": {
-        "latitude": 50.333291,
-        "longitude": -4.77409
-      },
-      "prices": {
-        "E10": 175.7,
-        "B7": 198.7
-      }
-    },
-    {
       "site_id": "gcw01e1d0q63",
       "brand": "Asda",
       "address": "Kirkland Street, St Helens",
@@ -9779,20 +10311,6 @@
       "prices": {
         "E10": 178.9,
         "B7": 201.9
-      }
-    },
-    {
-      "site_id": "u103ksk31sf4",
-      "brand": "Asda",
-      "address": "Battle Road, Saint Leonards",
-      "postcode": "TN37 7AA",
-      "location": {
-        "latitude": 50.86827,
-        "longitude": 0.55522
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 198.7
       }
     },
     {
@@ -9876,20 +10394,6 @@
       }
     },
     {
-      "site_id": "gcqkruzut0ep",
-      "brand": "Asda",
-      "address": "Queensway, Stafford",
-      "postcode": "ST16 3TA",
-      "location": {
-        "latitude": 52.804175,
-        "longitude": -2.106814
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 197.7
-      }
-    },
-    {
       "site_id": "gcpss29u1jbc",
       "brand": "Asda",
       "address": "Chertsey Lane, Egham Hythe, Staines",
@@ -9968,20 +10472,6 @@
       }
     },
     {
-      "site_id": "gcpz5rv8xb7q",
-      "brand": "Asda",
-      "address": "Monkswood Way, Stevenage",
-      "postcode": "SG1 1LA",
-      "location": {
-        "latitude": 51.898129,
-        "longitude": -0.20085
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 191.7
-      }
-    },
-    {
       "site_id": "gcvpnyfvrgxf",
       "brand": "Asda",
       "address": "Kerse Road, Stirling",
@@ -10010,20 +10500,6 @@
         "E10": 172.9,
         "E5": 191.9,
         "B7": 196.9
-      }
-    },
-    {
-      "site_id": "gcxn6yf7g95c",
-      "brand": "Asda",
-      "address": "Portrack Lane, Stockton on Tees",
-      "postcode": "TS18 2PB",
-      "location": {
-        "latitude": 54.570701,
-        "longitude": -1.285191
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 199.7
       }
     },
     {
@@ -10120,34 +10596,6 @@
       }
     },
     {
-      "site_id": "gcdxyj9wh5qe",
-      "brand": "Asda",
-      "address": "2 Branch Road, Strabane",
-      "postcode": "BT82 8EQ",
-      "location": {
-        "latitude": 54.830803,
-        "longitude": -7.471151
-      },
-      "prices": {
-        "E10": 166.9,
-        "B7": 196.9
-      }
-    },
-    {
-      "site_id": "gcvtzu77vzbb",
-      "brand": "Asda",
-      "address": "Pentland Road, Loanhead",
-      "postcode": "EH20 9NY",
-      "location": {
-        "latitude": 55.878314,
-        "longitude": -3.170285
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 193.7
-      }
-    },
-    {
       "site_id": "gcqc7sjxr5e8",
       "brand": "Asda",
       "address": "54 Stratford Road, Warwick",
@@ -10241,20 +10689,6 @@
       }
     },
     {
-      "site_id": "gcz00wzg7qnp",
-      "brand": "Asda",
-      "address": "Leechmere Road Industrial Estate, Sunderland",
-      "postcode": "SR2 9TT",
-      "location": {
-        "latitude": 54.880843,
-        "longitude": -1.371798
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 198.9
-      }
-    },
-    {
       "site_id": "gcz02q89bbty",
       "brand": "Asda",
       "address": "Thompson Road, Sunderland",
@@ -10298,20 +10732,6 @@
       }
     },
     {
-      "site_id": "gcjjyv5yyxbz",
-      "brand": "Asda",
-      "address": "Upper Forest Way, Swansea",
-      "postcode": "SA6 8PS",
-      "location": {
-        "latitude": 51.664422,
-        "longitude": -3.916828
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 198.7
-      }
-    },
-    {
       "site_id": "u12gs8tfmvc7",
       "brand": "Asda",
       "address": "Sweet Briar Road, Norwich",
@@ -10325,20 +10745,6 @@
         "E5": 193.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcntwcj1wh6p",
-      "brand": "Asda",
-      "address": "Unit A1, North Swindon District Centre, Swindon",
-      "postcode": "SN25 4BG",
-      "location": {
-        "latitude": 51.59724,
-        "longitude": -1.805133
-      },
-      "prices": {
-        "E10": 174.7,
-        "B7": 198.7
       }
     },
     {
@@ -10370,34 +10776,6 @@
         "E10": 177.9,
         "E5": 196.9,
         "B7": 201.9
-      }
-    },
-    {
-      "site_id": "gfm0gge2khwv",
-      "brand": "Asda",
-      "address": "Knockbreck Road, Tain",
-      "postcode": "IV19 1NZ",
-      "location": {
-        "latitude": 57.803612,
-        "longitude": -4.048216
-      },
-      "prices": {
-        "E10": 175.7,
-        "B7": 199.7
-      }
-    },
-    {
-      "site_id": "gcqg3k1ns59q",
-      "brand": "Asda",
-      "address": "Ventura Road, Tamworth",
-      "postcode": "B78 3HB",
-      "location": {
-        "latitude": 52.625595,
-        "longitude": -1.701441
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 198.7
       }
     },
     {
@@ -10448,20 +10826,6 @@
       }
     },
     {
-      "site_id": "gcjf3b7e15gs",
-      "brand": "Asda",
-      "address": "Creechbarrow Road, Taunton",
-      "postcode": "TA1 2AN",
-      "location": {
-        "latitude": 51.022417,
-        "longitude": -3.082304
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 198.7
-      }
-    },
-    {
       "site_id": "gcq5zsg00b1u",
       "brand": "Asda",
       "address": "Hadley Park East, Telford",
@@ -10475,20 +10839,6 @@
         "E5": 195.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcq78jqcbz2y",
-      "brand": "Asda",
-      "address": "Malinsgate, Telford",
-      "postcode": "TF3 4HZ",
-      "location": {
-        "latitude": 52.676235,
-        "longitude": -2.45129
-      },
-      "prices": {
-        "E10": 177.9,
-        "B7": 199.9
       }
     },
     {
@@ -10540,34 +10890,6 @@
       }
     },
     {
-      "site_id": "gcxn68m6sfec",
-      "brand": "Asda",
-      "address": "Allensway, Thornaby, Stockton on Tees",
-      "postcode": "TS17 9EN",
-      "location": {
-        "latitude": 54.537949,
-        "longitude": -1.288968
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 199.7
-      }
-    },
-    {
-      "site_id": "gcr5xqch65jq",
-      "brand": "Asda",
-      "address": "Barkby Thorpe Lane, Leicester",
-      "postcode": "LE4 8GN",
-      "location": {
-        "latitude": 52.68431,
-        "longitude": -1.08618
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 196.7
-      }
-    },
-    {
       "site_id": "gcng6peubp56",
       "brand": "Asda",
       "address": "St Andrews Road, Tidworth",
@@ -10584,20 +10906,6 @@
       }
     },
     {
-      "site_id": "u10hzcu9pu4t",
-      "brand": "Asda",
-      "address": "Thurrock Park Way, Tilbury",
-      "postcode": "RM18 7HJ",
-      "location": {
-        "latitude": 51.469768,
-        "longitude": 0.347092
-      },
-      "prices": {
-        "E10": 171.9,
-        "B7": 197.9
-      }
-    },
-    {
       "site_id": "gcpkb2hdstg0",
       "brand": "Asda",
       "address": "12/14 School Road, Tilehurst, Reading",
@@ -10609,20 +10917,6 @@
       "prices": {
         "E10": 176.7,
         "B7": 199.7
-      }
-    },
-    {
-      "site_id": "gcqdcjw7qgwg",
-      "brand": "Asda",
-      "address": "Wednesbury Oak Road, Tipton",
-      "postcode": "DY4 0BP",
-      "location": {
-        "latitude": 52.544378,
-        "longitude": -2.05604
-      },
-      "prices": {
-        "E10": 174.9,
-        "B7": 199.9
       }
     },
     {
@@ -10685,20 +10979,6 @@
       }
     },
     {
-      "site_id": "gcuvx7w0dgb0",
-      "brand": "Asda",
-      "address": "555 Prospecthill Road, Glasgow",
-      "postcode": "G42 0AE",
-      "location": {
-        "latitude": 55.829879,
-        "longitude": -4.243351
-      },
-      "prices": {
-        "E10": 170.7,
-        "B7": 193.7
-      }
-    },
-    {
       "site_id": "gcpvtfttgwgm",
       "brand": "Asda",
       "address": "335-337 White Hart Lane, Tottenham, London",
@@ -10741,20 +11021,6 @@
         "E5": 193.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcw24tsr48n1",
-      "brand": "Asda",
-      "address": "Barton Dock Road, Manchester",
-      "postcode": "M41 7ZA",
-      "location": {
-        "latitude": 53.46899,
-        "longitude": -2.343506
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 197.7
       }
     },
     {
@@ -10912,34 +11178,6 @@
       }
     },
     {
-      "site_id": "gcwcjydtndc4",
-      "brand": "Asda",
-      "address": "Asdale Road, Wakefield",
-      "postcode": "WF2 7EQ",
-      "location": {
-        "latitude": 53.649515,
-        "longitude": -1.499387
-      },
-      "prices": {
-        "E10": 172.9,
-        "B7": 197.9
-      }
-    },
-    {
-      "site_id": "gcpum0e02sfs",
-      "brand": "Asda",
-      "address": "Marlow Way, Croydon",
-      "postcode": "CR0 4XS",
-      "location": {
-        "latitude": 51.374886,
-        "longitude": -0.127691
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 197.7
-      }
-    },
-    {
       "site_id": "gcpvrm45kt2z",
       "brand": "Asda",
       "address": "124 Markhouse Road, London",
@@ -11034,20 +11272,6 @@
       }
     },
     {
-      "site_id": "gcp32w2den1u",
-      "brand": "Asda",
-      "address": "Portland Road, Waterlooville",
-      "postcode": "PO7 7XR",
-      "location": {
-        "latitude": 50.879521,
-        "longitude": -1.031897
-      },
-      "prices": {
-        "E10": 176.7,
-        "B7": 198.7
-      }
-    },
-    {
       "site_id": "gcjkyy8kq009",
       "brand": "Asda",
       "address": "Bridgend by-pass, Bridgend",
@@ -11061,20 +11285,6 @@
         "E5": 188.9,
         "B7": 199.9,
         "SDV": 218.9
-      }
-    },
-    {
-      "site_id": "gcpwp0h40t04",
-      "brand": "Asda",
-      "address": "Odhams Industrial Estate, St Albans Road, Watford",
-      "postcode": "WD24 7RT",
-      "location": {
-        "latitude": 51.680033,
-        "longitude": -0.389979
-      },
-      "prices": {
-        "E10": 169.7,
-        "B7": 189.7
       }
     },
     {
@@ -11126,20 +11336,6 @@
       }
     },
     {
-      "site_id": "gcpv3ep6en2h",
-      "brand": "Asda",
-      "address": "Forty Lane, Wembley",
-      "postcode": "HA9 9EX",
-      "location": {
-        "latitude": 51.564791,
-        "longitude": -0.275559
-      },
-      "prices": {
-        "E10": 175.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gbvn7q0j275y",
       "brand": "Asda",
       "address": "Wembury Road, Plymouth",
@@ -11187,34 +11383,6 @@
       }
     },
     {
-      "site_id": "gcntq6hbsjcp",
-      "brand": "Asda",
-      "address": "West Swindon Shopping Centre, Swindon",
-      "postcode": "SN5 7DL",
-      "location": {
-        "latitude": 51.557876,
-        "longitude": -1.825442
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 198.7
-      }
-    },
-    {
-      "site_id": "gcqpu4msxd28",
-      "brand": "Asda",
-      "address": "Westbrook Shopping Centre, Warrington",
-      "postcode": "WA5 8UG",
-      "location": {
-        "latitude": 53.408246,
-        "longitude": -2.629926
-      },
-      "prices": {
-        "E10": 171.9,
-        "B7": 191.9
-      }
-    },
-    {
       "site_id": "gcxnpz2qeyuv",
       "brand": "Asda",
       "address": "Westend, Guisborough",
@@ -11228,20 +11396,6 @@
         "E5": 190.9,
         "B7": 199.9,
         "SDV": 218.9
-      }
-    },
-    {
-      "site_id": "gcjuhdqt55xc",
-      "brand": "Asda",
-      "address": "Phillips Road (off Winterstoke Road), Weston-super-Mare",
-      "postcode": "BS23 3UZ",
-      "location": {
-        "latitude": 51.341362,
-        "longitude": -2.957243
-      },
-      "prices": {
-        "E10": 176.9,
-        "B7": 199.9
       }
     },
     {
@@ -11340,20 +11494,6 @@
       }
     },
     {
-      "site_id": "gcpnqe713kmy",
-      "brand": "Asda",
-      "address": "London Road, Wheatley",
-      "postcode": "OX33 1YZ",
-      "location": {
-        "latitude": 51.741724,
-        "longitude": -1.116424
-      },
-      "prices": {
-        "E10": 176.9,
-        "B7": 198.9
-      }
-    },
-    {
       "site_id": "gcyb9fs3xgvr",
       "brand": "Asda",
       "address": "Front Street, Whickham",
@@ -11400,20 +11540,6 @@
       }
     },
     {
-      "site_id": "gcqp9fgdz63c",
-      "brand": "Asda",
-      "address": "Widnes Road, Widnes",
-      "postcode": "WA8 6AH",
-      "location": {
-        "latitude": 53.363929,
-        "longitude": -2.73121
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 194.7
-      }
-    },
-    {
       "site_id": "gcqcbpu2em9t",
       "brand": "Asda",
       "address": "Widney Road, Solihull",
@@ -11427,20 +11553,6 @@
         "E5": 192.9,
         "B7": 202.9,
         "SDV": 221.9
-      }
-    },
-    {
-      "site_id": "gcw0eg0pvx9x",
-      "brand": "Asda",
-      "address": "Soho Street, Robin Park, Wigan",
-      "postcode": "WN5 0XA",
-      "location": {
-        "latitude": 53.543242,
-        "longitude": -2.647467
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 195.7
       }
     },
     {
@@ -11571,48 +11683,6 @@
       }
     },
     {
-      "site_id": "gcps5btq1z1t",
-      "brand": "Asda",
-      "address": "Forsyth Road, Sheerwater, Woking",
-      "postcode": "GU21 5SE",
-      "location": {
-        "latitude": 51.33194,
-        "longitude": -0.531043
-      },
-      "prices": {
-        "E10": 173.9,
-        "B7": 199.9
-      }
-    },
-    {
-      "site_id": "gcqmttrhmrd8",
-      "brand": "Asda",
-      "address": "Wolstanton Retail Park, Newcastle under Lyme",
-      "postcode": "ST5 0AP",
-      "location": {
-        "latitude": 53.027655,
-        "longitude": -2.209396
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 191.7
-      }
-    },
-    {
-      "site_id": "gcq7pw1sgfq9",
-      "brand": "Asda",
-      "address": "Jack Hayward Way - Waterloo Road, Wolverhampton",
-      "postcode": "WV1 4DE",
-      "location": {
-        "latitude": 52.59238,
-        "longitude": -2.129117
-      },
-      "prices": {
-        "E10": 171.9,
-        "B7": 194.9
-      }
-    },
-    {
       "site_id": "gcwgju218bqy",
       "brand": "Asda",
       "address": "135 Wetherby Road, Harrogate",
@@ -11675,34 +11745,6 @@
       }
     },
     {
-      "site_id": "gctqzn5vkyub",
-      "brand": "Asda",
-      "address": "Dunmail Park, Workington",
-      "postcode": "CA14 1NQ",
-      "location": {
-        "latitude": 54.65792,
-        "longitude": -3.55421
-      },
-      "prices": {
-        "E10": 172.7,
-        "B7": 199.7
-      }
-    },
-    {
-      "site_id": "gcrpq13s7uyc",
-      "brand": "Asda",
-      "address": "Sandy Lane, Worksop",
-      "postcode": "S80 3ET",
-      "location": {
-        "latitude": 53.313285,
-        "longitude": -1.140348
-      },
-      "prices": {
-        "E10": 173.7,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcw23t7shw2g",
       "brand": "Asda",
       "address": "Walkden Road, Manchester",
@@ -11732,20 +11774,6 @@
         "E5": 194.9,
         "B7": 201.9,
         "SDV": 220.9
-      }
-    },
-    {
-      "site_id": "gcmvu13t69pr",
-      "brand": "Asda",
-      "address": "Holt Road, Wrexham",
-      "postcode": "LL13 8HL",
-      "location": {
-        "latitude": 53.049168,
-        "longitude": -2.986174
-      },
-      "prices": {
-        "E10": 171.7,
-        "B7": 195.7
       }
     },
     {
@@ -11825,20 +11853,6 @@
       }
     },
     {
-      "site_id": "gcn1g3bvm2q0",
-      "brand": "Asda",
-      "address": "Preston Road, Yeovil",
-      "postcode": "BA20 2HB",
-      "location": {
-        "latitude": 50.941891,
-        "longitude": -2.666191
-      },
-      "prices": {
-        "E10": 169.9,
-        "B7": 199.7
-      }
-    },
-    {
       "site_id": "gcx5n2j7d2x6",
       "brand": "Asda",
       "address": "97 Boroughbridge Road, York",
@@ -11852,20 +11866,6 @@
         "E5": 190.9,
         "B7": 195.9,
         "SDV": 213.9
-      }
-    },
-    {
-      "site_id": "gcx705zwkbn6",
-      "brand": "Asda",
-      "address": "Jockey Lane - Monks Cross, York",
-      "postcode": "YO32 9LF",
-      "location": {
-        "latitude": 53.987035,
-        "longitude": -1.042137
-      },
-      "prices": {
-        "E10": 169.7,
-        "B7": 188.7
       }
     },
     {
