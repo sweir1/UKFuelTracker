@@ -1,5 +1,5 @@
 {
-  "last_updated": "10/11/2026 10:21:48",
+  "last_updated": "11/11/2026 11:00:00",
   "stations": [
     {
       "site_id": "gcqfn1wd5k4j",
@@ -91,7 +91,7 @@
     },
     {
       "site_id": "gcmzsvd7bbrf",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "17A Aigburth Road, Liverpool",
       "postcode": "L17 4JP",
       "location": {
@@ -212,7 +212,7 @@
     },
     {
       "site_id": "gcwfmhm1kf01",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "495 Harrogate Road, Leeds",
       "postcode": "LS17 7DA",
       "location": {
@@ -2176,7 +2176,7 @@
     },
     {
       "site_id": "u10k8fzv2xg3",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "Rochester Road, Gravesend",
       "postcode": "DA12 4TN",
       "location": {
@@ -2746,7 +2746,7 @@
     },
     {
       "site_id": "gcj2uvr2v9t2",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "Exeter Road, Crediton",
       "postcode": "EX17 3BN",
       "location": {
@@ -2762,7 +2762,7 @@
     },
     {
       "site_id": "gcrp8kh7pmrn",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "320 Handsworth Road, Sheffield",
       "postcode": "S13 9BX",
       "location": {
@@ -2810,7 +2810,7 @@
     },
     {
       "site_id": "gcjz093cqr93",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "Brecon Road, Powys",
       "postcode": "NP8 1DE",
       "location": {
@@ -2902,7 +2902,7 @@
     },
     {
       "site_id": "gcjvfb959f32",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "Henllys Way, Newport",
       "postcode": "NP44 3JA",
       "location": {
@@ -3360,7 +3360,7 @@
     },
     {
       "site_id": "gcnhvfd3t035",
-      "brand": "Asda",
+      "brand": "Valero",
       "address": "Muller Road, Bristol",
       "postcode": "BS5 6PX",
       "location": {
@@ -3634,7 +3634,7 @@
     },
     {
       "site_id": "gcqp9xq72y04",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "184-186 Lunts Heath Road, Halton",
       "postcode": "WA8 5AZ",
       "location": {
@@ -4971,7 +4971,7 @@
     },
     {
       "site_id": "gcpszt1twvw4",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "Heston Road, Hounslow",
       "postcode": "TW5 0RG",
       "location": {
@@ -6025,7 +6025,7 @@
     },
     {
       "site_id": "gcwcuub286sb",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "303 Dewsbury Road, Leeds",
       "postcode": "LS11 5LQ",
       "location": {
@@ -6141,7 +6141,7 @@
     },
     {
       "site_id": "gctb5gyt0w4w",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "Linacre Lane, Sefton",
       "postcode": "L20 5AG",
       "location": {
@@ -7440,8 +7440,8 @@
       "address": "Northgate, Birmingham",
       "postcode": "WS9 8TH",
       "location": {
-        "latitude": 52.614382,
-        "longitude": -1.922074
+        "latitude": 52.617362,
+        "longitude": -1.923898
       },
       "prices": {
         "E10": 172.9,
@@ -8362,7 +8362,7 @@
     },
     {
       "site_id": "gcqpbu9vvtvp",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "Warrington Road, Liverpool",
       "postcode": "L35 9JB",
       "location": {
@@ -8407,7 +8407,7 @@
     },
     {
       "site_id": "gcx01t0wyuk7",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "Dale Road, Sheffield",
       "postcode": "S62 7BY",
       "location": {
@@ -9831,7 +9831,7 @@
     },
     {
       "site_id": "gcqu6gm8pcbz",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "St Peters Bridge, Burton-on-Trent",
       "postcode": "DE15 9AW",
       "location": {
@@ -9907,12 +9907,12 @@
     },
     {
       "site_id": "gcw0g567t2de",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "Almond Brook Road, Wigan",
       "postcode": "WN6 0SR",
       "location": {
-        "latitude": 53.587792,
-        "longitude": -2.677345
+        "latitude": 53.588666,
+        "longitude": -2.68125
       },
       "prices": {
         "E10": 171.9,
@@ -9923,7 +9923,7 @@
     },
     {
       "site_id": "gcwcqrcwyqhx",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "Aberford Road, Wakefield",
       "postcode": "WF3 4NF",
       "location": {
@@ -10001,7 +10001,7 @@
     },
     {
       "site_id": "gcqrxr4yzunz",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "297-309 Buxton Road, Stockport",
       "postcode": "SK2 7NR",
       "location": {
@@ -10076,7 +10076,7 @@
     },
     {
       "site_id": "gcq6r79nv6c6",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "156 Hagley Road, Dudley",
       "postcode": "DY8 2JL",
       "location": {
@@ -10212,7 +10212,7 @@
     },
     {
       "site_id": "gcp1h7g2k1bh",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "Stubbington Lane, Fareham",
       "postcode": "PO14 2PN",
       "location": {
@@ -10436,7 +10436,7 @@
     },
     {
       "site_id": "gcjf1xfc6gqt",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "Priory Bridge Road, Taunton",
       "postcode": "TA1 1QD",
       "location": {
@@ -10883,7 +10883,7 @@
     },
     {
       "site_id": "gcmx2ctpxfsp",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "193 Vale Road, Conwy",
       "postcode": "LL18 2PH",
       "location": {
@@ -11097,7 +11097,7 @@
     },
     {
       "site_id": "gcr3x2env7et",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "1-3 Rossetti Close, Wellingborough",
       "postcode": "NN8 3FQ",
       "location": {
@@ -11511,7 +11511,7 @@
     },
     {
       "site_id": "gcqrm59v0k32",
-      "brand": "Asda",
+      "brand": "ASDA Fuel",
       "address": "Hawthorne Street, Wilmslow",
       "postcode": "SK9 5EH",
       "location": {
