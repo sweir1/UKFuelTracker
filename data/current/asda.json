@@ -245,11 +245,11 @@
     {
       "site_id": "gctfeh7y8ct5",
       "brand": "Asda",
-      "address": "Fleetwood Road, Thornton-Cleveleys",
+      "address": "332 Fleetwood Road, Blackpool",
       "postcode": "FY5 1LZ",
       "location": {
-        "latitude": 53.901423,
-        "longitude": -3.027037
+        "latitude": 53.871855,
+        "longitude": -3.043173
       },
       "prices": {
         "E10": 162.9,
